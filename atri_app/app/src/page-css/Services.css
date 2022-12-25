@@ -72,8 +72,8 @@ row-gap: ;
 flex-wrap: wrap;
 justify-content: space-between;
 font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 1.6em;
+font-weight: 500;
+font-size: 1.7em;
 }
 .p-Services.Flex99 {
 display: flex;
@@ -132,7 +132,7 @@ max-width: 100%;
 width: 16px;
 }
 .p-Services.Link116 {
-;
+cursor: pointer;
 }
 .p-Services.TextBox70 {
 ;
@@ -208,7 +208,7 @@ font-weight: 700;
 }
 .p-Services.TextBox72 {
 color: #666666;
-font-size: 1.5em;
+font-size: 1.6em;
 font-family: IBM Plex Sans;
 font-weight: 400;
 }
@@ -220,7 +220,7 @@ width: 203px;
 }
 .p-Services.TextBox71 {
 color: #5c5c5c;
-font-size: 1.5em;
+font-size: 1.6em;
 font-family: IBM Plex Sans;
 font-weight: 700;
 }

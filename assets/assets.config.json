@@ -13,5 +13,68 @@
   },
   "flogo.svg": {
     "mime": "image/svg+xml"
+  },
+  "trusti1.png": {
+    "mime": "image/png"
+  },
+  "trusti2.png": {
+    "mime": "image/png"
+  },
+  "trusti3.png": {
+    "mime": "image/png"
+  },
+  "trusti4.png": {
+    "mime": "image/png"
+  },
+  "service1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "service2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "service3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "project1.png": {
+    "mime": "image/png"
+  },
+  "project2.png": {
+    "mime": "image/png"
+  },
+  "project3.png": {
+    "mime": "image/png"
+  },
+  "project4.png": {
+    "mime": "image/png"
+  },
+  "project5.png": {
+    "mime": "image/png"
+  },
+  "product1.png": {
+    "mime": "image/png"
+  },
+  "product2.png": {
+    "mime": "image/png"
+  },
+  "product3.png": {
+    "mime": "image/png"
+  },
+  "product4.png": {
+    "mime": "image/png"
+  },
+  "warrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrow-rotate.svg": {
+    "mime": "image/svg+xml"
+  },
+  "commas.svg": {
+    "mime": "image/svg+xml"
+  },
+  "testimonial1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "comma.svg": {
+    "mime": "image/svg+xml"
   }
 }

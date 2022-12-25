@@ -1,6 +1,9 @@
 {
-  "Flex": 129,
-  "TextBox": 80,
-  "Image": 36,
-  "Link": 160
+  "Flex": 309,
+  "TextBox": 216,
+  "Image": 85,
+  "Link": 160,
+  "Icon": 15,
+  "Accordion": 5,
+  "Testimonial": 1
 }
