@@ -1,0 +1,6 @@
+button.accordion{
+    background-color: black;
+}
+button.accordion.active{
+    background-color: black;
+}

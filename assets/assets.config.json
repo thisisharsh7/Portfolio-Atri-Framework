@@ -76,5 +76,14 @@
   },
   "comma.svg": {
     "mime": "image/svg+xml"
+  },
+  "work1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "work2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "work3.svg": {
+    "mime": "image/svg+xml"
   }
 }

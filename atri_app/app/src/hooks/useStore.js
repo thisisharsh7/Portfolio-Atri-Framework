@@ -176,43 +176,76 @@ const desktopModeProps = {
     "Flex177": {
       "callbacks": {}
     },
+    "Flex176": {
+      "callbacks": {}
+    },
+    "Flex226": {
+      "callbacks": {}
+    },
+    "Flex335": {
+      "callbacks": {}
+    },
+    "Flex343": {
+      "callbacks": {}
+    },
     "Flex175": {
-      "callbacks": {}
-    },
-    "Flex227": {
-      "callbacks": {}
-    },
-    "Flex228": {
       "callbacks": {}
     },
     "Flex230": {
       "callbacks": {}
     },
+    "Flex322": {
+      "callbacks": {}
+    },
     "Flex229": {
       "callbacks": {}
     },
-    "Flex232": {
+    "Flex325": {
       "callbacks": {}
     },
-    "Flex231": {
+    "Flex324": {
       "callbacks": {}
     },
-    "Flex234": {
+    "Flex323": {
       "callbacks": {}
     },
-    "Flex233": {
+    "Flex328": {
       "callbacks": {}
     },
-    "Flex236": {
+    "Flex327": {
       "callbacks": {}
     },
-    "Flex235": {
+    "Flex326": {
       "callbacks": {}
     },
-    "Flex176": {
+    "Flex331": {
       "callbacks": {}
     },
-    "Flex226": {
+    "Flex330": {
+      "callbacks": {}
+    },
+    "Flex329": {
+      "callbacks": {}
+    },
+    "Flex334": {
+      "callbacks": {}
+    },
+    "Flex333": {
+      "callbacks": {}
+    },
+    "Flex332": {
+      "callbacks": {}
+    },
+    "Flex339": {
+      "callbacks": {}
+    },
+    "Flex342": {
+      "callbacks": {}
+    },
+    "Flex340": {
+      "callbacks": {}
+    },
+    "Flex341": {
       "callbacks": {}
     },
     "Flex182": {
@@ -230,43 +263,43 @@ const desktopModeProps = {
     "Flex239": {
       "callbacks": {}
     },
-    "Flex240": {
+    "Flex345": {
       "callbacks": {}
     },
-    "Flex256": {
+    "Flex395": {
       "callbacks": {}
     },
-    "Flex254": {
+    "Flex393": {
       "callbacks": {}
     },
-    "Flex255": {
+    "Flex394": {
       "callbacks": {}
     },
-    "Flex259": {
+    "Flex398": {
       "callbacks": {}
     },
-    "Flex257": {
+    "Flex396": {
       "callbacks": {}
     },
-    "Flex258": {
+    "Flex397": {
       "callbacks": {}
     },
-    "Flex262": {
+    "Flex401": {
       "callbacks": {}
     },
-    "Flex260": {
+    "Flex399": {
       "callbacks": {}
     },
-    "Flex261": {
+    "Flex400": {
       "callbacks": {}
     },
-    "Flex265": {
+    "Flex404": {
       "callbacks": {}
     },
-    "Flex263": {
+    "Flex402": {
       "callbacks": {}
     },
-    "Flex264": {
+    "Flex403": {
       "callbacks": {}
     },
     "Flex180": {
@@ -299,79 +332,10 @@ const desktopModeProps = {
     "Flex189": {
       "callbacks": {}
     },
-    "Flex188": {
-      "callbacks": {}
-    },
-    "Flex267": {
-      "callbacks": {}
-    },
-    "Flex268": {
-      "callbacks": {}
-    },
-    "Flex269": {
-      "callbacks": {}
-    },
-    "Flex271": {
-      "callbacks": {}
-    },
-    "Flex272": {
-      "callbacks": {}
-    },
-    "Flex274": {
-      "callbacks": {}
-    },
-    "Flex278": {
-      "callbacks": {}
-    },
-    "Flex276": {
-      "callbacks": {}
-    },
-    "Flex275": {
-      "callbacks": {}
-    },
-    "Flex277": {
-      "callbacks": {}
-    },
-    "Flex282": {
-      "callbacks": {}
-    },
-    "Flex280": {
-      "callbacks": {}
-    },
-    "Flex279": {
-      "callbacks": {}
-    },
-    "Flex281": {
-      "callbacks": {}
-    },
     "Flex297": {
       "callbacks": {}
     },
     "Flex295": {
-      "callbacks": {}
-    },
-    "Flex292": {
-      "callbacks": {}
-    },
-    "Flex286": {
-      "callbacks": {}
-    },
-    "Flex287": {
-      "callbacks": {}
-    },
-    "Flex283": {
-      "callbacks": {}
-    },
-    "Flex293": {
-      "callbacks": {}
-    },
-    "Flex288": {
-      "callbacks": {}
-    },
-    "Flex289": {
-      "callbacks": {}
-    },
-    "Flex284": {
       "callbacks": {}
     },
     "Flex294": {
@@ -386,7 +350,85 @@ const desktopModeProps = {
     "Flex291": {
       "callbacks": {}
     },
+    "Flex381": {
+      "callbacks": {}
+    },
+    "Flex386": {
+      "callbacks": {}
+    },
+    "Flex384": {
+      "callbacks": {}
+    },
+    "Flex382": {
+      "callbacks": {}
+    },
+    "Flex385": {
+      "callbacks": {}
+    },
+    "Flex383": {
+      "callbacks": {}
+    },
+    "Flex391": {
+      "callbacks": {}
+    },
+    "Flex389": {
+      "callbacks": {}
+    },
+    "Flex387": {
+      "callbacks": {}
+    },
+    "Flex390": {
+      "callbacks": {}
+    },
+    "Flex388": {
+      "callbacks": {}
+    },
     "Flex296": {
+      "callbacks": {}
+    },
+    "Flex380": {
+      "callbacks": {}
+    },
+    "Flex378": {
+      "callbacks": {}
+    },
+    "Flex379": {
+      "callbacks": {}
+    },
+    "Flex375": {
+      "callbacks": {}
+    },
+    "Flex369": {
+      "callbacks": {}
+    },
+    "Flex366": {
+      "callbacks": {}
+    },
+    "Flex370": {
+      "callbacks": {}
+    },
+    "Flex376": {
+      "callbacks": {}
+    },
+    "Flex371": {
+      "callbacks": {}
+    },
+    "Flex367": {
+      "callbacks": {}
+    },
+    "Flex372": {
+      "callbacks": {}
+    },
+    "Flex377": {
+      "callbacks": {}
+    },
+    "Flex373": {
+      "callbacks": {}
+    },
+    "Flex374": {
+      "callbacks": {}
+    },
+    "Flex368": {
       "callbacks": {}
     },
     "Flex194": {
@@ -399,9 +441,6 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex298": {
-      "callbacks": {}
-    },
-    "Flex299": {
       "callbacks": {}
     },
     "Flex300": {
@@ -417,6 +456,12 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex309": {
+      "callbacks": {}
+    },
+    "Flex392": {
+      "callbacks": {}
+    },
+    "Flex299": {
       "callbacks": {}
     },
     "Flex192": {
@@ -1186,10 +1231,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image53": {
+    "TextBox118": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/project5.png"
+        "text": "View all projects"
       },
       "callbacks": {
         "onClick": [
@@ -1199,9 +1243,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox121": {
+    "TextBox119": {
       "custom": {
-        "text": "Branding"
+        "text": "PROJECTS"
       },
       "callbacks": {
         "onClick": [
@@ -1211,58 +1255,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox123": {
+    "TextBox120": {
       "custom": {
-        "text": "Soulful Rebrand"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox122": {
-      "custom": {
-        "text": "View Project"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image54": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/blackArrow.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox125": {
-      "custom": {
-        "text": "Soulful Rebrand"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox126": {
-      "custom": {
-        "text": "Branding"
+        "text": "I bring results.  My clients are proof."
       },
       "callbacks": {
         "onClick": [
@@ -1275,7 +1270,31 @@ const desktopModeProps = {
     "Image56": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/project1.png"
+        "src": "/app-assets/project5.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox125": {
+      "custom": {
+        "text": "Joggr Website Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox126": {
+      "custom": {
+        "text": "WEB DESIGN"
       },
       "callbacks": {
         "onClick": [
@@ -1310,7 +1329,32 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox128": {
+    "Image90": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/project1.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox233": {
+      "custom": {
+        "text": "BRANDING"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox234": {
       "custom": {
         "text": "Soulful Rebrand"
       },
@@ -1322,9 +1366,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox129": {
+    "TextBox232": {
       "custom": {
-        "text": "Branding"
+        "text": "View Project"
       },
       "callbacks": {
         "onClick": [
@@ -1334,7 +1378,20 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image58": {
+    "Image89": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image92": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/project2.png"
@@ -1347,7 +1404,43 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image57": {
+    "TextBox236": {
+      "custom": {
+        "text": "PRODUCT DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox237": {
+      "custom": {
+        "text": "Datadash Product design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox235": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image91": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/blackArrow.svg"
@@ -1360,43 +1453,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox127": {
-      "custom": {
-        "text": "View Project"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox131": {
-      "custom": {
-        "text": "Soulful Rebrand"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox132": {
-      "custom": {
-        "text": "Branding"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image60": {
+    "Image94": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/project3.png"
@@ -1409,7 +1466,43 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image59": {
+    "TextBox239": {
+      "custom": {
+        "text": "WEB DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox240": {
+      "custom": {
+        "text": "Maize Website Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox238": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image93": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/blackArrow.svg"
@@ -1422,43 +1515,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox130": {
-      "custom": {
-        "text": "View Project"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox134": {
-      "custom": {
-        "text": "Soulful Rebrand"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox135": {
-      "custom": {
-        "text": "Branding"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image62": {
+    "Image96": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/project4.png"
@@ -1471,10 +1528,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image61": {
+    "TextBox242": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/blackArrow.svg"
+        "text": "BRANDING"
       },
       "callbacks": {
         "onClick": [
@@ -1484,7 +1540,19 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox133": {
+    "TextBox243": {
+      "custom": {
+        "text": "GorillaX Branding"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox241": {
       "custom": {
         "text": "View Project"
       },
@@ -1496,33 +1564,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox118": {
+    "Image95": {
       "custom": {
-        "text": "View all projects"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox119": {
-      "custom": {
-        "text": "PROJECTS"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox120": {
-      "custom": {
-        "text": "I bring results.  My clients are proof."
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1580,19 +1625,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox143": {
-      "custom": {
-        "text": "Read the article"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image64": {
+    "Image98": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/warrow.svg"
@@ -1605,9 +1638,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox171": {
+    "TextBox245": {
       "custom": {
-        "text": "Design tips for designers, that cover everything you need"
+        "text": "Read the article"
       },
       "callbacks": {
         "onClick": [
@@ -1617,7 +1650,31 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image69": {
+    "TextBox293": {
+      "custom": {
+        "text": "How to build rapport with your web design clients"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox289": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image113": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/warrow.svg"
@@ -1630,9 +1687,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox167": {
+    "TextBox290": {
       "custom": {
-        "text": "Read the article"
+        "text": "5 mins"
       },
       "callbacks": {
         "onClick": [
@@ -1642,19 +1699,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox168": {
-      "custom": {
-        "text": "6 mins"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox169": {
+    "TextBox291": {
       "custom": {
         "text": "•"
       },
@@ -1666,7 +1711,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox170": {
+    "TextBox292": {
       "custom": {
         "text": "April 16, 2021 "
       },
@@ -1678,9 +1723,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox176": {
+    "TextBox298": {
       "custom": {
-        "text": "Design tips for designers, that cover everything you need"
+        "text": "Top 6 free website mockup tools 2021"
       },
       "callbacks": {
         "onClick": [
@@ -1690,7 +1735,19 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image70": {
+    "TextBox294": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image114": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/warrow.svg"
@@ -1703,9 +1760,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox172": {
+    "TextBox295": {
       "custom": {
-        "text": "Read the article"
+        "text": "5 mins"
       },
       "callbacks": {
         "onClick": [
@@ -1715,19 +1772,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox173": {
-      "custom": {
-        "text": "6 mins"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox174": {
+    "TextBox296": {
       "custom": {
         "text": "•"
       },
@@ -1739,7 +1784,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox175": {
+    "TextBox297": {
       "custom": {
         "text": "April 16, 2021 "
       },
@@ -1751,9 +1796,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox181": {
+    "TextBox303": {
       "custom": {
-        "text": "Design tips for designers, that cover everything you need"
+        "text": "Logo design trends to avoid in 2021"
       },
       "callbacks": {
         "onClick": [
@@ -1763,7 +1808,19 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image71": {
+    "TextBox299": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image115": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/warrow.svg"
@@ -1776,9 +1833,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox177": {
+    "TextBox300": {
       "custom": {
-        "text": "Read the article"
+        "text": "7 mins"
       },
       "callbacks": {
         "onClick": [
@@ -1788,19 +1845,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox178": {
-      "custom": {
-        "text": "6 mins"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox179": {
+    "TextBox301": {
       "custom": {
         "text": "•"
       },
@@ -1812,7 +1857,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox180": {
+    "TextBox302": {
       "custom": {
         "text": "April 16, 2021 "
       },
@@ -1824,9 +1869,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox186": {
+    "TextBox308": {
       "custom": {
-        "text": "Design tips for designers, that cover everything you need"
+        "text": "22 best UI design tools"
       },
       "callbacks": {
         "onClick": [
@@ -1836,7 +1881,19 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image72": {
+    "TextBox304": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image116": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/warrow.svg"
@@ -1849,9 +1906,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox182": {
+    "TextBox305": {
       "custom": {
-        "text": "Read the article"
+        "text": "7 mins"
       },
       "callbacks": {
         "onClick": [
@@ -1861,19 +1918,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox183": {
-      "custom": {
-        "text": "6 mins"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox184": {
+    "TextBox306": {
       "custom": {
         "text": "•"
       },
@@ -1885,7 +1930,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox185": {
+    "TextBox307": {
       "custom": {
         "text": "April 16, 2021 "
       },
@@ -2034,278 +2079,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox187": {
-      "custom": {
-        "text": "📚"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox188": {
-      "custom": {
-        "text": "Education"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox189": {
-      "custom": {
-        "text": "MSc (Human Computer Interaction)"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox190": {
-      "custom": {
-        "text": "Stanford University"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox191": {
-      "custom": {
-        "text": "• 2013-2015"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image77": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/arrow-rotate.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox192": {
-      "custom": {
-        "text": "• 2013-2015"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image78": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/arrow-rotate.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox193": {
-      "custom": {
-        "text": "Stanford University"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox194": {
-      "custom": {
-        "text": "MSc (Human Computer Interaction)"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox195": {
-      "custom": {
-        "text": "• 2013-2015"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image79": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/arrow-rotate.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox196": {
-      "custom": {
-        "text": "Stanford University"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox197": {
-      "custom": {
-        "text": "MSc (Human Computer Interaction)"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox198": {
-      "custom": {
-        "text": "MSc (Human Computer Interaction)"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox199": {
-      "custom": {
-        "text": "Stanford University"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox200": {
-      "custom": {
-        "text": "• 2013-2015"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image80": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/arrow-rotate.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox201": {
-      "custom": {
-        "text": "MSc (Human Computer Interaction)"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox202": {
-      "custom": {
-        "text": "Stanford University"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox203": {
-      "custom": {
-        "text": "• 2013-2015"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image81": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/arrow-rotate.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "TextBox204": {
       "custom": {
-        "text": "• 2013-2015"
+        "text": "• April2019-Current"
       },
       "callbacks": {
         "onClick": [
@@ -2328,9 +2104,22 @@ const desktopModeProps = {
         ]
       }
     },
+    "Image108": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/work1.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox205": {
       "custom": {
-        "text": "Stanford University"
+        "text": "SpaceFleet"
       },
       "callbacks": {
         "onClick": [
@@ -2342,7 +2131,131 @@ const desktopModeProps = {
     },
     "TextBox206": {
       "custom": {
-        "text": "MSc (Human Computer Interaction)"
+        "text": "Senior Product Designer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image110": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/work2.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox283": {
+      "custom": {
+        "text": "Information Architect"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox284": {
+      "custom": {
+        "text": "MusicMash"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox285": {
+      "custom": {
+        "text": "• April2019-Current"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image109": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-rotate.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image112": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/work3.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox286": {
+      "custom": {
+        "text": "UI Designer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox287": {
+      "custom": {
+        "text": "Kingdom"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox288": {
+      "custom": {
+        "text": "• April2019-Current"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image111": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-rotate.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2354,7 +2267,7 @@ const desktopModeProps = {
     },
     "TextBox207": {
       "custom": {
-        "text": "Education"
+        "text": "Work Experience"
       },
       "callbacks": {
         "onClick": [
@@ -2366,7 +2279,178 @@ const desktopModeProps = {
     },
     "TextBox208": {
       "custom": {
+        "text": "💼"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox281": {
+      "custom": {
         "text": "📚"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox282": {
+      "custom": {
+        "text": "Education"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox272": {
+      "custom": {
+        "text": "• 2009-2012"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image105": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-rotate.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox273": {
+      "custom": {
+        "text": "California State University"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox274": {
+      "custom": {
+        "text": "BSc in Software Engineering"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox275": {
+      "custom": {
+        "text": "• 2013-2014"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image106": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-rotate.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox276": {
+      "custom": {
+        "text": "MIT Summer School"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox277": {
+      "custom": {
+        "text": "UX Training Bootcamp"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox278": {
+      "custom": {
+        "text": "MSc (Human Computer Interaction)"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox279": {
+      "custom": {
+        "text": "Stanford University"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox280": {
+      "custom": {
+        "text": "• 2013-2015"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image107": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-rotate.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2380,6 +2464,30 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/testimonial1.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox212": {
+      "custom": {
+        "text": "Founder, Double Bunch"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox213": {
+      "custom": {
+        "text": "John Frankin"
       },
       "callbacks": {
         "onClick": [
@@ -2405,30 +2513,6 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/comma.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox212": {
-      "custom": {
-        "text": "Founder, Double Bunch"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox213": {
-      "custom": {
-        "text": "John Frankin"
       },
       "callbacks": {
         "onClick": [
