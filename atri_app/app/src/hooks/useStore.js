@@ -103,34 +103,34 @@ const desktopModeProps = {
     "Flex209": {
       "callbacks": {}
     },
-    "Flex215": {
+    "Flex316": {
       "callbacks": {}
     },
-    "Flex214": {
+    "Flex315": {
       "callbacks": {}
     },
-    "Flex211": {
+    "Flex312": {
       "callbacks": {}
     },
-    "Flex212": {
+    "Flex313": {
       "callbacks": {}
     },
-    "Flex213": {
+    "Flex314": {
       "callbacks": {}
     },
-    "Flex220": {
+    "Flex321": {
       "callbacks": {}
     },
-    "Flex219": {
+    "Flex320": {
       "callbacks": {}
     },
-    "Flex216": {
+    "Flex317": {
       "callbacks": {}
     },
-    "Flex217": {
+    "Flex318": {
       "callbacks": {}
     },
-    "Flex218": {
+    "Flex319": {
       "callbacks": {}
     },
     "Flex1": {
@@ -149,7 +149,17 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex136": {
-      "callbacks": {}
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://webflow.com/",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
     },
     "Flex3": {
       "callbacks": {}
@@ -436,20 +446,11 @@ const desktopModeProps = {
     "Flex128": {
       "callbacks": {}
     },
-    "Flex127": {
+    "Flex311": {
       "callbacks": {}
     },
-    "Flex126": {
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/BookCall"
-            }
-          }
-        ]
-      }
+    "Flex310": {
+      "callbacks": {}
     },
     "TextBox3": {
       "custom": {
@@ -889,7 +890,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image50": {
+    "Image87": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/service2.svg"
@@ -902,9 +903,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox106": {
+    "TextBox225": {
       "custom": {
-        "text": "What I can do for you"
+        "text": "Applications I'm fluent in"
       },
       "callbacks": {
         "onClick": [
@@ -914,9 +915,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox107": {
+    "TextBox226": {
       "custom": {
-        "text": "Faster, better products that your users love. Here's all the services I provide:"
+        "text": "Every designer needs the right tools to do the perfect job. Thankfully, I'm multilingual."
       },
       "callbacks": {
         "onClick": [
@@ -926,9 +927,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox103": {
+    "TextBox222": {
       "custom": {
-        "text": "Front-end Development"
+        "text": "Figma"
       },
       "callbacks": {
         "onClick": [
@@ -938,9 +939,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox104": {
+    "TextBox223": {
       "custom": {
-        "text": "Web and Mobile App  Design"
+        "text": "Webflow"
       },
       "callbacks": {
         "onClick": [
@@ -950,9 +951,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox105": {
+    "TextBox224": {
       "custom": {
-        "text": "Design Strategy"
+        "text": "Sketch"
       },
       "callbacks": {
         "onClick": [
@@ -962,7 +963,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image51": {
+    "Image88": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/service3.svg"
@@ -975,9 +976,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox111": {
+    "TextBox230": {
       "custom": {
-        "text": "What I can do for you"
+        "text": "What you can expect"
       },
       "callbacks": {
         "onClick": [
@@ -987,9 +988,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox112": {
+    "TextBox231": {
       "custom": {
-        "text": "Faster, better products that your users love. Here's all the services I provide:"
+        "text": "I design products that are more than pretty. I make them shippable and usable."
       },
       "callbacks": {
         "onClick": [
@@ -999,9 +1000,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox108": {
+    "TextBox227": {
       "custom": {
-        "text": "Front-end Development"
+        "text": "Efficient and maintainable"
       },
       "callbacks": {
         "onClick": [
@@ -1011,9 +1012,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox109": {
+    "TextBox228": {
       "custom": {
-        "text": "Web and Mobile App  Design"
+        "text": "Device and user friendly"
       },
       "callbacks": {
         "onClick": [
@@ -1023,9 +1024,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox110": {
+    "TextBox229": {
       "custom": {
-        "text": "Design Strategy"
+        "text": "Clean and functional"
       },
       "callbacks": {
         "onClick": [
@@ -2547,10 +2548,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link157": {
+    "TextBox217": {
       "custom": {
-        "text": "Blog",
-        "url": "/Blog"
+        "text": "Services"
       },
       "callbacks": {
         "onClick": [
@@ -2560,10 +2560,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link158": {
+    "TextBox218": {
       "custom": {
-        "text": "Projects",
-        "url": "/Projects"
+        "text": "Projects"
       },
       "callbacks": {
         "onClick": [
@@ -2573,10 +2572,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link159": {
+    "TextBox219": {
       "custom": {
-        "text": "Services",
-        "url": "/Services"
+        "text": "Blog"
       },
       "callbacks": {
         "onClick": [
@@ -2586,32 +2584,34 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link160": {
+    "TextBox220": {
       "custom": {
-        "text": "About",
-        "url": "/About"
+        "text": "About"
       },
       "callbacks": {
-        "onClick": []
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
       }
     },
-    "Image35": {
+    "TextBox221": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image86": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/blackArrow.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link156": {
-      "custom": {
-        "text": "Book a call",
-        "url": "/"
       },
       "callbacks": {
         "onClick": [

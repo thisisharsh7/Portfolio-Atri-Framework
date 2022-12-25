@@ -1,9 +1,10 @@
 {
-  "Flex": 309,
-  "TextBox": 216,
-  "Image": 85,
+  "Flex": 381,
+  "TextBox": 282,
+  "Image": 108,
   "Link": 160,
-  "Icon": 15,
+  "Icon": 25,
   "Accordion": 5,
-  "Testimonial": 1
+  "Testimonial": 1,
+  "Div": 1
 }
