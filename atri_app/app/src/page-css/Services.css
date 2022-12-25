@@ -1,0 +1,270 @@
+.p-Services.Flex97 {
+display: flex;
+justify-content: center;
+padding-top: ;
+padding-bottom: ;
+width: 100%;
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 16px;
+}
+.p-Services.Flex96 {
+display: flex;
+justify-content: space-between;
+width: 82%;
+max-width: 1180px;
+align-items: center;
+}
+.p-Services.Flex95 {
+display: flex;
+height: ;
+flex-direction: row;
+align-items: center;
+column-gap: 32px;
+}
+.p-Services.Flex94 {
+display: flex;
+align-items: center;
+column-gap: 8px;
+}
+.p-Services.Flex98 {
+display: flex;
+}
+.p-Services.Flex109 {
+display: flex;
+justify-content: center;
+color: #ffffff;
+background-color: #000000;
+font-family: IBM Plex Sans;
+font-size: 10px;
+}
+.p-Services.Flex108 {
+display: flex;
+flex-direction: column;
+row-gap: 5em;
+width: 82%;
+max-width: 1180px;
+padding-top: 102px;
+padding-bottom: 20px;
+padding-left: ;
+margin-top: ;
+}
+.p-Services.Flex105 {
+display: flex;
+margin-top: 50px;
+column-gap: 3px;
+row-gap: ;
+font-size: 1.4em;
+color: #8A95AD;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-Services.Flex106 {
+display: flex;
+justify-content: space-between;
+min-width: px;
+}
+.p-Services.Flex103 {
+display: flex;
+flex-direction: row;
+column-gap: 4em;
+row-gap: ;
+flex-wrap: wrap;
+justify-content: space-between;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 1.6em;
+}
+.p-Services.Flex99 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+}
+.p-Services.Flex100 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+}
+.p-Services.Flex101 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+}
+.p-Services.Flex104 {
+display: flex;
+flex-direction: column;
+row-gap: 1.5em;
+}
+.p-Services.Flex102 {
+display: flex;
+row-gap: ;
+column-gap: 14px;
+align-items: center;
+}
+.p-Services.Flex107 {
+display: flex;
+flex-direction: column;
+row-gap: ;
+font-family: IBM Plex Sans;
+font-size: 4.8em;
+font-weight: 600;
+}
+.p-Services.Image24 {
+height: 28px;
+max-width: 100%;
+}
+.p-Services.Link117 {
+;
+}
+.p-Services.Link118 {
+;
+}
+.p-Services.Link119 {
+;
+}
+.p-Services.Link120 {
+;
+}
+.p-Services.Image23 {
+width: 16px;
+}
+.p-Services.Link116 {
+;
+}
+.p-Services.TextBox70 {
+;
+}
+.p-Services.Link130 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Services.Link131 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Services.Link132 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Services.TextBox73 {
+;
+}
+.p-Services.TextBox74 {
+;
+}
+.p-Services.TextBox75 {
+;
+}
+.p-Services.Link133 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Services.TextBox76 {
+;
+}
+.p-Services.Link134 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Services.TextBox77 {
+;
+}
+.p-Services.Link135 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Services.TextBox78 {
+;
+}
+.p-Services.Link121 {
+;
+}
+.p-Services.Link122 {
+;
+}
+.p-Services.Link123 {
+;
+}
+.p-Services.Link124 {
+;
+}
+.p-Services.Link125 {
+;
+}
+.p-Services.Link126 {
+;
+}
+.p-Services.Link127 {
+;
+}
+.p-Services.Link128 {
+;
+}
+.p-Services.Link129 {
+;
+}
+.p-Services.TextBox72 {
+color: #666666;
+font-size: 1.5em;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-Services.Image26 {
+height: ;
+max-width: 100%;
+text-align: left;
+width: 203px;
+}
+.p-Services.TextBox71 {
+color: #5c5c5c;
+font-size: 1.5em;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Services.Image25 {
+width: 30px;
+}
+.p-Services.TextBox79 {
+;
+}
+.p-Services.TextBox80 {
+font-size: ;
+}
+@media screen and (max-width: 991px) {
+	.p-Services.Flex103.bpt {
+row-gap: 1.8em;
+	}
+}
+@media screen and (max-width: 767px) {
+	.p-Services.Flex95.bpt {
+display: none;
+	}
+	.p-Services.Flex109.bpt {
+font-size: 8px;
+	}
+	.p-Services.Flex105.bpt {
+flex-direction: row;
+font-size: 1.4em;
+display: none;
+	}
+	.p-Services.Flex106.bpt {
+flex-direction: column;
+row-gap: 4em;
+	}
+	.p-Services.Flex104.bpt {
+font-size: 1.2em;
+	}
+	.p-Services.Flex103.bpt {
+row-gap: ;
+font-size: 1.8em;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-Services.Flex103.bpt {
+flex-direction: column;
+row-gap: 1.8em;
+	}
+}

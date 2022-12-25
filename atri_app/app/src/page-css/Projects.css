@@ -1,0 +1,270 @@
+.p-Projects.Flex50 {
+display: flex;
+}
+.p-Projects.Flex61 {
+display: flex;
+justify-content: center;
+color: #ffffff;
+background-color: #000000;
+font-family: IBM Plex Sans;
+font-size: 10px;
+}
+.p-Projects.Flex60 {
+display: flex;
+flex-direction: column;
+row-gap: 5em;
+width: 82%;
+max-width: 1180px;
+padding-top: 102px;
+padding-bottom: 20px;
+padding-left: ;
+margin-top: ;
+}
+.p-Projects.Flex57 {
+display: flex;
+flex-direction: column;
+row-gap: ;
+font-family: IBM Plex Sans;
+font-size: 4.8em;
+font-weight: 600;
+}
+.p-Projects.Flex58 {
+display: flex;
+justify-content: space-between;
+min-width: px;
+}
+.p-Projects.Flex55 {
+display: flex;
+flex-direction: column;
+row-gap: 1.5em;
+}
+.p-Projects.Flex51 {
+display: flex;
+row-gap: ;
+column-gap: 14px;
+align-items: center;
+}
+.p-Projects.Flex56 {
+display: flex;
+flex-direction: row;
+column-gap: 4em;
+row-gap: ;
+flex-wrap: wrap;
+justify-content: space-between;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 1.6em;
+}
+.p-Projects.Flex52 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+}
+.p-Projects.Flex53 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+}
+.p-Projects.Flex54 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+}
+.p-Projects.Flex59 {
+display: flex;
+margin-top: 50px;
+column-gap: 3px;
+row-gap: ;
+font-size: 1.4em;
+color: #8A95AD;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-Projects.Flex121 {
+display: flex;
+justify-content: center;
+padding-top: ;
+padding-bottom: ;
+width: 100%;
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 16px;
+}
+.p-Projects.Flex120 {
+display: flex;
+justify-content: space-between;
+width: 82%;
+max-width: 1180px;
+align-items: center;
+}
+.p-Projects.Flex119 {
+display: flex;
+height: ;
+flex-direction: row;
+align-items: center;
+column-gap: 32px;
+}
+.p-Projects.Flex118 {
+display: flex;
+align-items: center;
+column-gap: 8px;
+}
+.p-Projects.TextBox37 {
+;
+}
+.p-Projects.TextBox40 {
+font-size: ;
+}
+.p-Projects.TextBox41 {
+;
+}
+.p-Projects.Image14 {
+height: ;
+max-width: 100%;
+text-align: left;
+width: 203px;
+}
+.p-Projects.TextBox39 {
+color: #666666;
+font-size: 1.5em;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-Projects.Image13 {
+width: 30px;
+}
+.p-Projects.TextBox38 {
+color: #5c5c5c;
+font-size: 1.5em;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Projects.Link61 {
+;
+}
+.p-Projects.Link62 {
+;
+}
+.p-Projects.Link63 {
+;
+}
+.p-Projects.Link64 {
+;
+}
+.p-Projects.Link65 {
+;
+}
+.p-Projects.Link66 {
+;
+}
+.p-Projects.Link67 {
+;
+}
+.p-Projects.Link68 {
+;
+}
+.p-Projects.Link69 {
+;
+}
+.p-Projects.TextBox42 {
+;
+}
+.p-Projects.Link70 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Projects.TextBox43 {
+;
+}
+.p-Projects.Link71 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Projects.TextBox44 {
+;
+}
+.p-Projects.Link72 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Projects.TextBox45 {
+;
+}
+.p-Projects.TextBox46 {
+;
+}
+.p-Projects.TextBox47 {
+;
+}
+.p-Projects.Link73 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Projects.Link74 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Projects.Link75 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Projects.Image32 {
+height: 28px;
+max-width: 100%;
+}
+.p-Projects.Link147 {
+;
+}
+.p-Projects.Link148 {
+;
+}
+.p-Projects.Link149 {
+;
+}
+.p-Projects.Link150 {
+;
+}
+.p-Projects.Image31 {
+width: 16px;
+}
+.p-Projects.Link146 {
+;
+}
+@media screen and (max-width: 991px) {
+	.p-Projects.Flex56.bpt {
+row-gap: 1.8em;
+	}
+}
+@media screen and (max-width: 767px) {
+	.p-Projects.Flex61.bpt {
+font-size: 8px;
+	}
+	.p-Projects.Flex58.bpt {
+flex-direction: column;
+row-gap: 4em;
+	}
+	.p-Projects.Flex55.bpt {
+font-size: 1.2em;
+	}
+	.p-Projects.Flex59.bpt {
+flex-direction: row;
+font-size: 1.4em;
+display: none;
+	}
+	.p-Projects.Flex119.bpt {
+display: none;
+	}
+	.p-Projects.Flex56.bpt {
+row-gap: ;
+font-size: 1.8em;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-Projects.Flex56.bpt {
+flex-direction: column;
+row-gap: 1.8em;
+	}
+}
