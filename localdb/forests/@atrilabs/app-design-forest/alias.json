@@ -1,12 +1,18 @@
 {
-  "Flex": 406,
-  "TextBox": 313,
-  "Image": 116,
-  "Link": 160,
+  "Flex": 631,
+  "TextBox": 466,
+  "Image": 192,
+  "Link": 220,
   "Icon": 27,
   "Accordion": 5,
   "Testimonial": 1,
-  "Div": 1,
+  "Div": 2,
   "UnorderedList": 3,
-  "Overlay": 4
+  "Overlay": 4,
+  "Form": 1,
+  "Button": 1,
+  "Input": 9,
+  "Modal": 1,
+  "Menu": 1,
+  "VerticalMenu": 1
 }

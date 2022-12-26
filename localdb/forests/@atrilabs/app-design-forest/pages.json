@@ -3,10 +3,6 @@
     "name": "Home",
     "route": "/"
   },
-  "3fd0b212-0b3b-48be-9b5b-6749bed70140": {
-    "name": "About",
-    "route": "/About"
-  },
   "fe91b4a6-1839-4579-9e81-644f8758bd40": {
     "name": "Projects",
     "route": "/Projects"
@@ -18,9 +14,5 @@
   "065dda8a-04e6-4337-9bd7-ccde971403e5": {
     "name": "BookCall",
     "route": "/BookCall"
-  },
-  "1825ba4f-5ff8-45d9-b4f0-38d106f634b1": {
-    "name": "Services",
-    "route": "/Services"
   }
 }

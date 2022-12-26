@@ -85,5 +85,17 @@
   },
   "work3.svg": {
     "mime": "image/svg+xml"
+  },
+  "project6.png": {
+    "mime": "image/png"
+  },
+  "emailHolder.svg": {
+    "mime": "image/svg+xml"
+  },
+  "budget.svg": {
+    "mime": "image/svg+xml"
+  },
+  "call.svg": {
+    "mime": "image/svg+xml"
   }
 }

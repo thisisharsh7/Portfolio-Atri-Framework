@@ -6,9 +6,6 @@
     "/": {
       "name": "Home"
     },
-    "/About": {
-      "name": "About"
-    },
     "/Projects": {
       "name": "Projects"
     },
@@ -17,9 +14,6 @@
     },
     "/BookCall": {
       "name": "BookCall"
-    },
-    "/Services": {
-      "name": "Services"
     }
   },
   "publicUrlAssetMap": {

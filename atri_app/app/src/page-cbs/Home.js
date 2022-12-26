@@ -2112,7 +2112,10 @@ export function useTextBox218Cb() {
 			{
   "handlers": [
     {
-      "sendEventData": true
+      "navigate": {
+        "type": "internal",
+        "url": "/Projects"
+      }
     }
   ],
   "actions": [
@@ -2128,7 +2131,10 @@ export function useTextBox219Cb() {
 			{
   "handlers": [
     {
-      "sendEventData": true
+      "navigate": {
+        "type": "internal",
+        "url": "/Blog"
+      }
     }
   ],
   "actions": [
@@ -2144,7 +2150,11 @@ export function useTextBox220Cb() {
 			{
   "handlers": [
     {
-      "sendEventData": true
+      "navigate": {
+        "type": "external",
+        "url": "/",
+        "target": "_self"
+      }
     }
   ],
   "actions": [
@@ -2174,7 +2184,14 @@ export function useTextBox221Cb() {
 export function useFlex310Cb() {
 	const onClick = useCallback(callbackFactory("Flex310", "Home", "/", "onClick", 
 			{
-  "handlers": [],
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/BookCall"
+      }
+    }
+  ],
   "actions": [
     {
       "type": "do_nothing"

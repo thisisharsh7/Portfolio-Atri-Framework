@@ -477,6 +477,7 @@ display: flex;
 width: 58%;
 flex-direction: column;
 row-gap: 3.5em;
+padding-top: 30px;
 }
 .p-Home.Flex238 {
 display: flex;
@@ -632,6 +633,7 @@ justify-content: flex-start;
 align-items: flex-start;
 position: sticky;
 top: 0;
+padding-top: 30px;
 }
 .p-Home.Flex237 {
 display: flex;
