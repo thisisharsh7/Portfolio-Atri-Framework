@@ -290,6 +290,9 @@ const desktopModeProps = {
     "Flex183": {
       "callbacks": {}
     },
+    "Flex657": {
+      "callbacks": {}
+    },
     "Flex266": {
       "callbacks": {}
     },
@@ -467,10 +470,43 @@ const desktopModeProps = {
     "Flex128": {
       "callbacks": {}
     },
-    "Flex311": {
+    "Menu3": {
+      "custom": {
+        "open": false,
+        "iconHeight": 24,
+        "iconWidth": 24,
+        "gap": "",
+        "alignRight": true
+      },
+      "callbacks": {
+        "onClick": []
+      }
+    },
+    "Flex651": {
       "callbacks": {}
     },
-    "Flex310": {
+    "Flex654": {
+      "callbacks": {}
+    },
+    "Flex656": {
+      "callbacks": {}
+    },
+    "Flex655": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Flex634": {
+      "callbacks": {}
+    },
+    "Flex633": {
       "callbacks": {
         "onClick": [
           {
@@ -2647,7 +2683,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox217": {
+    "TextBox498": {
       "custom": {
         "text": "Services"
       },
@@ -2659,7 +2695,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox218": {
+    "TextBox499": {
       "custom": {
         "text": "Projects"
       },
@@ -2674,7 +2710,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox219": {
+    "TextBox500": {
       "custom": {
         "text": "Blog"
       },
@@ -2689,7 +2725,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox220": {
+    "TextBox501": {
       "custom": {
         "text": "About"
       },
@@ -2705,7 +2741,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox221": {
+    "TextBox497": {
       "custom": {
         "text": "Book a call"
       },
@@ -2717,10 +2753,93 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image86": {
+    "Image199": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox468": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox469": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox470": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox471": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image193": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox467": {
+      "custom": {
+        "text": "Book a call"
       },
       "callbacks": {
         "onClick": [
