@@ -56,7 +56,17 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex13": {
-      "callbacks": {}
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "mailto:hi@folio.com?subject=Email",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
     },
     "Flex12": {
       "callbacks": {}
@@ -133,6 +143,9 @@ const desktopModeProps = {
           }
         ]
       }
+    },
+    "Flex827": {
+      "callbacks": {}
     },
     "Flex3": {
       "callbacks": {}
@@ -314,13 +327,13 @@ const desktopModeProps = {
     "Flex295": {
       "callbacks": {}
     },
-    "Flex294": {
+    "Flex705": {
       "callbacks": {}
     },
-    "Flex290": {
+    "Flex703": {
       "callbacks": {}
     },
-    "Flex285": {
+    "Flex704": {
       "callbacks": {}
     },
     "Flex291": {
@@ -329,34 +342,61 @@ const desktopModeProps = {
     "Flex381": {
       "callbacks": {}
     },
-    "Flex386": {
+    "Flex701": {
       "callbacks": {}
     },
-    "Flex384": {
+    "Flex699": {
       "callbacks": {}
     },
-    "Flex382": {
+    "Flex700": {
       "callbacks": {}
     },
-    "Flex385": {
+    "Flex713": {
       "callbacks": {}
     },
-    "Flex383": {
+    "Flex711": {
       "callbacks": {}
     },
-    "Flex391": {
+    "Flex709": {
       "callbacks": {}
     },
-    "Flex389": {
+    "Flex706": {
       "callbacks": {}
     },
-    "Flex387": {
+    "Flex707": {
       "callbacks": {}
     },
-    "Flex390": {
+    "Flex710": {
       "callbacks": {}
     },
-    "Flex388": {
+    "Flex708": {
+      "callbacks": {}
+    },
+    "Flex712": {
+      "callbacks": {}
+    },
+    "Flex721": {
+      "callbacks": {}
+    },
+    "Flex719": {
+      "callbacks": {}
+    },
+    "Flex717": {
+      "callbacks": {}
+    },
+    "Flex714": {
+      "callbacks": {}
+    },
+    "Flex715": {
+      "callbacks": {}
+    },
+    "Flex718": {
+      "callbacks": {}
+    },
+    "Flex716": {
+      "callbacks": {}
+    },
+    "Flex720": {
       "callbacks": {}
     },
     "Flex296": {
@@ -371,31 +411,10 @@ const desktopModeProps = {
     "Flex379": {
       "callbacks": {}
     },
-    "Flex375": {
-      "callbacks": {}
-    },
-    "Flex369": {
-      "callbacks": {}
-    },
-    "Flex366": {
-      "callbacks": {}
-    },
-    "Flex370": {
-      "callbacks": {}
-    },
-    "Flex376": {
-      "callbacks": {}
-    },
-    "Flex371": {
-      "callbacks": {}
-    },
-    "Flex367": {
-      "callbacks": {}
-    },
-    "Flex372": {
-      "callbacks": {}
-    },
     "Flex377": {
+      "callbacks": {}
+    },
+    "Flex673": {
       "callbacks": {}
     },
     "Flex373": {
@@ -405,6 +424,54 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex368": {
+      "callbacks": {}
+    },
+    "Flex671": {
+      "callbacks": {}
+    },
+    "Flex674": {
+      "callbacks": {}
+    },
+    "Flex684": {
+      "callbacks": {}
+    },
+    "Flex682": {
+      "callbacks": {}
+    },
+    "Flex683": {
+      "callbacks": {}
+    },
+    "Flex680": {
+      "callbacks": {}
+    },
+    "Flex678": {
+      "callbacks": {}
+    },
+    "Flex679": {
+      "callbacks": {}
+    },
+    "Flex681": {
+      "callbacks": {}
+    },
+    "Flex691": {
+      "callbacks": {}
+    },
+    "Flex689": {
+      "callbacks": {}
+    },
+    "Flex690": {
+      "callbacks": {}
+    },
+    "Flex687": {
+      "callbacks": {}
+    },
+    "Flex685": {
+      "callbacks": {}
+    },
+    "Flex686": {
+      "callbacks": {}
+    },
+    "Flex688": {
       "callbacks": {}
     },
     "Flex194": {
@@ -585,126 +652,146 @@ const desktopModeProps = {
         "text": "hi@thefolio.com"
       },
       "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
+        "onClick": []
       }
     },
-    "Link11": {
+    "TextBox541": {
       "custom": {
-        "text": "Services",
-        "url": "/"
+        "text": "Services"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
           }
         ]
       }
     },
-    "Link13": {
+    "TextBox542": {
       "custom": {
-        "text": "Instagram",
-        "url": "/"
+        "text": "Blog"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
           }
         ]
       }
     },
-    "Link14": {
+    "TextBox543": {
       "custom": {
-        "text": "Blog",
-        "url": "/"
+        "text": "Instagram"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "https://www.instagram.com/",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link6": {
+    "TextBox544": {
       "custom": {
-        "text": "Experience",
-        "url": "/"
+        "text": "Experience"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#Experience",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link9": {
+    "TextBox545": {
       "custom": {
-        "text": "Projects",
-        "url": "/"
+        "text": "Projects"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
           }
         ]
       }
     },
-    "Link10": {
+    "TextBox546": {
       "custom": {
-        "text": "Twitter",
-        "url": "/"
+        "text": "Twitter"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "https://twitter.com/home",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link7": {
+    "TextBox538": {
       "custom": {
-        "text": "Dribble",
-        "url": "/"
+        "text": "About"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
           }
         ]
       }
     },
-    "Link8": {
+    "TextBox539": {
       "custom": {
-        "text": "Contact",
-        "url": "/"
+        "text": "Driblle"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "https://dribbble.com/",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link12": {
+    "TextBox540": {
       "custom": {
-        "text": "About",
-        "url": "/"
+        "text": "Contact"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
           }
         ]
       }
@@ -1130,18 +1217,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox81": {
-      "custom": {
-        "text": "Book a call"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "TextBox84": {
       "custom": {
         "text": "Download a CV"
@@ -1158,6 +1233,30 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox81": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox694": {
+      "custom": {
+        "text": "Book a call"
       },
       "callbacks": {
         "onClick": [
@@ -2103,22 +2202,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox204": {
+    "TextBox529": {
       "custom": {
         "text": "• April2019-Current"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image82": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/arrow-rotate.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2165,44 +2251,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image110": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/work2.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox283": {
-      "custom": {
-        "text": "Information Architect"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox284": {
-      "custom": {
-        "text": "MusicMash"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox285": {
+    "TextBox526": {
       "custom": {
         "text": "• April2019-Current"
       },
@@ -2214,7 +2263,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image109": {
+    "Image206": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/arrow-rotate.svg"
@@ -2227,7 +2276,32 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image112": {
+    "Image207": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-rotate.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox530": {
+      "custom": {
+        "text": "• April2019-Current"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image208": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/work3.svg"
@@ -2240,19 +2314,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox286": {
-      "custom": {
-        "text": "UI Designer"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox287": {
+    "TextBox531": {
       "custom": {
         "text": "Kingdom"
       },
@@ -2264,7 +2326,19 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox288": {
+    "TextBox532": {
+      "custom": {
+        "text": "UI Designer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox533": {
       "custom": {
         "text": "• April2019-Current"
       },
@@ -2276,10 +2350,71 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image111": {
+    "Image209": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/arrow-rotate.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox534": {
+      "custom": {
+        "text": "• April2019-Current"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image210": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/work2.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox535": {
+      "custom": {
+        "text": "MusicMash"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox536": {
+      "custom": {
+        "text": "Information Architect"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox537": {
+      "custom": {
+        "text": "• April2019-Current"
       },
       "callbacks": {
         "onClick": [
@@ -2337,104 +2472,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox272": {
-      "custom": {
-        "text": "• 2009-2012"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image105": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/arrow-rotate.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox273": {
-      "custom": {
-        "text": "California State University"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox274": {
-      "custom": {
-        "text": "BSc in Software Engineering"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox275": {
-      "custom": {
-        "text": "• 2013-2014"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image106": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/arrow-rotate.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox276": {
-      "custom": {
-        "text": "MIT Summer School"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox277": {
-      "custom": {
-        "text": "UX Training Bootcamp"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "TextBox278": {
       "custom": {
         "text": "MSc (Human Computer Interaction)"
@@ -2459,6 +2496,19 @@ const desktopModeProps = {
         ]
       }
     },
+    "Image107": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-rotate.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox280": {
       "custom": {
         "text": "• 2013-2015"
@@ -2471,10 +2521,131 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image107": {
+    "TextBox512": {
+      "custom": {
+        "text": "• 2013-2015"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox517": {
+      "custom": {
+        "text": "• 2013-2014"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox514": {
+      "custom": {
+        "text": "• 2013-2014"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image203": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/arrow-rotate.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox515": {
+      "custom": {
+        "text": "MIT Summer School"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox516": {
+      "custom": {
+        "text": "UX Training Bootcamp"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox521": {
+      "custom": {
+        "text": "• 2009-2012"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox518": {
+      "custom": {
+        "text": "• 2009-2012"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image204": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-rotate.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox519": {
+      "custom": {
+        "text": "California State University"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox520": {
+      "custom": {
+        "text": "BSc in Software Engineering"
       },
       "callbacks": {
         "onClick": [
@@ -2690,7 +2861,11 @@ const desktopModeProps = {
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
           }
         ]
       }
@@ -2734,7 +2909,7 @@ const desktopModeProps = {
           {
             "navigate": {
               "type": "external",
-              "url": "/",
+              "url": "/#About",
               "target": "_self"
             }
           }
@@ -2748,7 +2923,10 @@ const desktopModeProps = {
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
           }
         ]
       }
@@ -2775,7 +2953,7 @@ const desktopModeProps = {
           {
             "navigate": {
               "type": "external",
-              "url": "/",
+              "url": "/#About",
               "target": "_self"
             }
           }
@@ -2819,7 +2997,11 @@ const desktopModeProps = {
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
           }
         ]
       }
@@ -2851,27 +3033,6 @@ const desktopModeProps = {
     }
   },
   "Projects": {
-    "Flex410": {
-      "callbacks": {}
-    },
-    "Flex409": {
-      "callbacks": {}
-    },
-    "Flex408": {
-      "callbacks": {}
-    },
-    "Flex407": {
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/BookCall"
-            }
-          }
-        ]
-      }
-    },
     "Flex421": {
       "callbacks": {}
     },
@@ -2941,137 +3102,102 @@ const desktopModeProps = {
     "Flex625": {
       "callbacks": {}
     },
-    "Flex433": {
+    "Flex777": {
       "callbacks": {}
     },
-    "Flex432": {
+    "Flex776": {
       "callbacks": {}
     },
-    "Flex429": {
+    "Flex775": {
       "callbacks": {}
     },
-    "Flex430": {
-      "callbacks": {}
-    },
-    "Flex427": {
-      "callbacks": {}
-    },
-    "Flex423": {
-      "callbacks": {}
-    },
-    "Flex424": {
-      "callbacks": {}
-    },
-    "Flex425": {
-      "callbacks": {}
-    },
-    "Flex428": {
-      "callbacks": {}
-    },
-    "Flex426": {
-      "callbacks": {}
-    },
-    "Flex431": {
-      "callbacks": {}
-    },
-    "Image118": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
-      },
+    "Flex773": {
       "callbacks": {
         "onClick": [
           {
             "navigate": {
               "type": "internal",
-              "url": "/"
+              "url": "/BookCall"
             }
           }
         ]
       }
     },
-    "TextBox315": {
+    "Menu10": {
       "custom": {
-        "text": "About"
+        "open": false,
+        "iconHeight": 24,
+        "iconWidth": 24,
+        "gap": "",
+        "alignRight": true
       },
+      "callbacks": {
+        "onClick": []
+      }
+    },
+    "Flex774": {
+      "callbacks": {}
+    },
+    "Flex772": {
+      "callbacks": {}
+    },
+    "Flex771": {
+      "callbacks": {}
+    },
+    "Flex770": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Flex804": {
+      "callbacks": {}
+    },
+    "Flex803": {
+      "callbacks": {}
+    },
+    "Flex800": {
+      "callbacks": {}
+    },
+    "Flex801": {
+      "callbacks": {}
+    },
+    "Flex798": {
+      "callbacks": {}
+    },
+    "Flex794": {
+      "callbacks": {}
+    },
+    "Flex795": {
+      "callbacks": {}
+    },
+    "Flex796": {
+      "callbacks": {}
+    },
+    "Flex799": {
+      "callbacks": {}
+    },
+    "Flex797": {
       "callbacks": {
         "onClick": [
           {
             "navigate": {
               "type": "external",
-              "url": "/",
-              "target": "_self"
+              "url": "mailto:hi@folio.com?subject=Email",
+              "target": "_blank"
             }
           }
         ]
       }
     },
-    "TextBox316": {
-      "custom": {
-        "text": "Blog"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Blog"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox317": {
-      "custom": {
-        "text": "Projects"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Projects"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox318": {
-      "custom": {
-        "text": "Services"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image117": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/blackArrow.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox314": {
-      "custom": {
-        "text": "Book a call"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
+    "Flex802": {
+      "callbacks": {}
     },
     "Image144": {
       "custom": {
@@ -3383,7 +3509,200 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link170": {
+    "Image231": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox613": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox614": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox615": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox616": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox612": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image230": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox608": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox609": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox610": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox611": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "Image229": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox607": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Link221": {
       "custom": {
         "text": "Style Guide",
         "url": "/"
@@ -3396,7 +3715,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link171": {
+    "Link222": {
       "custom": {
         "text": "Instructions",
         "url": "/"
@@ -3409,7 +3728,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link172": {
+    "Link223": {
       "custom": {
         "text": "Image License Info",
         "url": "/"
@@ -3422,7 +3741,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox335": {
+    "TextBox648": {
       "custom": {
         "text": "/"
       },
@@ -3434,7 +3753,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox336": {
+    "TextBox649": {
       "custom": {
         "text": "/"
       },
@@ -3446,7 +3765,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox337": {
+    "TextBox650": {
       "custom": {
         "text": "/"
       },
@@ -3458,7 +3777,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link173": {
+    "Link224": {
       "custom": {
         "text": "Changelog",
         "url": "/"
@@ -3471,7 +3790,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox338": {
+    "TextBox651": {
       "custom": {
         "text": "/"
       },
@@ -3483,7 +3802,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link174": {
+    "Link225": {
       "custom": {
         "text": "Weflow",
         "url": "/"
@@ -3496,7 +3815,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox339": {
+    "TextBox652": {
       "custom": {
         "text": ". Powered by"
       },
@@ -3508,7 +3827,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link175": {
+    "Link226": {
       "custom": {
         "text": "Conversionflow",
         "url": "/"
@@ -3521,7 +3840,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox340": {
+    "TextBox653": {
       "custom": {
         "text": "© All rights reserved. "
       },
@@ -3533,124 +3852,148 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link161": {
+    "TextBox637": {
       "custom": {
-        "text": "About",
-        "url": "/"
+        "text": "Contact"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
           }
         ]
       }
     },
-    "Link162": {
+    "TextBox638": {
       "custom": {
-        "text": "Contact",
-        "url": "/"
+        "text": "Driblle"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "https://dribbble.com/",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link163": {
+    "TextBox639": {
       "custom": {
-        "text": "Dribble",
-        "url": "/"
+        "text": "About"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
           }
         ]
       }
     },
-    "Link164": {
+    "TextBox640": {
       "custom": {
-        "text": "Twitter",
-        "url": "/"
+        "text": "Twitter"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "https://twitter.com/home",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link165": {
+    "TextBox641": {
       "custom": {
-        "text": "Projects",
-        "url": "/"
+        "text": "Projects"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
           }
         ]
       }
     },
-    "Link166": {
+    "TextBox642": {
       "custom": {
-        "text": "Experience",
-        "url": "/"
+        "text": "Experience"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#Experience",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link167": {
+    "TextBox643": {
       "custom": {
-        "text": "Blog",
-        "url": "/"
+        "text": "Instagram"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "https://www.instagram.com/",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link168": {
+    "TextBox644": {
       "custom": {
-        "text": "Instagram",
-        "url": "/"
+        "text": "Blog"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
           }
         ]
       }
     },
-    "Link169": {
+    "TextBox645": {
       "custom": {
-        "text": "Services",
-        "url": "/"
+        "text": "Services"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
           }
         ]
       }
     },
-    "TextBox334": {
+    "TextBox647": {
       "custom": {
         "text": "4353 Delaware Avenue, San Francisco, USA"
       },
@@ -3662,7 +4005,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image124": {
+    "Image239": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/flogo.svg"
@@ -3675,19 +4018,15 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox333": {
+    "TextBox646": {
       "custom": {
         "text": "hi@thefolio.com"
       },
       "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
+        "onClick": []
       }
     },
-    "Image123": {
+    "Image238": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/mailIco.svg"
@@ -3700,7 +4039,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox341": {
+    "TextBox654": {
       "custom": {
         "text": "Let's get on a call."
       },
@@ -3712,7 +4051,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox342": {
+    "TextBox655": {
       "custom": {
         "text": "Ready to make something kickass?"
       },
@@ -3726,27 +4065,6 @@ const desktopModeProps = {
     }
   },
   "Blog": {
-    "Flex414": {
-      "callbacks": {}
-    },
-    "Flex413": {
-      "callbacks": {}
-    },
-    "Flex412": {
-      "callbacks": {}
-    },
-    "Flex411": {
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/BookCall"
-            }
-          }
-        ]
-      }
-    },
     "Flex532": {
       "callbacks": {}
     },
@@ -3831,137 +4149,102 @@ const desktopModeProps = {
     "Flex583": {
       "callbacks": {}
     },
-    "Flex543": {
+    "Flex785": {
       "callbacks": {}
     },
-    "Flex542": {
+    "Flex784": {
       "callbacks": {}
     },
-    "Flex539": {
+    "Flex783": {
       "callbacks": {}
     },
-    "Flex540": {
-      "callbacks": {}
-    },
-    "Flex537": {
-      "callbacks": {}
-    },
-    "Flex533": {
-      "callbacks": {}
-    },
-    "Flex538": {
-      "callbacks": {}
-    },
-    "Flex534": {
-      "callbacks": {}
-    },
-    "Flex535": {
-      "callbacks": {}
-    },
-    "Flex536": {
-      "callbacks": {}
-    },
-    "Flex541": {
-      "callbacks": {}
-    },
-    "Image120": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
-      },
+    "Flex781": {
       "callbacks": {
         "onClick": [
           {
             "navigate": {
               "type": "internal",
-              "url": "/"
+              "url": "/BookCall"
             }
           }
         ]
       }
     },
-    "TextBox320": {
+    "Menu11": {
       "custom": {
-        "text": "About"
+        "open": false,
+        "iconHeight": 24,
+        "iconWidth": 24,
+        "gap": "",
+        "alignRight": true
       },
+      "callbacks": {
+        "onClick": []
+      }
+    },
+    "Flex782": {
+      "callbacks": {}
+    },
+    "Flex780": {
+      "callbacks": {}
+    },
+    "Flex779": {
+      "callbacks": {}
+    },
+    "Flex778": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Flex815": {
+      "callbacks": {}
+    },
+    "Flex814": {
+      "callbacks": {}
+    },
+    "Flex811": {
+      "callbacks": {}
+    },
+    "Flex812": {
+      "callbacks": {}
+    },
+    "Flex809": {
+      "callbacks": {}
+    },
+    "Flex805": {
+      "callbacks": {}
+    },
+    "Flex806": {
+      "callbacks": {}
+    },
+    "Flex807": {
+      "callbacks": {}
+    },
+    "Flex810": {
+      "callbacks": {}
+    },
+    "Flex808": {
       "callbacks": {
         "onClick": [
           {
             "navigate": {
               "type": "external",
-              "url": "/",
-              "target": "_self"
+              "url": "mailto:hi@folio.com?subject=Email",
+              "target": "_blank"
             }
           }
         ]
       }
     },
-    "TextBox321": {
-      "custom": {
-        "text": "Blog"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Blog"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox322": {
-      "custom": {
-        "text": "Projects"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Projects"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox323": {
-      "custom": {
-        "text": "Services"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image119": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/blackArrow.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox319": {
-      "custom": {
-        "text": "Book a call"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
+    "Flex813": {
+      "callbacks": {}
     },
     "Image154": {
       "custom": {
@@ -4273,46 +4556,87 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox407": {
-      "custom": {
-        "text": "Ready to make something kickass?"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox408": {
-      "custom": {
-        "text": "Let's get on a call."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image162": {
+    "Image234": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/flogo.svg"
+        "src": "/app-assets/logo.svg"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/"
+            }
           }
         ]
       }
     },
-    "TextBox406": {
+    "TextBox623": {
       "custom": {
-        "text": "4353 Delaware Avenue, San Francisco, USA"
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox624": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox625": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox626": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox622": {
+      "custom": {
+        "text": "Book a call"
       },
       "callbacks": {
         "onClick": [
@@ -4322,10 +4646,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image161": {
+    "Image233": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/mailIco.svg"
+        "src": "/app-assets/blackArrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -4335,9 +4659,72 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox405": {
+    "TextBox618": {
       "custom": {
-        "text": "hi@thefolio.com"
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox619": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox620": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox621": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "Image232": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -4347,9 +4734,24 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link206": {
+    "TextBox617": {
       "custom": {
-        "text": "Services",
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Link227": {
+      "custom": {
+        "text": "Style Guide",
         "url": "/"
       },
       "callbacks": {
@@ -4360,235 +4762,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link207": {
-      "custom": {
-        "text": "Instagram",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link208": {
-      "custom": {
-        "text": "Blog",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link209": {
-      "custom": {
-        "text": "Experience",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link210": {
-      "custom": {
-        "text": "Projects",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link211": {
-      "custom": {
-        "text": "Twitter",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link212": {
-      "custom": {
-        "text": "Dribble",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link213": {
-      "custom": {
-        "text": "Contact",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link214": {
-      "custom": {
-        "text": "About",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox409": {
-      "custom": {
-        "text": "© All rights reserved. "
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link215": {
-      "custom": {
-        "text": "Conversionflow",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox410": {
-      "custom": {
-        "text": ". Powered by"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link216": {
-      "custom": {
-        "text": "Weflow",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox411": {
-      "custom": {
-        "text": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link217": {
-      "custom": {
-        "text": "Changelog",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox412": {
-      "custom": {
-        "text": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox413": {
-      "custom": {
-        "text": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox414": {
-      "custom": {
-        "text": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link218": {
-      "custom": {
-        "text": "Image License Info",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link219": {
+    "Link228": {
       "custom": {
         "text": "Instructions",
         "url": "/"
@@ -4601,9 +4775,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link220": {
+    "Link229": {
       "custom": {
-        "text": "Style Guide",
+        "text": "Image License Info",
         "url": "/"
       },
       "callbacks": {
@@ -4613,19 +4787,122 @@ const desktopModeProps = {
           }
         ]
       }
-    }
-  },
-  "BookCall": {
-    "Flex418": {
-      "callbacks": {}
     },
-    "Flex417": {
-      "callbacks": {}
+    "TextBox667": {
+      "custom": {
+        "text": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
     },
-    "Flex416": {
-      "callbacks": {}
+    "TextBox668": {
+      "custom": {
+        "text": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
     },
-    "Flex415": {
+    "TextBox669": {
+      "custom": {
+        "text": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link230": {
+      "custom": {
+        "text": "Changelog",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox670": {
+      "custom": {
+        "text": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link231": {
+      "custom": {
+        "text": "Weflow",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox671": {
+      "custom": {
+        "text": ". Powered by"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link232": {
+      "custom": {
+        "text": "Conversionflow",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox672": {
+      "custom": {
+        "text": "© All rights reserved. "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox656": {
+      "custom": {
+        "text": "Contact"
+      },
       "callbacks": {
         "onClick": [
           {
@@ -4637,6 +4914,204 @@ const desktopModeProps = {
         ]
       }
     },
+    "TextBox657": {
+      "custom": {
+        "text": "Driblle"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://dribbble.com/",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox658": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox659": {
+      "custom": {
+        "text": "Twitter"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://twitter.com/home",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox660": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox661": {
+      "custom": {
+        "text": "Experience"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Experience",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox662": {
+      "custom": {
+        "text": "Instagram"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://www.instagram.com/",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox663": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox664": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox666": {
+      "custom": {
+        "text": "4353 Delaware Avenue, San Francisco, USA"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image241": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/flogo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox665": {
+      "custom": {
+        "text": "hi@thefolio.com"
+      },
+      "callbacks": {
+        "onClick": []
+      }
+    },
+    "Image240": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/mailIco.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox673": {
+      "custom": {
+        "text": "Let's get on a call."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox674": {
+      "custom": {
+        "text": "Ready to make something kickass?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    }
+  },
+  "BookCall": {
     "Flex419": {
       "callbacks": {}
     },
@@ -4676,6 +5151,9 @@ const desktopModeProps = {
     "Flex605": {
       "callbacks": {}
     },
+    "Flex828": {
+      "callbacks": {}
+    },
     "Flex586": {
       "callbacks": {}
     },
@@ -4691,149 +5169,102 @@ const desktopModeProps = {
     "Flex610": {
       "callbacks": {}
     },
-    "Flex455": {
+    "Flex793": {
       "callbacks": {}
     },
-    "Flex454": {
+    "Flex792": {
       "callbacks": {}
     },
-    "Flex451": {
+    "Flex791": {
       "callbacks": {}
     },
-    "Flex452": {
-      "callbacks": {}
-    },
-    "Flex449": {
-      "callbacks": {}
-    },
-    "Flex445": {
-      "callbacks": {}
-    },
-    "Flex446": {
-      "callbacks": {}
-    },
-    "Flex447": {
-      "callbacks": {}
-    },
-    "Flex450": {
-      "callbacks": {}
-    },
-    "Flex448": {
-      "callbacks": {}
-    },
-    "Flex453": {
-      "callbacks": {}
-    },
-    "Image122": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
-      },
+    "Flex789": {
       "callbacks": {
         "onClick": [
           {
             "navigate": {
               "type": "internal",
-              "url": "/"
+              "url": "/BookCall"
             }
           }
         ]
       }
     },
-    "TextBox325": {
+    "Menu12": {
       "custom": {
-        "text": "About"
+        "open": false,
+        "iconHeight": 24,
+        "iconWidth": 24,
+        "gap": "",
+        "alignRight": true
       },
+      "callbacks": {
+        "onClick": []
+      }
+    },
+    "Flex790": {
+      "callbacks": {}
+    },
+    "Flex788": {
+      "callbacks": {}
+    },
+    "Flex787": {
+      "callbacks": {}
+    },
+    "Flex786": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Flex826": {
+      "callbacks": {}
+    },
+    "Flex825": {
+      "callbacks": {}
+    },
+    "Flex822": {
+      "callbacks": {}
+    },
+    "Flex823": {
+      "callbacks": {}
+    },
+    "Flex820": {
+      "callbacks": {}
+    },
+    "Flex816": {
+      "callbacks": {}
+    },
+    "Flex817": {
+      "callbacks": {}
+    },
+    "Flex818": {
+      "callbacks": {}
+    },
+    "Flex821": {
+      "callbacks": {}
+    },
+    "Flex819": {
       "callbacks": {
         "onClick": [
           {
             "navigate": {
               "type": "external",
-              "url": "/",
-              "target": "_self"
+              "url": "mailto:hi@folio.com?subject=Email",
+              "target": "_blank"
             }
           }
         ]
       }
     },
-    "TextBox326": {
-      "custom": {
-        "text": "Blog"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Blog"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox327": {
-      "custom": {
-        "text": "Projects"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Projects"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox328": {
-      "custom": {
-        "text": "Services"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image121": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/blackArrow.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox324": {
-      "custom": {
-        "text": "Book a call"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button1": {
-      "custom": {
-        "text": "Submit Now!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
+    "Flex824": {
+      "callbacks": {}
     },
     "Input7": {
       "custom": {
@@ -4958,6 +5389,30 @@ const desktopModeProps = {
         ]
       }
     },
+    "Button1": {
+      "custom": {
+        "text": "Submit Now!"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox696": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox439": {
       "custom": {
         "text": "hi@thefolio.com"
@@ -5032,7 +5487,200 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link200": {
+    "Image237": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox633": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox634": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox635": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox636": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox632": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image236": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox628": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox629": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox630": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox631": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "Image235": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox627": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Link233": {
       "custom": {
         "text": "Style Guide",
         "url": "/"
@@ -5045,7 +5693,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link201": {
+    "Link234": {
       "custom": {
         "text": "Instructions",
         "url": "/"
@@ -5058,7 +5706,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link202": {
+    "Link235": {
       "custom": {
         "text": "Image License Info",
         "url": "/"
@@ -5071,7 +5719,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox355": {
+    "TextBox686": {
       "custom": {
         "text": "/"
       },
@@ -5083,7 +5731,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox356": {
+    "TextBox687": {
       "custom": {
         "text": "/"
       },
@@ -5095,7 +5743,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox357": {
+    "TextBox688": {
       "custom": {
         "text": "/"
       },
@@ -5107,7 +5755,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link203": {
+    "Link236": {
       "custom": {
         "text": "Changelog",
         "url": "/"
@@ -5120,7 +5768,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox358": {
+    "TextBox689": {
       "custom": {
         "text": "/"
       },
@@ -5132,7 +5780,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link204": {
+    "Link237": {
       "custom": {
         "text": "Weflow",
         "url": "/"
@@ -5145,7 +5793,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox359": {
+    "TextBox690": {
       "custom": {
         "text": ". Powered by"
       },
@@ -5157,7 +5805,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link205": {
+    "Link238": {
       "custom": {
         "text": "Conversionflow",
         "url": "/"
@@ -5170,7 +5818,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox360": {
+    "TextBox691": {
       "custom": {
         "text": "© All rights reserved. "
       },
@@ -5182,124 +5830,148 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link191": {
+    "TextBox675": {
       "custom": {
-        "text": "About",
-        "url": "/"
+        "text": "Contact"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
           }
         ]
       }
     },
-    "Link192": {
+    "TextBox676": {
       "custom": {
-        "text": "Contact",
-        "url": "/"
+        "text": "Driblle"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "https://dribbble.com/",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link193": {
+    "TextBox677": {
       "custom": {
-        "text": "Dribble",
-        "url": "/"
+        "text": "About"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
           }
         ]
       }
     },
-    "Link194": {
+    "TextBox678": {
       "custom": {
-        "text": "Twitter",
-        "url": "/"
+        "text": "Twitter"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "https://twitter.com/home",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link195": {
+    "TextBox679": {
       "custom": {
-        "text": "Projects",
-        "url": "/"
+        "text": "Projects"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
           }
         ]
       }
     },
-    "Link196": {
+    "TextBox680": {
       "custom": {
-        "text": "Experience",
-        "url": "/"
+        "text": "Experience"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#Experience",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link197": {
+    "TextBox681": {
       "custom": {
-        "text": "Blog",
-        "url": "/"
+        "text": "Instagram"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "https://www.instagram.com/",
+              "target": "_blank"
+            }
           }
         ]
       }
     },
-    "Link198": {
+    "TextBox682": {
       "custom": {
-        "text": "Instagram",
-        "url": "/"
+        "text": "Blog"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
           }
         ]
       }
     },
-    "Link199": {
+    "TextBox683": {
       "custom": {
-        "text": "Services",
-        "url": "/"
+        "text": "Services"
       },
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
           }
         ]
       }
     },
-    "TextBox354": {
+    "TextBox685": {
       "custom": {
         "text": "4353 Delaware Avenue, San Francisco, USA"
       },
@@ -5311,7 +5983,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image128": {
+    "Image243": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/flogo.svg"
@@ -5324,19 +5996,15 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox353": {
+    "TextBox684": {
       "custom": {
         "text": "hi@thefolio.com"
       },
       "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
+        "onClick": []
       }
     },
-    "Image127": {
+    "Image242": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/mailIco.svg"
@@ -5349,7 +6017,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox361": {
+    "TextBox692": {
       "custom": {
         "text": "Let's get on a call."
       },
@@ -5361,7 +6029,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox362": {
+    "TextBox693": {
       "custom": {
         "text": "Ready to make something kickass?"
       },

@@ -1,571 +1,7 @@
 import { useCallback } from "react";
 import { callbackFactory } from "../utils/callbackFactory";
-export function useImage121Cb() {
-	const onClick = useCallback(callbackFactory("Image121", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox324Cb() {
-	const onClick = useCallback(callbackFactory("TextBox324", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex415Cb() {
-	const onClick = useCallback(callbackFactory("Flex415", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "navigate": {
-        "type": "internal",
-        "url": "/BookCall"
-      }
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox325Cb() {
-	const onClick = useCallback(callbackFactory("TextBox325", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "navigate": {
-        "type": "external",
-        "url": "/",
-        "target": "_self"
-      }
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox326Cb() {
-	const onClick = useCallback(callbackFactory("TextBox326", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "navigate": {
-        "type": "internal",
-        "url": "/Blog"
-      }
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox327Cb() {
-	const onClick = useCallback(callbackFactory("TextBox327", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "navigate": {
-        "type": "internal",
-        "url": "/Projects"
-      }
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox328Cb() {
-	const onClick = useCallback(callbackFactory("TextBox328", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex416Cb() {
-	const onClick = useCallback(callbackFactory("Flex416", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useImage122Cb() {
-	const onClick = useCallback(callbackFactory("Image122", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "navigate": {
-        "type": "internal",
-        "url": "/"
-      }
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex417Cb() {
-	const onClick = useCallback(callbackFactory("Flex417", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex418Cb() {
-	const onClick = useCallback(callbackFactory("Flex418", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
 export function useFlex419Cb() {
 	const onClick = useCallback(callbackFactory("Flex419", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useLink191Cb() {
-
-	return {  }
-}
-export function useLink192Cb() {
-
-	return {  }
-}
-export function useLink193Cb() {
-
-	return {  }
-}
-export function useLink194Cb() {
-
-	return {  }
-}
-export function useLink195Cb() {
-
-	return {  }
-}
-export function useLink196Cb() {
-
-	return {  }
-}
-export function useLink197Cb() {
-
-	return {  }
-}
-export function useLink198Cb() {
-
-	return {  }
-}
-export function useLink199Cb() {
-
-	return {  }
-}
-export function useTextBox353Cb() {
-	const onClick = useCallback(callbackFactory("TextBox353", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useImage127Cb() {
-	const onClick = useCallback(callbackFactory("Image127", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex445Cb() {
-	const onClick = useCallback(callbackFactory("Flex445", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex446Cb() {
-	const onClick = useCallback(callbackFactory("Flex446", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex447Cb() {
-	const onClick = useCallback(callbackFactory("Flex447", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex448Cb() {
-	const onClick = useCallback(callbackFactory("Flex448", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox354Cb() {
-	const onClick = useCallback(callbackFactory("TextBox354", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useImage128Cb() {
-	const onClick = useCallback(callbackFactory("Image128", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useLink200Cb() {
-
-	return {  }
-}
-export function useLink201Cb() {
-
-	return {  }
-}
-export function useLink202Cb() {
-
-	return {  }
-}
-export function useTextBox355Cb() {
-	const onClick = useCallback(callbackFactory("TextBox355", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox356Cb() {
-	const onClick = useCallback(callbackFactory("TextBox356", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox357Cb() {
-	const onClick = useCallback(callbackFactory("TextBox357", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useLink203Cb() {
-
-	return {  }
-}
-export function useTextBox358Cb() {
-	const onClick = useCallback(callbackFactory("TextBox358", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useLink204Cb() {
-
-	return {  }
-}
-export function useTextBox359Cb() {
-	const onClick = useCallback(callbackFactory("TextBox359", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useLink205Cb() {
-
-	return {  }
-}
-export function useTextBox360Cb() {
-	const onClick = useCallback(callbackFactory("TextBox360", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex449Cb() {
-	const onClick = useCallback(callbackFactory("Flex449", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex450Cb() {
-	const onClick = useCallback(callbackFactory("Flex450", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox361Cb() {
-	const onClick = useCallback(callbackFactory("TextBox361", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox362Cb() {
-	const onClick = useCallback(callbackFactory("TextBox362", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex451Cb() {
-	const onClick = useCallback(callbackFactory("Flex451", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex452Cb() {
-	const onClick = useCallback(callbackFactory("Flex452", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex453Cb() {
-	const onClick = useCallback(callbackFactory("Flex453", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex454Cb() {
-	const onClick = useCallback(callbackFactory("Flex454", "BookCall", "/BookCall", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useFlex455Cb() {
-	const onClick = useCallback(callbackFactory("Flex455", "BookCall", "/BookCall", "onClick", 
 			{
   "handlers": [],
   "actions": [
@@ -1119,6 +555,931 @@ export function useTextBox451Cb() {
 }
 export function useFlex611Cb() {
 	const onClick = useCallback(callbackFactory("Flex611", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useImage235Cb() {
+	const onClick = useCallback(callbackFactory("Image235", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox627Cb() {
+	const onClick = useCallback(callbackFactory("TextBox627", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/BookCall"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex786Cb() {
+	const onClick = useCallback(callbackFactory("Flex786", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/BookCall"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox628Cb() {
+	const onClick = useCallback(callbackFactory("TextBox628", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "/#About",
+        "target": "_self"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox629Cb() {
+	const onClick = useCallback(callbackFactory("TextBox629", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/Blog"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox630Cb() {
+	const onClick = useCallback(callbackFactory("TextBox630", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/Projects"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox631Cb() {
+	const onClick = useCallback(callbackFactory("TextBox631", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "/#Services",
+        "target": "_self"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex787Cb() {
+	const onClick = useCallback(callbackFactory("Flex787", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox632Cb() {
+	const onClick = useCallback(callbackFactory("TextBox632", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useImage236Cb() {
+	const onClick = useCallback(callbackFactory("Image236", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex788Cb() {
+	const onClick = useCallback(callbackFactory("Flex788", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox633Cb() {
+	const onClick = useCallback(callbackFactory("TextBox633", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "/#Services",
+        "target": "_self"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox634Cb() {
+	const onClick = useCallback(callbackFactory("TextBox634", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/Projects"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox635Cb() {
+	const onClick = useCallback(callbackFactory("TextBox635", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/Blog"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox636Cb() {
+	const onClick = useCallback(callbackFactory("TextBox636", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "/#About",
+        "target": "_self"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex789Cb() {
+	const onClick = useCallback(callbackFactory("Flex789", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/BookCall"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex790Cb() {
+	const onClick = useCallback(callbackFactory("Flex790", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex791Cb() {
+	const onClick = useCallback(callbackFactory("Flex791", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useMenu12Cb() {
+	const onClick = useCallback(callbackFactory("Menu12", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "controlled",
+      "selector": [
+        "custom",
+        "open"
+      ]
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useImage237Cb() {
+	const onClick = useCallback(callbackFactory("Image237", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex792Cb() {
+	const onClick = useCallback(callbackFactory("Flex792", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex793Cb() {
+	const onClick = useCallback(callbackFactory("Flex793", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox675Cb() {
+	const onClick = useCallback(callbackFactory("TextBox675", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/BookCall"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox676Cb() {
+	const onClick = useCallback(callbackFactory("TextBox676", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "https://dribbble.com/",
+        "target": "_blank"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox677Cb() {
+	const onClick = useCallback(callbackFactory("TextBox677", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "/#About",
+        "target": "_self"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox678Cb() {
+	const onClick = useCallback(callbackFactory("TextBox678", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "https://twitter.com/home",
+        "target": "_blank"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox679Cb() {
+	const onClick = useCallback(callbackFactory("TextBox679", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/Projects"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox680Cb() {
+	const onClick = useCallback(callbackFactory("TextBox680", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "/#Experience",
+        "target": "_blank"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox681Cb() {
+	const onClick = useCallback(callbackFactory("TextBox681", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "https://www.instagram.com/",
+        "target": "_blank"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox682Cb() {
+	const onClick = useCallback(callbackFactory("TextBox682", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/Blog"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox683Cb() {
+	const onClick = useCallback(callbackFactory("TextBox683", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "/#Services",
+        "target": "_self"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox684Cb() {
+	const onClick = useCallback(callbackFactory("TextBox684", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useImage242Cb() {
+	const onClick = useCallback(callbackFactory("Image242", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex816Cb() {
+	const onClick = useCallback(callbackFactory("Flex816", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex817Cb() {
+	const onClick = useCallback(callbackFactory("Flex817", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex818Cb() {
+	const onClick = useCallback(callbackFactory("Flex818", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex819Cb() {
+	const onClick = useCallback(callbackFactory("Flex819", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "navigate": {
+        "type": "external",
+        "url": "mailto:hi@folio.com?subject=Email",
+        "target": "_blank"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox685Cb() {
+	const onClick = useCallback(callbackFactory("TextBox685", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useImage243Cb() {
+	const onClick = useCallback(callbackFactory("Image243", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useLink233Cb() {
+
+	return {  }
+}
+export function useLink234Cb() {
+
+	return {  }
+}
+export function useLink235Cb() {
+
+	return {  }
+}
+export function useTextBox686Cb() {
+	const onClick = useCallback(callbackFactory("TextBox686", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox687Cb() {
+	const onClick = useCallback(callbackFactory("TextBox687", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox688Cb() {
+	const onClick = useCallback(callbackFactory("TextBox688", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useLink236Cb() {
+
+	return {  }
+}
+export function useTextBox689Cb() {
+	const onClick = useCallback(callbackFactory("TextBox689", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useLink237Cb() {
+
+	return {  }
+}
+export function useTextBox690Cb() {
+	const onClick = useCallback(callbackFactory("TextBox690", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useLink238Cb() {
+
+	return {  }
+}
+export function useTextBox691Cb() {
+	const onClick = useCallback(callbackFactory("TextBox691", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex820Cb() {
+	const onClick = useCallback(callbackFactory("Flex820", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex821Cb() {
+	const onClick = useCallback(callbackFactory("Flex821", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox692Cb() {
+	const onClick = useCallback(callbackFactory("TextBox692", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox693Cb() {
+	const onClick = useCallback(callbackFactory("TextBox693", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex822Cb() {
+	const onClick = useCallback(callbackFactory("Flex822", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex823Cb() {
+	const onClick = useCallback(callbackFactory("Flex823", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex824Cb() {
+	const onClick = useCallback(callbackFactory("Flex824", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex825Cb() {
+	const onClick = useCallback(callbackFactory("Flex825", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex826Cb() {
+	const onClick = useCallback(callbackFactory("Flex826", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox696Cb() {
+	const onClick = useCallback(callbackFactory("TextBox696", "BookCall", "/BookCall", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex828Cb() {
+	const onClick = useCallback(callbackFactory("Flex828", "BookCall", "/BookCall", "onClick", 
 			{
   "handlers": [],
   "actions": [

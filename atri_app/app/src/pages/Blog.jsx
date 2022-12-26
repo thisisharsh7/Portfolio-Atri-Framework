@@ -5,10 +5,11 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { subscribeInternalNavigation } from "../utils/navigate";
 import {fetchPageProps} from "../utils/fetchPageProps"
 import { Flex as Flex2 } from "@atrilabs/react-component-manifests/src/manifests/Flex/Flex.tsx";
+import { Menu as Menu2 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
 import { Image as Image2 } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
 import { TextBox as TextBox2 } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Link as Link2 } from "@atrilabs/react-component-manifests/src/manifests/Link/Link.tsx";
-import { useFlex414Cb, useFlex413Cb, useFlex412Cb, useFlex411Cb, useFlex532Cb, useFlex531Cb, useFlex530Cb, useFlex528Cb, useFlex523Cb, useFlex516Cb, useFlex517Cb, useFlex546Cb, useFlex551Cb, useFlex549Cb, useFlex550Cb, useFlex547Cb, useFlex548Cb, useFlex574Cb, useFlex572Cb, useFlex570Cb, useFlex571Cb, useFlex573Cb, useFlex579Cb, useFlex577Cb, useFlex575Cb, useFlex576Cb, useFlex578Cb, useFlex584Cb, useFlex582Cb, useFlex580Cb, useFlex581Cb, useFlex583Cb, useFlex543Cb, useFlex542Cb, useFlex539Cb, useFlex540Cb, useFlex537Cb, useFlex533Cb, useFlex538Cb, useFlex534Cb, useFlex535Cb, useFlex536Cb, useFlex541Cb, useImage120Cb, useTextBox320Cb, useTextBox321Cb, useTextBox322Cb, useTextBox323Cb, useImage119Cb, useTextBox319Cb, useImage154Cb, useTextBox399Cb, useTextBox400Cb, useTextBox401Cb, useImage159Cb, useImage164Cb, useTextBox415Cb, useTextBox416Cb, useTextBox417Cb, useImage163Cb, useImage172Cb, useTextBox430Cb, useTextBox431Cb, useTextBox432Cb, useImage173Cb, useImage174Cb, useTextBox433Cb, useTextBox434Cb, useTextBox435Cb, useImage175Cb, useImage176Cb, useTextBox436Cb, useTextBox437Cb, useTextBox438Cb, useImage177Cb, useTextBox407Cb, useTextBox408Cb, useImage162Cb, useTextBox406Cb, useImage161Cb, useTextBox405Cb, useLink206Cb, useLink207Cb, useLink208Cb, useLink209Cb, useLink210Cb, useLink211Cb, useLink212Cb, useLink213Cb, useLink214Cb, useTextBox409Cb, useLink215Cb, useTextBox410Cb, useLink216Cb, useTextBox411Cb, useLink217Cb, useTextBox412Cb, useTextBox413Cb, useTextBox414Cb, useLink218Cb, useLink219Cb, useLink220Cb } from "../page-cbs/Blog";
+import { useFlex532Cb, useFlex531Cb, useFlex530Cb, useFlex528Cb, useFlex523Cb, useFlex516Cb, useFlex517Cb, useFlex546Cb, useFlex551Cb, useFlex549Cb, useFlex550Cb, useFlex547Cb, useFlex548Cb, useFlex574Cb, useFlex572Cb, useFlex570Cb, useFlex571Cb, useFlex573Cb, useFlex579Cb, useFlex577Cb, useFlex575Cb, useFlex576Cb, useFlex578Cb, useFlex584Cb, useFlex582Cb, useFlex580Cb, useFlex581Cb, useFlex583Cb, useFlex785Cb, useFlex784Cb, useFlex783Cb, useFlex781Cb, useMenu11Cb, useFlex782Cb, useFlex780Cb, useFlex779Cb, useFlex778Cb, useFlex815Cb, useFlex814Cb, useFlex811Cb, useFlex812Cb, useFlex809Cb, useFlex805Cb, useFlex806Cb, useFlex807Cb, useFlex810Cb, useFlex808Cb, useFlex813Cb, useImage154Cb, useTextBox399Cb, useTextBox400Cb, useTextBox401Cb, useImage159Cb, useImage164Cb, useTextBox415Cb, useTextBox416Cb, useTextBox417Cb, useImage163Cb, useImage172Cb, useTextBox430Cb, useTextBox431Cb, useTextBox432Cb, useImage173Cb, useImage174Cb, useTextBox433Cb, useTextBox434Cb, useTextBox435Cb, useImage175Cb, useImage176Cb, useTextBox436Cb, useTextBox437Cb, useTextBox438Cb, useImage177Cb, useImage234Cb, useTextBox623Cb, useTextBox624Cb, useTextBox625Cb, useTextBox626Cb, useTextBox622Cb, useImage233Cb, useTextBox618Cb, useTextBox619Cb, useTextBox620Cb, useTextBox621Cb, useImage232Cb, useTextBox617Cb, useLink227Cb, useLink228Cb, useLink229Cb, useTextBox667Cb, useTextBox668Cb, useTextBox669Cb, useLink230Cb, useTextBox670Cb, useLink231Cb, useTextBox671Cb, useLink232Cb, useTextBox672Cb, useTextBox656Cb, useTextBox657Cb, useTextBox658Cb, useTextBox659Cb, useTextBox660Cb, useTextBox661Cb, useTextBox662Cb, useTextBox663Cb, useTextBox664Cb, useTextBox666Cb, useImage241Cb, useTextBox665Cb, useImage240Cb, useTextBox673Cb, useTextBox674Cb } from "../page-cbs/Blog";
 import "../page-css/Blog.css";
 import "../custom/Blog";
 
@@ -28,19 +29,7 @@ export default function Blog() {
     })
   }, [location])
 
-  const Flex414Props = useStore((state)=>state["Blog"]["Flex414"]);
-const Flex414IoProps = useIoStore((state)=>state["Blog"]["Flex414"]);
-const Flex414Cb = useFlex414Cb()
-const Flex413Props = useStore((state)=>state["Blog"]["Flex413"]);
-const Flex413IoProps = useIoStore((state)=>state["Blog"]["Flex413"]);
-const Flex413Cb = useFlex413Cb()
-const Flex412Props = useStore((state)=>state["Blog"]["Flex412"]);
-const Flex412IoProps = useIoStore((state)=>state["Blog"]["Flex412"]);
-const Flex412Cb = useFlex412Cb()
-const Flex411Props = useStore((state)=>state["Blog"]["Flex411"]);
-const Flex411IoProps = useIoStore((state)=>state["Blog"]["Flex411"]);
-const Flex411Cb = useFlex411Cb()
-const Flex532Props = useStore((state)=>state["Blog"]["Flex532"]);
+  const Flex532Props = useStore((state)=>state["Blog"]["Flex532"]);
 const Flex532IoProps = useIoStore((state)=>state["Blog"]["Flex532"]);
 const Flex532Cb = useFlex532Cb()
 const Flex531Props = useStore((state)=>state["Blog"]["Flex531"]);
@@ -124,60 +113,66 @@ const Flex581Cb = useFlex581Cb()
 const Flex583Props = useStore((state)=>state["Blog"]["Flex583"]);
 const Flex583IoProps = useIoStore((state)=>state["Blog"]["Flex583"]);
 const Flex583Cb = useFlex583Cb()
-const Flex543Props = useStore((state)=>state["Blog"]["Flex543"]);
-const Flex543IoProps = useIoStore((state)=>state["Blog"]["Flex543"]);
-const Flex543Cb = useFlex543Cb()
-const Flex542Props = useStore((state)=>state["Blog"]["Flex542"]);
-const Flex542IoProps = useIoStore((state)=>state["Blog"]["Flex542"]);
-const Flex542Cb = useFlex542Cb()
-const Flex539Props = useStore((state)=>state["Blog"]["Flex539"]);
-const Flex539IoProps = useIoStore((state)=>state["Blog"]["Flex539"]);
-const Flex539Cb = useFlex539Cb()
-const Flex540Props = useStore((state)=>state["Blog"]["Flex540"]);
-const Flex540IoProps = useIoStore((state)=>state["Blog"]["Flex540"]);
-const Flex540Cb = useFlex540Cb()
-const Flex537Props = useStore((state)=>state["Blog"]["Flex537"]);
-const Flex537IoProps = useIoStore((state)=>state["Blog"]["Flex537"]);
-const Flex537Cb = useFlex537Cb()
-const Flex533Props = useStore((state)=>state["Blog"]["Flex533"]);
-const Flex533IoProps = useIoStore((state)=>state["Blog"]["Flex533"]);
-const Flex533Cb = useFlex533Cb()
-const Flex538Props = useStore((state)=>state["Blog"]["Flex538"]);
-const Flex538IoProps = useIoStore((state)=>state["Blog"]["Flex538"]);
-const Flex538Cb = useFlex538Cb()
-const Flex534Props = useStore((state)=>state["Blog"]["Flex534"]);
-const Flex534IoProps = useIoStore((state)=>state["Blog"]["Flex534"]);
-const Flex534Cb = useFlex534Cb()
-const Flex535Props = useStore((state)=>state["Blog"]["Flex535"]);
-const Flex535IoProps = useIoStore((state)=>state["Blog"]["Flex535"]);
-const Flex535Cb = useFlex535Cb()
-const Flex536Props = useStore((state)=>state["Blog"]["Flex536"]);
-const Flex536IoProps = useIoStore((state)=>state["Blog"]["Flex536"]);
-const Flex536Cb = useFlex536Cb()
-const Flex541Props = useStore((state)=>state["Blog"]["Flex541"]);
-const Flex541IoProps = useIoStore((state)=>state["Blog"]["Flex541"]);
-const Flex541Cb = useFlex541Cb()
-const Image120Props = useStore((state)=>state["Blog"]["Image120"]);
-const Image120IoProps = useIoStore((state)=>state["Blog"]["Image120"]);
-const Image120Cb = useImage120Cb()
-const TextBox320Props = useStore((state)=>state["Blog"]["TextBox320"]);
-const TextBox320IoProps = useIoStore((state)=>state["Blog"]["TextBox320"]);
-const TextBox320Cb = useTextBox320Cb()
-const TextBox321Props = useStore((state)=>state["Blog"]["TextBox321"]);
-const TextBox321IoProps = useIoStore((state)=>state["Blog"]["TextBox321"]);
-const TextBox321Cb = useTextBox321Cb()
-const TextBox322Props = useStore((state)=>state["Blog"]["TextBox322"]);
-const TextBox322IoProps = useIoStore((state)=>state["Blog"]["TextBox322"]);
-const TextBox322Cb = useTextBox322Cb()
-const TextBox323Props = useStore((state)=>state["Blog"]["TextBox323"]);
-const TextBox323IoProps = useIoStore((state)=>state["Blog"]["TextBox323"]);
-const TextBox323Cb = useTextBox323Cb()
-const Image119Props = useStore((state)=>state["Blog"]["Image119"]);
-const Image119IoProps = useIoStore((state)=>state["Blog"]["Image119"]);
-const Image119Cb = useImage119Cb()
-const TextBox319Props = useStore((state)=>state["Blog"]["TextBox319"]);
-const TextBox319IoProps = useIoStore((state)=>state["Blog"]["TextBox319"]);
-const TextBox319Cb = useTextBox319Cb()
+const Flex785Props = useStore((state)=>state["Blog"]["Flex785"]);
+const Flex785IoProps = useIoStore((state)=>state["Blog"]["Flex785"]);
+const Flex785Cb = useFlex785Cb()
+const Flex784Props = useStore((state)=>state["Blog"]["Flex784"]);
+const Flex784IoProps = useIoStore((state)=>state["Blog"]["Flex784"]);
+const Flex784Cb = useFlex784Cb()
+const Flex783Props = useStore((state)=>state["Blog"]["Flex783"]);
+const Flex783IoProps = useIoStore((state)=>state["Blog"]["Flex783"]);
+const Flex783Cb = useFlex783Cb()
+const Flex781Props = useStore((state)=>state["Blog"]["Flex781"]);
+const Flex781IoProps = useIoStore((state)=>state["Blog"]["Flex781"]);
+const Flex781Cb = useFlex781Cb()
+const Menu11Props = useStore((state)=>state["Blog"]["Menu11"]);
+const Menu11IoProps = useIoStore((state)=>state["Blog"]["Menu11"]);
+const Menu11Cb = useMenu11Cb()
+const Flex782Props = useStore((state)=>state["Blog"]["Flex782"]);
+const Flex782IoProps = useIoStore((state)=>state["Blog"]["Flex782"]);
+const Flex782Cb = useFlex782Cb()
+const Flex780Props = useStore((state)=>state["Blog"]["Flex780"]);
+const Flex780IoProps = useIoStore((state)=>state["Blog"]["Flex780"]);
+const Flex780Cb = useFlex780Cb()
+const Flex779Props = useStore((state)=>state["Blog"]["Flex779"]);
+const Flex779IoProps = useIoStore((state)=>state["Blog"]["Flex779"]);
+const Flex779Cb = useFlex779Cb()
+const Flex778Props = useStore((state)=>state["Blog"]["Flex778"]);
+const Flex778IoProps = useIoStore((state)=>state["Blog"]["Flex778"]);
+const Flex778Cb = useFlex778Cb()
+const Flex815Props = useStore((state)=>state["Blog"]["Flex815"]);
+const Flex815IoProps = useIoStore((state)=>state["Blog"]["Flex815"]);
+const Flex815Cb = useFlex815Cb()
+const Flex814Props = useStore((state)=>state["Blog"]["Flex814"]);
+const Flex814IoProps = useIoStore((state)=>state["Blog"]["Flex814"]);
+const Flex814Cb = useFlex814Cb()
+const Flex811Props = useStore((state)=>state["Blog"]["Flex811"]);
+const Flex811IoProps = useIoStore((state)=>state["Blog"]["Flex811"]);
+const Flex811Cb = useFlex811Cb()
+const Flex812Props = useStore((state)=>state["Blog"]["Flex812"]);
+const Flex812IoProps = useIoStore((state)=>state["Blog"]["Flex812"]);
+const Flex812Cb = useFlex812Cb()
+const Flex809Props = useStore((state)=>state["Blog"]["Flex809"]);
+const Flex809IoProps = useIoStore((state)=>state["Blog"]["Flex809"]);
+const Flex809Cb = useFlex809Cb()
+const Flex805Props = useStore((state)=>state["Blog"]["Flex805"]);
+const Flex805IoProps = useIoStore((state)=>state["Blog"]["Flex805"]);
+const Flex805Cb = useFlex805Cb()
+const Flex806Props = useStore((state)=>state["Blog"]["Flex806"]);
+const Flex806IoProps = useIoStore((state)=>state["Blog"]["Flex806"]);
+const Flex806Cb = useFlex806Cb()
+const Flex807Props = useStore((state)=>state["Blog"]["Flex807"]);
+const Flex807IoProps = useIoStore((state)=>state["Blog"]["Flex807"]);
+const Flex807Cb = useFlex807Cb()
+const Flex810Props = useStore((state)=>state["Blog"]["Flex810"]);
+const Flex810IoProps = useIoStore((state)=>state["Blog"]["Flex810"]);
+const Flex810Cb = useFlex810Cb()
+const Flex808Props = useStore((state)=>state["Blog"]["Flex808"]);
+const Flex808IoProps = useIoStore((state)=>state["Blog"]["Flex808"]);
+const Flex808Cb = useFlex808Cb()
+const Flex813Props = useStore((state)=>state["Blog"]["Flex813"]);
+const Flex813IoProps = useIoStore((state)=>state["Blog"]["Flex813"]);
+const Flex813Cb = useFlex813Cb()
 const Image154Props = useStore((state)=>state["Blog"]["Image154"]);
 const Image154IoProps = useIoStore((state)=>state["Blog"]["Image154"]);
 const Image154Cb = useImage154Cb()
@@ -253,102 +248,157 @@ const TextBox438Cb = useTextBox438Cb()
 const Image177Props = useStore((state)=>state["Blog"]["Image177"]);
 const Image177IoProps = useIoStore((state)=>state["Blog"]["Image177"]);
 const Image177Cb = useImage177Cb()
-const TextBox407Props = useStore((state)=>state["Blog"]["TextBox407"]);
-const TextBox407IoProps = useIoStore((state)=>state["Blog"]["TextBox407"]);
-const TextBox407Cb = useTextBox407Cb()
-const TextBox408Props = useStore((state)=>state["Blog"]["TextBox408"]);
-const TextBox408IoProps = useIoStore((state)=>state["Blog"]["TextBox408"]);
-const TextBox408Cb = useTextBox408Cb()
-const Image162Props = useStore((state)=>state["Blog"]["Image162"]);
-const Image162IoProps = useIoStore((state)=>state["Blog"]["Image162"]);
-const Image162Cb = useImage162Cb()
-const TextBox406Props = useStore((state)=>state["Blog"]["TextBox406"]);
-const TextBox406IoProps = useIoStore((state)=>state["Blog"]["TextBox406"]);
-const TextBox406Cb = useTextBox406Cb()
-const Image161Props = useStore((state)=>state["Blog"]["Image161"]);
-const Image161IoProps = useIoStore((state)=>state["Blog"]["Image161"]);
-const Image161Cb = useImage161Cb()
-const TextBox405Props = useStore((state)=>state["Blog"]["TextBox405"]);
-const TextBox405IoProps = useIoStore((state)=>state["Blog"]["TextBox405"]);
-const TextBox405Cb = useTextBox405Cb()
-const Link206Props = useStore((state)=>state["Blog"]["Link206"]);
-const Link206IoProps = useIoStore((state)=>state["Blog"]["Link206"]);
-const Link206Cb = useLink206Cb()
-const Link207Props = useStore((state)=>state["Blog"]["Link207"]);
-const Link207IoProps = useIoStore((state)=>state["Blog"]["Link207"]);
-const Link207Cb = useLink207Cb()
-const Link208Props = useStore((state)=>state["Blog"]["Link208"]);
-const Link208IoProps = useIoStore((state)=>state["Blog"]["Link208"]);
-const Link208Cb = useLink208Cb()
-const Link209Props = useStore((state)=>state["Blog"]["Link209"]);
-const Link209IoProps = useIoStore((state)=>state["Blog"]["Link209"]);
-const Link209Cb = useLink209Cb()
-const Link210Props = useStore((state)=>state["Blog"]["Link210"]);
-const Link210IoProps = useIoStore((state)=>state["Blog"]["Link210"]);
-const Link210Cb = useLink210Cb()
-const Link211Props = useStore((state)=>state["Blog"]["Link211"]);
-const Link211IoProps = useIoStore((state)=>state["Blog"]["Link211"]);
-const Link211Cb = useLink211Cb()
-const Link212Props = useStore((state)=>state["Blog"]["Link212"]);
-const Link212IoProps = useIoStore((state)=>state["Blog"]["Link212"]);
-const Link212Cb = useLink212Cb()
-const Link213Props = useStore((state)=>state["Blog"]["Link213"]);
-const Link213IoProps = useIoStore((state)=>state["Blog"]["Link213"]);
-const Link213Cb = useLink213Cb()
-const Link214Props = useStore((state)=>state["Blog"]["Link214"]);
-const Link214IoProps = useIoStore((state)=>state["Blog"]["Link214"]);
-const Link214Cb = useLink214Cb()
-const TextBox409Props = useStore((state)=>state["Blog"]["TextBox409"]);
-const TextBox409IoProps = useIoStore((state)=>state["Blog"]["TextBox409"]);
-const TextBox409Cb = useTextBox409Cb()
-const Link215Props = useStore((state)=>state["Blog"]["Link215"]);
-const Link215IoProps = useIoStore((state)=>state["Blog"]["Link215"]);
-const Link215Cb = useLink215Cb()
-const TextBox410Props = useStore((state)=>state["Blog"]["TextBox410"]);
-const TextBox410IoProps = useIoStore((state)=>state["Blog"]["TextBox410"]);
-const TextBox410Cb = useTextBox410Cb()
-const Link216Props = useStore((state)=>state["Blog"]["Link216"]);
-const Link216IoProps = useIoStore((state)=>state["Blog"]["Link216"]);
-const Link216Cb = useLink216Cb()
-const TextBox411Props = useStore((state)=>state["Blog"]["TextBox411"]);
-const TextBox411IoProps = useIoStore((state)=>state["Blog"]["TextBox411"]);
-const TextBox411Cb = useTextBox411Cb()
-const Link217Props = useStore((state)=>state["Blog"]["Link217"]);
-const Link217IoProps = useIoStore((state)=>state["Blog"]["Link217"]);
-const Link217Cb = useLink217Cb()
-const TextBox412Props = useStore((state)=>state["Blog"]["TextBox412"]);
-const TextBox412IoProps = useIoStore((state)=>state["Blog"]["TextBox412"]);
-const TextBox412Cb = useTextBox412Cb()
-const TextBox413Props = useStore((state)=>state["Blog"]["TextBox413"]);
-const TextBox413IoProps = useIoStore((state)=>state["Blog"]["TextBox413"]);
-const TextBox413Cb = useTextBox413Cb()
-const TextBox414Props = useStore((state)=>state["Blog"]["TextBox414"]);
-const TextBox414IoProps = useIoStore((state)=>state["Blog"]["TextBox414"]);
-const TextBox414Cb = useTextBox414Cb()
-const Link218Props = useStore((state)=>state["Blog"]["Link218"]);
-const Link218IoProps = useIoStore((state)=>state["Blog"]["Link218"]);
-const Link218Cb = useLink218Cb()
-const Link219Props = useStore((state)=>state["Blog"]["Link219"]);
-const Link219IoProps = useIoStore((state)=>state["Blog"]["Link219"]);
-const Link219Cb = useLink219Cb()
-const Link220Props = useStore((state)=>state["Blog"]["Link220"]);
-const Link220IoProps = useIoStore((state)=>state["Blog"]["Link220"]);
-const Link220Cb = useLink220Cb()
+const Image234Props = useStore((state)=>state["Blog"]["Image234"]);
+const Image234IoProps = useIoStore((state)=>state["Blog"]["Image234"]);
+const Image234Cb = useImage234Cb()
+const TextBox623Props = useStore((state)=>state["Blog"]["TextBox623"]);
+const TextBox623IoProps = useIoStore((state)=>state["Blog"]["TextBox623"]);
+const TextBox623Cb = useTextBox623Cb()
+const TextBox624Props = useStore((state)=>state["Blog"]["TextBox624"]);
+const TextBox624IoProps = useIoStore((state)=>state["Blog"]["TextBox624"]);
+const TextBox624Cb = useTextBox624Cb()
+const TextBox625Props = useStore((state)=>state["Blog"]["TextBox625"]);
+const TextBox625IoProps = useIoStore((state)=>state["Blog"]["TextBox625"]);
+const TextBox625Cb = useTextBox625Cb()
+const TextBox626Props = useStore((state)=>state["Blog"]["TextBox626"]);
+const TextBox626IoProps = useIoStore((state)=>state["Blog"]["TextBox626"]);
+const TextBox626Cb = useTextBox626Cb()
+const TextBox622Props = useStore((state)=>state["Blog"]["TextBox622"]);
+const TextBox622IoProps = useIoStore((state)=>state["Blog"]["TextBox622"]);
+const TextBox622Cb = useTextBox622Cb()
+const Image233Props = useStore((state)=>state["Blog"]["Image233"]);
+const Image233IoProps = useIoStore((state)=>state["Blog"]["Image233"]);
+const Image233Cb = useImage233Cb()
+const TextBox618Props = useStore((state)=>state["Blog"]["TextBox618"]);
+const TextBox618IoProps = useIoStore((state)=>state["Blog"]["TextBox618"]);
+const TextBox618Cb = useTextBox618Cb()
+const TextBox619Props = useStore((state)=>state["Blog"]["TextBox619"]);
+const TextBox619IoProps = useIoStore((state)=>state["Blog"]["TextBox619"]);
+const TextBox619Cb = useTextBox619Cb()
+const TextBox620Props = useStore((state)=>state["Blog"]["TextBox620"]);
+const TextBox620IoProps = useIoStore((state)=>state["Blog"]["TextBox620"]);
+const TextBox620Cb = useTextBox620Cb()
+const TextBox621Props = useStore((state)=>state["Blog"]["TextBox621"]);
+const TextBox621IoProps = useIoStore((state)=>state["Blog"]["TextBox621"]);
+const TextBox621Cb = useTextBox621Cb()
+const Image232Props = useStore((state)=>state["Blog"]["Image232"]);
+const Image232IoProps = useIoStore((state)=>state["Blog"]["Image232"]);
+const Image232Cb = useImage232Cb()
+const TextBox617Props = useStore((state)=>state["Blog"]["TextBox617"]);
+const TextBox617IoProps = useIoStore((state)=>state["Blog"]["TextBox617"]);
+const TextBox617Cb = useTextBox617Cb()
+const Link227Props = useStore((state)=>state["Blog"]["Link227"]);
+const Link227IoProps = useIoStore((state)=>state["Blog"]["Link227"]);
+const Link227Cb = useLink227Cb()
+const Link228Props = useStore((state)=>state["Blog"]["Link228"]);
+const Link228IoProps = useIoStore((state)=>state["Blog"]["Link228"]);
+const Link228Cb = useLink228Cb()
+const Link229Props = useStore((state)=>state["Blog"]["Link229"]);
+const Link229IoProps = useIoStore((state)=>state["Blog"]["Link229"]);
+const Link229Cb = useLink229Cb()
+const TextBox667Props = useStore((state)=>state["Blog"]["TextBox667"]);
+const TextBox667IoProps = useIoStore((state)=>state["Blog"]["TextBox667"]);
+const TextBox667Cb = useTextBox667Cb()
+const TextBox668Props = useStore((state)=>state["Blog"]["TextBox668"]);
+const TextBox668IoProps = useIoStore((state)=>state["Blog"]["TextBox668"]);
+const TextBox668Cb = useTextBox668Cb()
+const TextBox669Props = useStore((state)=>state["Blog"]["TextBox669"]);
+const TextBox669IoProps = useIoStore((state)=>state["Blog"]["TextBox669"]);
+const TextBox669Cb = useTextBox669Cb()
+const Link230Props = useStore((state)=>state["Blog"]["Link230"]);
+const Link230IoProps = useIoStore((state)=>state["Blog"]["Link230"]);
+const Link230Cb = useLink230Cb()
+const TextBox670Props = useStore((state)=>state["Blog"]["TextBox670"]);
+const TextBox670IoProps = useIoStore((state)=>state["Blog"]["TextBox670"]);
+const TextBox670Cb = useTextBox670Cb()
+const Link231Props = useStore((state)=>state["Blog"]["Link231"]);
+const Link231IoProps = useIoStore((state)=>state["Blog"]["Link231"]);
+const Link231Cb = useLink231Cb()
+const TextBox671Props = useStore((state)=>state["Blog"]["TextBox671"]);
+const TextBox671IoProps = useIoStore((state)=>state["Blog"]["TextBox671"]);
+const TextBox671Cb = useTextBox671Cb()
+const Link232Props = useStore((state)=>state["Blog"]["Link232"]);
+const Link232IoProps = useIoStore((state)=>state["Blog"]["Link232"]);
+const Link232Cb = useLink232Cb()
+const TextBox672Props = useStore((state)=>state["Blog"]["TextBox672"]);
+const TextBox672IoProps = useIoStore((state)=>state["Blog"]["TextBox672"]);
+const TextBox672Cb = useTextBox672Cb()
+const TextBox656Props = useStore((state)=>state["Blog"]["TextBox656"]);
+const TextBox656IoProps = useIoStore((state)=>state["Blog"]["TextBox656"]);
+const TextBox656Cb = useTextBox656Cb()
+const TextBox657Props = useStore((state)=>state["Blog"]["TextBox657"]);
+const TextBox657IoProps = useIoStore((state)=>state["Blog"]["TextBox657"]);
+const TextBox657Cb = useTextBox657Cb()
+const TextBox658Props = useStore((state)=>state["Blog"]["TextBox658"]);
+const TextBox658IoProps = useIoStore((state)=>state["Blog"]["TextBox658"]);
+const TextBox658Cb = useTextBox658Cb()
+const TextBox659Props = useStore((state)=>state["Blog"]["TextBox659"]);
+const TextBox659IoProps = useIoStore((state)=>state["Blog"]["TextBox659"]);
+const TextBox659Cb = useTextBox659Cb()
+const TextBox660Props = useStore((state)=>state["Blog"]["TextBox660"]);
+const TextBox660IoProps = useIoStore((state)=>state["Blog"]["TextBox660"]);
+const TextBox660Cb = useTextBox660Cb()
+const TextBox661Props = useStore((state)=>state["Blog"]["TextBox661"]);
+const TextBox661IoProps = useIoStore((state)=>state["Blog"]["TextBox661"]);
+const TextBox661Cb = useTextBox661Cb()
+const TextBox662Props = useStore((state)=>state["Blog"]["TextBox662"]);
+const TextBox662IoProps = useIoStore((state)=>state["Blog"]["TextBox662"]);
+const TextBox662Cb = useTextBox662Cb()
+const TextBox663Props = useStore((state)=>state["Blog"]["TextBox663"]);
+const TextBox663IoProps = useIoStore((state)=>state["Blog"]["TextBox663"]);
+const TextBox663Cb = useTextBox663Cb()
+const TextBox664Props = useStore((state)=>state["Blog"]["TextBox664"]);
+const TextBox664IoProps = useIoStore((state)=>state["Blog"]["TextBox664"]);
+const TextBox664Cb = useTextBox664Cb()
+const TextBox666Props = useStore((state)=>state["Blog"]["TextBox666"]);
+const TextBox666IoProps = useIoStore((state)=>state["Blog"]["TextBox666"]);
+const TextBox666Cb = useTextBox666Cb()
+const Image241Props = useStore((state)=>state["Blog"]["Image241"]);
+const Image241IoProps = useIoStore((state)=>state["Blog"]["Image241"]);
+const Image241Cb = useImage241Cb()
+const TextBox665Props = useStore((state)=>state["Blog"]["TextBox665"]);
+const TextBox665IoProps = useIoStore((state)=>state["Blog"]["TextBox665"]);
+const TextBox665Cb = useTextBox665Cb()
+const Image240Props = useStore((state)=>state["Blog"]["Image240"]);
+const Image240IoProps = useIoStore((state)=>state["Blog"]["Image240"]);
+const Image240Cb = useImage240Cb()
+const TextBox673Props = useStore((state)=>state["Blog"]["TextBox673"]);
+const TextBox673IoProps = useIoStore((state)=>state["Blog"]["TextBox673"]);
+const TextBox673Cb = useTextBox673Cb()
+const TextBox674Props = useStore((state)=>state["Blog"]["TextBox674"]);
+const TextBox674IoProps = useIoStore((state)=>state["Blog"]["TextBox674"]);
+const TextBox674Cb = useTextBox674Cb()
 
   return (<>
-  <Flex2 className="p-Blog Flex414 bpt" {...Flex414Props} {...Flex414Cb} {...Flex414IoProps}>
-<Flex2 className="p-Blog Flex413 bpt" {...Flex413Props} {...Flex413Cb} {...Flex413IoProps}>
-<Image2 className="p-Blog Image120 bpt" {...Image120Props} {...Image120Cb} {...Image120IoProps}/>
-<Flex2 className="p-Blog Flex412 bpt" {...Flex412Props} {...Flex412Cb} {...Flex412IoProps}>
-<TextBox2 className="p-Blog TextBox320 bpt" {...TextBox320Props} {...TextBox320Cb} {...TextBox320IoProps}/>
-<TextBox2 className="p-Blog TextBox323 bpt" {...TextBox323Props} {...TextBox323Cb} {...TextBox323IoProps}/>
-<TextBox2 className="p-Blog TextBox322 bpt" {...TextBox322Props} {...TextBox322Cb} {...TextBox322IoProps}/>
-<TextBox2 className="p-Blog TextBox321 bpt" {...TextBox321Props} {...TextBox321Cb} {...TextBox321IoProps}/>
-<Flex2 className="p-Blog Flex411 bpt" {...Flex411Props} {...Flex411Cb} {...Flex411IoProps}>
-<TextBox2 className="p-Blog TextBox319 bpt" {...TextBox319Props} {...TextBox319Cb} {...TextBox319IoProps}/>
-<Image2 className="p-Blog Image119 bpt" {...Image119Props} {...Image119Cb} {...Image119IoProps}/>
+  <Flex2 className="p-Blog Flex785 bpt" {...Flex785Props} {...Flex785Cb} {...Flex785IoProps}>
+<Flex2 className="p-Blog Flex784 bpt" {...Flex784Props} {...Flex784Cb} {...Flex784IoProps}>
+<Image2 className="p-Blog Image234 bpt" {...Image234Props} {...Image234Cb} {...Image234IoProps}/>
+<Flex2 className="p-Blog Flex783 bpt" {...Flex783Props} {...Flex783Cb} {...Flex783IoProps}>
+<TextBox2 className="p-Blog TextBox626 bpt" {...TextBox626Props} {...TextBox626Cb} {...TextBox626IoProps}/>
+<TextBox2 className="p-Blog TextBox623 bpt" {...TextBox623Props} {...TextBox623Cb} {...TextBox623IoProps}/>
+<TextBox2 className="p-Blog TextBox624 bpt" {...TextBox624Props} {...TextBox624Cb} {...TextBox624IoProps}/>
+<TextBox2 className="p-Blog TextBox625 bpt" {...TextBox625Props} {...TextBox625Cb} {...TextBox625IoProps}/>
+<Flex2 className="p-Blog Flex781 bpt" {...Flex781Props} {...Flex781Cb} {...Flex781IoProps}>
+<TextBox2 className="p-Blog TextBox622 bpt" {...TextBox622Props} {...TextBox622Cb} {...TextBox622IoProps}/>
+<Image2 className="p-Blog Image233 bpt" {...Image233Props} {...Image233Cb} {...Image233IoProps}/>
 </Flex2>
 </Flex2>
+<Menu2 className="p-Blog Menu11 bpt" {...Menu11Props} {...Menu11Cb} {...Menu11IoProps}>
+<Flex2 className="p-Blog Flex782 bpt" {...Flex782Props} {...Flex782Cb} {...Flex782IoProps}>
+<Flex2 className="p-Blog Flex780 bpt" {...Flex780Props} {...Flex780Cb} {...Flex780IoProps}>
+<Flex2 className="p-Blog Flex779 bpt" {...Flex779Props} {...Flex779Cb} {...Flex779IoProps}>
+<TextBox2 className="p-Blog TextBox618 bpt" {...TextBox618Props} {...TextBox618Cb} {...TextBox618IoProps}/>
+<TextBox2 className="p-Blog TextBox621 bpt" {...TextBox621Props} {...TextBox621Cb} {...TextBox621IoProps}/>
+<TextBox2 className="p-Blog TextBox620 bpt" {...TextBox620Props} {...TextBox620Cb} {...TextBox620IoProps}/>
+<TextBox2 className="p-Blog TextBox619 bpt" {...TextBox619Props} {...TextBox619Cb} {...TextBox619IoProps}/>
+<Flex2 className="p-Blog Flex778 bpt" {...Flex778Props} {...Flex778Cb} {...Flex778IoProps}>
+<TextBox2 className="p-Blog TextBox617 bpt" {...TextBox617Props} {...TextBox617Cb} {...TextBox617IoProps}/>
+<Image2 className="p-Blog Image232 bpt" {...Image232Props} {...Image232Cb} {...Image232IoProps}/>
+</Flex2>
+</Flex2>
+</Flex2>
+</Flex2>
+</Menu2>
 </Flex2>
 </Flex2>
 <Flex2 className="p-Blog Flex532 bpt" {...Flex532Props} {...Flex532Cb} {...Flex532IoProps}>
@@ -432,52 +482,52 @@ const Link220Cb = useLink220Cb()
 </Flex2>
 </Flex2>
 </Flex2>
-<Flex2 className="p-Blog Flex543 bpt" {...Flex543Props} {...Flex543Cb} {...Flex543IoProps}>
-<Flex2 className="p-Blog Flex542 bpt" {...Flex542Props} {...Flex542Cb} {...Flex542IoProps}>
-<Flex2 className="p-Blog Flex539 bpt" {...Flex539Props} {...Flex539Cb} {...Flex539IoProps}>
-<TextBox2 className="p-Blog TextBox407 bpt" {...TextBox407Props} {...TextBox407Cb} {...TextBox407IoProps}/>
-<TextBox2 className="p-Blog TextBox408 bpt" {...TextBox408Props} {...TextBox408Cb} {...TextBox408IoProps}/>
+<Flex2 className="p-Blog Flex815 bpt" {...Flex815Props} {...Flex815Cb} {...Flex815IoProps}>
+<Flex2 className="p-Blog Flex814 bpt" {...Flex814Props} {...Flex814Cb} {...Flex814IoProps}>
+<Flex2 className="p-Blog Flex813 bpt" {...Flex813Props} {...Flex813Cb} {...Flex813IoProps}>
+<TextBox2 className="p-Blog TextBox674 bpt" {...TextBox674Props} {...TextBox674Cb} {...TextBox674IoProps}/>
+<TextBox2 className="p-Blog TextBox673 bpt" {...TextBox673Props} {...TextBox673Cb} {...TextBox673IoProps}/>
 </Flex2>
-<Flex2 className="p-Blog Flex540 bpt" {...Flex540Props} {...Flex540Cb} {...Flex540IoProps}>
-<Flex2 className="p-Blog Flex537 bpt" {...Flex537Props} {...Flex537Cb} {...Flex537IoProps}>
-<Image2 className="p-Blog Image162 bpt" {...Image162Props} {...Image162Cb} {...Image162IoProps}/>
-<TextBox2 className="p-Blog TextBox406 bpt" {...TextBox406Props} {...TextBox406Cb} {...TextBox406IoProps}/>
-<Flex2 className="p-Blog Flex533 bpt" {...Flex533Props} {...Flex533Cb} {...Flex533IoProps}>
-<Image2 className="p-Blog Image161 bpt" {...Image161Props} {...Image161Cb} {...Image161IoProps}/>
-<TextBox2 className="p-Blog TextBox405 bpt" {...TextBox405Props} {...TextBox405Cb} {...TextBox405IoProps}/>
-</Flex2>
-</Flex2>
-<Flex2 className="p-Blog Flex538 bpt" {...Flex538Props} {...Flex538Cb} {...Flex538IoProps}>
-<Flex2 className="p-Blog Flex536 bpt" {...Flex536Props} {...Flex536Cb} {...Flex536IoProps}>
-<Link2 className="p-Blog Link214 bpt" {...Link214Props} {...Link214Cb} {...Link214IoProps}/>
-<Link2 className="p-Blog Link213 bpt" {...Link213Props} {...Link213Cb} {...Link213IoProps}/>
-<Link2 className="p-Blog Link212 bpt" {...Link212Props} {...Link212Cb} {...Link212IoProps}/>
-</Flex2>
-<Flex2 className="p-Blog Flex534 bpt" {...Flex534Props} {...Flex534Cb} {...Flex534IoProps}>
-<Link2 className="p-Blog Link206 bpt" {...Link206Props} {...Link206Cb} {...Link206IoProps}/>
-<Link2 className="p-Blog Link208 bpt" {...Link208Props} {...Link208Cb} {...Link208IoProps}/>
-<Link2 className="p-Blog Link207 bpt" {...Link207Props} {...Link207Cb} {...Link207IoProps}/>
-</Flex2>
-<Flex2 className="p-Blog Flex535 bpt" {...Flex535Props} {...Flex535Cb} {...Flex535IoProps}>
-<Link2 className="p-Blog Link209 bpt" {...Link209Props} {...Link209Cb} {...Link209IoProps}/>
-<Link2 className="p-Blog Link210 bpt" {...Link210Props} {...Link210Cb} {...Link210IoProps}/>
-<Link2 className="p-Blog Link211 bpt" {...Link211Props} {...Link211Cb} {...Link211IoProps}/>
+<Flex2 className="p-Blog Flex812 bpt" {...Flex812Props} {...Flex812Cb} {...Flex812IoProps}>
+<Flex2 className="p-Blog Flex810 bpt" {...Flex810Props} {...Flex810Cb} {...Flex810IoProps}>
+<Image2 className="p-Blog Image241 bpt" {...Image241Props} {...Image241Cb} {...Image241IoProps}/>
+<TextBox2 className="p-Blog TextBox666 bpt" {...TextBox666Props} {...TextBox666Cb} {...TextBox666IoProps}/>
+<Flex2 className="p-Blog Flex808 bpt" {...Flex808Props} {...Flex808Cb} {...Flex808IoProps}>
+<Image2 className="p-Blog Image240 bpt" {...Image240Props} {...Image240Cb} {...Image240IoProps}/>
+<TextBox2 className="p-Blog TextBox665 bpt" {...TextBox665Props} {...TextBox665Cb} {...TextBox665IoProps}/>
 </Flex2>
 </Flex2>
+<Flex2 className="p-Blog Flex809 bpt" {...Flex809Props} {...Flex809Cb} {...Flex809IoProps}>
+<Flex2 className="p-Blog Flex805 bpt" {...Flex805Props} {...Flex805Cb} {...Flex805IoProps}>
+<TextBox2 className="p-Blog TextBox658 bpt" {...TextBox658Props} {...TextBox658Cb} {...TextBox658IoProps}/>
+<TextBox2 className="p-Blog TextBox656 bpt" {...TextBox656Props} {...TextBox656Cb} {...TextBox656IoProps}/>
+<TextBox2 className="p-Blog TextBox657 bpt" {...TextBox657Props} {...TextBox657Cb} {...TextBox657IoProps}/>
 </Flex2>
-<Flex2 className="p-Blog Flex541 bpt" {...Flex541Props} {...Flex541Cb} {...Flex541IoProps}>
-<TextBox2 className="p-Blog TextBox409 bpt" {...TextBox409Props} {...TextBox409Cb} {...TextBox409IoProps}/>
-<Link2 className="p-Blog Link215 bpt" {...Link215Props} {...Link215Cb} {...Link215IoProps}/>
-<TextBox2 className="p-Blog TextBox410 bpt" {...TextBox410Props} {...TextBox410Cb} {...TextBox410IoProps}/>
-<Link2 className="p-Blog Link216 bpt" {...Link216Props} {...Link216Cb} {...Link216IoProps}/>
-<TextBox2 className="p-Blog TextBox411 bpt" {...TextBox411Props} {...TextBox411Cb} {...TextBox411IoProps}/>
-<Link2 className="p-Blog Link218 bpt" {...Link218Props} {...Link218Cb} {...Link218IoProps}/>
-<TextBox2 className="p-Blog TextBox412 bpt" {...TextBox412Props} {...TextBox412Cb} {...TextBox412IoProps}/>
-<Link2 className="p-Blog Link219 bpt" {...Link219Props} {...Link219Cb} {...Link219IoProps}/>
-<TextBox2 className="p-Blog TextBox413 bpt" {...TextBox413Props} {...TextBox413Cb} {...TextBox413IoProps}/>
-<Link2 className="p-Blog Link217 bpt" {...Link217Props} {...Link217Cb} {...Link217IoProps}/>
-<TextBox2 className="p-Blog TextBox414 bpt" {...TextBox414Props} {...TextBox414Cb} {...TextBox414IoProps}/>
-<Link2 className="p-Blog Link220 bpt" {...Link220Props} {...Link220Cb} {...Link220IoProps}/>
+<Flex2 className="p-Blog Flex807 bpt" {...Flex807Props} {...Flex807Cb} {...Flex807IoProps}>
+<TextBox2 className="p-Blog TextBox664 bpt" {...TextBox664Props} {...TextBox664Cb} {...TextBox664IoProps}/>
+<TextBox2 className="p-Blog TextBox663 bpt" {...TextBox663Props} {...TextBox663Cb} {...TextBox663IoProps}/>
+<TextBox2 className="p-Blog TextBox662 bpt" {...TextBox662Props} {...TextBox662Cb} {...TextBox662IoProps}/>
+</Flex2>
+<Flex2 className="p-Blog Flex806 bpt" {...Flex806Props} {...Flex806Cb} {...Flex806IoProps}>
+<TextBox2 className="p-Blog TextBox661 bpt" {...TextBox661Props} {...TextBox661Cb} {...TextBox661IoProps}/>
+<TextBox2 className="p-Blog TextBox660 bpt" {...TextBox660Props} {...TextBox660Cb} {...TextBox660IoProps}/>
+<TextBox2 className="p-Blog TextBox659 bpt" {...TextBox659Props} {...TextBox659Cb} {...TextBox659IoProps}/>
+</Flex2>
+</Flex2>
+</Flex2>
+<Flex2 className="p-Blog Flex811 bpt" {...Flex811Props} {...Flex811Cb} {...Flex811IoProps}>
+<TextBox2 className="p-Blog TextBox672 bpt" {...TextBox672Props} {...TextBox672Cb} {...TextBox672IoProps}/>
+<Link2 className="p-Blog Link232 bpt" {...Link232Props} {...Link232Cb} {...Link232IoProps}/>
+<TextBox2 className="p-Blog TextBox671 bpt" {...TextBox671Props} {...TextBox671Cb} {...TextBox671IoProps}/>
+<Link2 className="p-Blog Link231 bpt" {...Link231Props} {...Link231Cb} {...Link231IoProps}/>
+<TextBox2 className="p-Blog TextBox670 bpt" {...TextBox670Props} {...TextBox670Cb} {...TextBox670IoProps}/>
+<Link2 className="p-Blog Link229 bpt" {...Link229Props} {...Link229Cb} {...Link229IoProps}/>
+<TextBox2 className="p-Blog TextBox669 bpt" {...TextBox669Props} {...TextBox669Cb} {...TextBox669IoProps}/>
+<Link2 className="p-Blog Link228 bpt" {...Link228Props} {...Link228Cb} {...Link228IoProps}/>
+<TextBox2 className="p-Blog TextBox668 bpt" {...TextBox668Props} {...TextBox668Cb} {...TextBox668IoProps}/>
+<Link2 className="p-Blog Link230 bpt" {...Link230Props} {...Link230Cb} {...Link230IoProps}/>
+<TextBox2 className="p-Blog TextBox667 bpt" {...TextBox667Props} {...TextBox667Cb} {...TextBox667IoProps}/>
+<Link2 className="p-Blog Link227 bpt" {...Link227Props} {...Link227Cb} {...Link227IoProps}/>
 </Flex2>
 </Flex2>
 </Flex2>
