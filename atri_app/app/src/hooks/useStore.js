@@ -94,43 +94,16 @@ const desktopModeProps = {
     "Flex204": {
       "callbacks": {}
     },
-    "Flex205": {
-      "callbacks": {}
-    },
-    "Flex208": {
-      "callbacks": {}
-    },
-    "Flex209": {
-      "callbacks": {}
-    },
     "Flex316": {
       "callbacks": {}
     },
     "Flex315": {
       "callbacks": {}
     },
-    "Flex312": {
-      "callbacks": {}
-    },
-    "Flex313": {
-      "callbacks": {}
-    },
-    "Flex314": {
-      "callbacks": {}
-    },
     "Flex321": {
       "callbacks": {}
     },
     "Flex320": {
-      "callbacks": {}
-    },
-    "Flex317": {
-      "callbacks": {}
-    },
-    "Flex318": {
-      "callbacks": {}
-    },
-    "Flex319": {
       "callbacks": {}
     },
     "Flex1": {
@@ -462,6 +435,9 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex299": {
+      "callbacks": {}
+    },
+    "Flex405": {
       "callbacks": {}
     },
     "Flex192": {
@@ -899,33 +875,26 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox97": {
+    "UnorderedList1": {
       "custom": {
-        "text": "Design Strategy"
-      },
-      "callbacks": {
-        "onClick": [
+        "type": "disc",
+        "titleColor": "#000000",
+        "descriptionColor": "#00000073",
+        "items": [
           {
-            "sendEventData": true
+            "title": "Design Strategy"
+          },
+          {
+            "title": "Web and Mobile App",
+            "description": "",
+            "icon": ""
+          },
+          {
+            "title": "Front-end Development",
+            "description": "",
+            "icon": ""
           }
         ]
-      }
-    },
-    "TextBox100": {
-      "custom": {
-        "text": "Web and Mobile App  Design"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox101": {
-      "custom": {
-        "text": "Front-end Development"
       },
       "callbacks": {
         "onClick": [
@@ -972,33 +941,26 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox222": {
+    "UnorderedList2": {
       "custom": {
-        "text": "Figma"
-      },
-      "callbacks": {
-        "onClick": [
+        "type": "disc",
+        "titleColor": "#000000",
+        "descriptionColor": "#00000073",
+        "items": [
           {
-            "sendEventData": true
+            "title": "Sketch"
+          },
+          {
+            "title": "Webflow",
+            "description": "",
+            "icon": ""
+          },
+          {
+            "title": "Figma",
+            "description": "",
+            "icon": ""
           }
         ]
-      }
-    },
-    "TextBox223": {
-      "custom": {
-        "text": "Webflow"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox224": {
-      "custom": {
-        "text": "Sketch"
       },
       "callbacks": {
         "onClick": [
@@ -1045,33 +1007,26 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox227": {
+    "UnorderedList3": {
       "custom": {
-        "text": "Efficient and maintainable"
-      },
-      "callbacks": {
-        "onClick": [
+        "type": "disc",
+        "titleColor": "#000000",
+        "descriptionColor": "#00000073",
+        "items": [
           {
-            "sendEventData": true
+            "title": "Clean and functional"
+          },
+          {
+            "title": "Device and user friendly",
+            "description": "",
+            "icon": ""
+          },
+          {
+            "title": "Efficient and maintainable",
+            "description": "",
+            "icon": ""
           }
         ]
-      }
-    },
-    "TextBox228": {
-      "custom": {
-        "text": "Device and user friendly"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox229": {
-      "custom": {
-        "text": "Clean and functional"
       },
       "callbacks": {
         "onClick": [
@@ -1568,6 +1523,30 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox309": {
+      "custom": {
+        "text": "<"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox310": {
+      "custom": {
+        "text": ">"
       },
       "callbacks": {
         "onClick": [
@@ -2460,19 +2439,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image83": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/testimonial1.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "TextBox212": {
       "custom": {
         "text": "Founder, Double Bunch"
@@ -2488,6 +2454,30 @@ const desktopModeProps = {
     "TextBox213": {
       "custom": {
         "text": "John Frankin"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox311": {
+      "custom": {
+        "text": "<"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox313": {
+      "custom": {
+        "text": ">"
       },
       "callbacks": {
         "onClick": [
@@ -2521,6 +2511,22 @@ const desktopModeProps = {
           }
         ]
       }
+    },
+    "Image83": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/testimonial1.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex406": {
+      "callbacks": {}
     },
     "TextBox209": {
       "custom": {

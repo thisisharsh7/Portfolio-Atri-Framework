@@ -1,10 +1,12 @@
 {
-  "Flex": 404,
-  "TextBox": 308,
+  "Flex": 406,
+  "TextBox": 313,
   "Image": 116,
   "Link": 160,
-  "Icon": 25,
+  "Icon": 27,
   "Accordion": 5,
   "Testimonial": 1,
-  "Div": 1
+  "Div": 1,
+  "UnorderedList": 3,
+  "Overlay": 4
 }
