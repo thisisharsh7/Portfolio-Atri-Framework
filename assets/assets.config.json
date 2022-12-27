@@ -97,5 +97,11 @@
   },
   "call.svg": {
     "mime": "image/svg+xml"
+  },
+  "gradient.jpg": {
+    "mime": "image/jpeg"
+  },
+  "darrow.svg": {
+    "mime": "image/svg+xml"
   }
 }

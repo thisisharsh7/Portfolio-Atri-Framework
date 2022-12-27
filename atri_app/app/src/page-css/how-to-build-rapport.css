@@ -1,0 +1,1243 @@
+.p-how-to-build-rapport.Flex1291 {
+display: flex;
+justify-content: center;
+color: #ffffff;
+background-color: #000000;
+font-family: IBM Plex Sans;
+font-size: 10px;
+}
+.p-how-to-build-rapport.Flex1290 {
+display: flex;
+flex-direction: column;
+row-gap: 80px;
+width: 82%;
+max-width: 1215px;
+padding-top: 110px;
+padding-bottom: 30px;
+padding-left: ;
+margin-top: ;
+}
+.p-how-to-build-rapport.Flex1287 {
+display: flex;
+margin-top: 50px;
+column-gap: 3px;
+row-gap: ;
+font-size: 1.4em;
+color: #8A95AD;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-how-to-build-rapport.Flex1288 {
+display: flex;
+justify-content: space-between;
+min-width: px;
+}
+.p-how-to-build-rapport.Flex1285 {
+display: flex;
+flex-direction: row;
+column-gap: 5.5em;
+row-gap: ;
+flex-wrap: wrap;
+justify-content: space-between;
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 1.8em;
+}
+.p-how-to-build-rapport.Flex1281 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1282 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1283 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1286 {
+display: flex;
+flex-direction: column;
+row-gap: 1.5em;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1284 {
+display: flex;
+row-gap: ;
+column-gap: 14px;
+align-items: center;
+cursor: pointer;
+}
+.p-how-to-build-rapport.Flex1289 {
+display: flex;
+flex-direction: column;
+row-gap: ;
+font-family: IBM Plex Sans;
+font-size: 5.3em;
+font-weight: 700;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1310 {
+display: flex;
+width: 100%;
+align-content: stretch;
+justify-content: center;
+position: static;
+background-color: #000000;
+color: #fbfbfb;
+font-size: 10px;
+font-family: ;
+}
+.p-how-to-build-rapport.Flex1309 {
+display: flex;
+width: 82%;
+max-width: 1215px;
+flex-direction: row;
+padding-top: 50px;
+padding-bottom: 60px;
+justify-content: space-between;
+align-items: flex-start;
+position: relative;
+row-gap: ;
+column-gap: ;
+}
+.p-how-to-build-rapport.Flex1308 {
+display: flex;
+flex-direction: column;
+row-gap: 12px;
+padding-bottom: 60px;
+justify-content: flex-start;
+align-items: flex-start;
+position: sticky;
+top: 0;
+padding-top: 30px;
+}
+.p-how-to-build-rapport.Flex1514 {
+display: flex;
+width: 58%;
+flex-direction: column;
+row-gap: 3.5em;
+padding-top: 30px;
+}
+.p-how-to-build-rapport.Flex1509 {
+display: flex;
+width: 100%;
+flex-direction: column;
+row-gap: ;
+padding-bottom: 30px;
+padding-left: ;
+padding-top: ;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #fffcfc;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1499 {
+display: flex;
+column-gap: 2px;
+align-items: flex-start;
+font-size: 1.6em;
+color: #d9d9d9;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-how-to-build-rapport.Flex1500 {
+display: flex;
+column-gap: 1.1em;
+font-family: IBM Plex Sans;
+font-size: 1.8em;
+font-weight: 400;
+align-items: center;
+cursor: pointer;
+}
+.p-how-to-build-rapport.Flex1510 {
+display: flex;
+width: 100%;
+flex-direction: column;
+row-gap: ;
+padding-bottom: 30px;
+padding-left: ;
+padding-top: ;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #fffcfc;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1501 {
+display: flex;
+column-gap: 1.1em;
+font-family: IBM Plex Sans;
+font-size: 1.8em;
+font-weight: 400;
+align-items: center;
+cursor: pointer;
+}
+.p-how-to-build-rapport.Flex1502 {
+display: flex;
+column-gap: 2px;
+align-items: flex-start;
+font-size: 1.6em;
+color: #d9d9d9;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-how-to-build-rapport.Flex1511 {
+display: flex;
+width: 100%;
+flex-direction: column;
+row-gap: ;
+padding-bottom: 30px;
+padding-left: ;
+padding-top: ;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #fffcfc;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1503 {
+display: flex;
+column-gap: 1.1em;
+font-family: IBM Plex Sans;
+font-size: 1.8em;
+font-weight: 400;
+align-items: center;
+cursor: pointer;
+}
+.p-how-to-build-rapport.Flex1504 {
+display: flex;
+column-gap: 2px;
+align-items: flex-start;
+font-size: 1.6em;
+color: #d9d9d9;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-how-to-build-rapport.Flex1512 {
+display: flex;
+width: 100%;
+flex-direction: column;
+row-gap: ;
+padding-bottom: 30px;
+padding-left: ;
+padding-top: ;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #fffcfc;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1505 {
+display: flex;
+column-gap: 1.1em;
+font-family: IBM Plex Sans;
+font-size: 1.8em;
+font-weight: 400;
+align-items: center;
+cursor: pointer;
+}
+.p-how-to-build-rapport.Flex1506 {
+display: flex;
+column-gap: 2px;
+align-items: flex-start;
+font-size: 1.6em;
+color: #d9d9d9;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-how-to-build-rapport.Flex1513 {
+display: flex;
+width: 100%;
+flex-direction: column;
+row-gap: ;
+padding-bottom: 30px;
+padding-left: ;
+padding-top: ;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #fffcfc;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1507 {
+display: flex;
+column-gap: 1.1em;
+font-family: IBM Plex Sans;
+font-size: 1.8em;
+font-weight: 400;
+align-items: center;
+cursor: pointer;
+}
+.p-how-to-build-rapport.Flex1508 {
+display: flex;
+column-gap: 2px;
+align-items: flex-start;
+font-size: 1.6em;
+color: #d9d9d9;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-how-to-build-rapport.Flex1322 {
+display: flex;
+justify-content: center;
+font-family: IBM Plex Sans;
+font-size: 10.5px;
+}
+.p-how-to-build-rapport.Flex1321 {
+display: flex;
+width: 82%;
+max-width: 1215px;
+padding-top: 70px;
+padding-bottom: 85px;
+}
+.p-how-to-build-rapport.Flex1320 {
+display: flex;
+width: 60%;
+flex-direction: column;
+row-gap: 32px;
+}
+.p-how-to-build-rapport.Flex1317 {
+display: flex;
+flex-direction: column;
+font-size: 1.85em;
+font-family: IBM Plex Sans;
+font-weight: 400;
+color: #606060;
+row-gap: 11px;
+align-items: flex-start;
+}
+.p-how-to-build-rapport.Flex1311 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-how-to-build-rapport.Flex1312 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-how-to-build-rapport.Flex1313 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-how-to-build-rapport.Flex1318 {
+display: flex;
+flex-direction: column;
+font-size: 1.85em;
+font-family: IBM Plex Sans;
+font-weight: 400;
+color: #606060;
+row-gap: 11px;
+}
+.p-how-to-build-rapport.Flex1314 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-how-to-build-rapport.Flex1315 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-how-to-build-rapport.Flex1316 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-how-to-build-rapport.Flex1319 {
+display: flex;
+padding-left: 32px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-left-width: 5px;
+border-left-style: solid;
+border-left-color: #736b6b66;
+}
+.p-how-to-build-rapport.Flex1328 {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-family: IBM Plex Sans;
+font-size: 9.5px;
+padding-bottom: 100px;
+overflow: hidden;
+}
+.p-how-to-build-rapport.Flex1327 {
+display: flex;
+justify-content: space-between;
+padding-top: 45px;
+position: relative;
+align-items: center;
+width: 82%;
+max-width: 1215px;
+row-gap: 50px;
+column-gap: 20px;
+}
+.p-how-to-build-rapport.Flex1324 {
+display: flex;
+position: absolute;
+bottom: 0;
+left: 0;
+}
+.p-how-to-build-rapport.Flex1325 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+align-items: flex-start;
+width: 45%;
+justify-content: center;
+}
+.p-how-to-build-rapport.Flex1323 {
+display: flex;
+font-family: IBM Plex Sans;
+font-size: 1.45em;
+font-weight: 400;
+column-gap: 4px;
+}
+.p-how-to-build-rapport.Flex1326 {
+display: flex;
+width: 60%;
+height: 540px;
+margin-right: ;
+}
+.p-how-to-build-rapport.Flex1336 {
+display: flex;
+justify-content: center;
+padding-top: ;
+padding-bottom: ;
+width: 100%;
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 16px;
+}
+.p-how-to-build-rapport.Flex1335 {
+display: flex;
+justify-content: space-between;
+width: 82%;
+max-width: 1215px;
+align-items: center;
+padding-top: 40px;
+padding-bottom: 8px;
+}
+.p-how-to-build-rapport.Flex1334 {
+display: flex;
+flex-direction: row;
+column-gap: 26.2px;
+align-items: center;
+font-family: IBM Plex Sans;
+font-size: 16.5px;
+font-weight: 500;
+}
+.p-how-to-build-rapport.Flex1332 {
+display: flex;
+column-gap: 8px;
+align-items: center;
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.Menu23 {
+display: none;
+}
+.p-how-to-build-rapport.Flex1333 {
+display: flex;
+}
+.p-how-to-build-rapport.Flex1331 {
+display: flex;
+}
+.p-how-to-build-rapport.Flex1330 {
+display: flex;
+flex-direction: row;
+column-gap: 28px;
+align-items: center;
+font-family: IBM Plex Sans;
+font-size: 16px;
+font-weight: 600;
+}
+.p-how-to-build-rapport.Flex1329 {
+display: flex;
+column-gap: 8px;
+align-items: center;
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.Link311 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-how-to-build-rapport.Link312 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-how-to-build-rapport.Link313 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-how-to-build-rapport.TextBox1365 {
+;
+}
+.p-how-to-build-rapport.TextBox1366 {
+;
+}
+.p-how-to-build-rapport.TextBox1367 {
+;
+}
+.p-how-to-build-rapport.Link314 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-how-to-build-rapport.TextBox1368 {
+;
+}
+.p-how-to-build-rapport.Link315 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-how-to-build-rapport.TextBox1369 {
+;
+}
+.p-how-to-build-rapport.Link316 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-how-to-build-rapport.TextBox1370 {
+;
+}
+.p-how-to-build-rapport.TextBox1354 {
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1355 {
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1356 {
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1357 {
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1358 {
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1359 {
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1360 {
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1361 {
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1362 {
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1364 {
+color: #666666;
+font-size: 1.5em;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-how-to-build-rapport.Image354 {
+height: ;
+max-width: 100%;
+text-align: left;
+width: 190px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1363 {
+color: #5c5c5c;
+font-size: 1.5em;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-how-to-build-rapport.Image353 {
+width: 30px;
+}
+.p-how-to-build-rapport.TextBox1371 {
+background-image: ;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+background-color: #faecec;
+background-attachment: scroll;
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1372 {
+font-size: ;
+}
+.p-how-to-build-rapport.TextBox1398 {
+font-family: IBM Plex Sans;
+font-size: 5em;
+font-weight: 600;
+}
+.p-how-to-build-rapport.TextBox1399 {
+font-size: 2.1em;
+font-family: IBM Plex Sans;
+font-weight: 700;
+background-image: ;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+background-attachment: scroll;
+background-origin: content-box;
+background-repeat: repeat;
+background-color: #fff6f6;
+}
+.p-how-to-build-rapport.TextBox1697 {
+padding-top: ;
+padding-bottom: 24px;
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 85%;
+}
+.p-how-to-build-rapport.TextBox1677 {
+;
+}
+.p-how-to-build-rapport.TextBox1678 {
+font-family: ;
+font-weight: ;
+color: #ffffff;
+}
+.p-how-to-build-rapport.TextBox1679 {
+;
+}
+.p-how-to-build-rapport.Image408 {
+height: 0.73em;
+width: 0.78em;
+}
+.p-how-to-build-rapport.TextBox1680 {
+;
+}
+.p-how-to-build-rapport.TextBox1698 {
+padding-top: ;
+padding-bottom: 24px;
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 85%;
+}
+.p-how-to-build-rapport.TextBox1681 {
+;
+}
+.p-how-to-build-rapport.Image409 {
+height: 0.73em;
+width: 0.78em;
+}
+.p-how-to-build-rapport.TextBox1682 {
+;
+}
+.p-how-to-build-rapport.TextBox1683 {
+font-family: ;
+font-weight: ;
+color: #ffffff;
+}
+.p-how-to-build-rapport.TextBox1684 {
+;
+}
+.p-how-to-build-rapport.TextBox1699 {
+padding-top: ;
+padding-bottom: 24px;
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 85%;
+}
+.p-how-to-build-rapport.TextBox1685 {
+;
+}
+.p-how-to-build-rapport.Image410 {
+height: 0.73em;
+width: 0.78em;
+}
+.p-how-to-build-rapport.TextBox1686 {
+;
+}
+.p-how-to-build-rapport.TextBox1687 {
+font-family: ;
+font-weight: ;
+color: #ffffff;
+}
+.p-how-to-build-rapport.TextBox1688 {
+;
+}
+.p-how-to-build-rapport.TextBox1700 {
+padding-top: ;
+padding-bottom: 24px;
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 85%;
+}
+.p-how-to-build-rapport.TextBox1689 {
+;
+}
+.p-how-to-build-rapport.Image411 {
+height: 0.73em;
+width: 0.78em;
+}
+.p-how-to-build-rapport.TextBox1690 {
+;
+}
+.p-how-to-build-rapport.TextBox1691 {
+font-family: ;
+font-weight: ;
+color: #ffffff;
+}
+.p-how-to-build-rapport.TextBox1692 {
+;
+}
+.p-how-to-build-rapport.TextBox1701 {
+padding-top: ;
+padding-bottom: 24px;
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 85%;
+}
+.p-how-to-build-rapport.TextBox1693 {
+;
+}
+.p-how-to-build-rapport.Image412 {
+height: 0.73em;
+width: 0.78em;
+}
+.p-how-to-build-rapport.TextBox1694 {
+;
+}
+.p-how-to-build-rapport.TextBox1695 {
+font-family: ;
+font-weight: ;
+color: #ffffff;
+}
+.p-how-to-build-rapport.TextBox1696 {
+;
+}
+.p-how-to-build-rapport.TextBox1413 {
+font-family: IBM Plex Sans;
+font-size: 2.1em;
+font-weight: 400;
+color: #666666;
+}
+.p-how-to-build-rapport.TextBox1414 {
+font-family: IBM Plex Sans;
+font-size: 2.1em;
+font-weight: 400;
+color: #666666;
+}
+.p-how-to-build-rapport.TextBox1415 {
+font-family: IBM Plex Sans;
+font-size: 2.1em;
+font-weight: 400;
+color: #666666ff;
+}
+.p-how-to-build-rapport.TextBox1416 {
+font-family: IBM Plex Sans;
+font-size: 2.1em;
+font-weight: 400;
+color: #666666;
+}
+.p-how-to-build-rapport.TextBox1417 {
+font-size: 2.1em;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 1.1em;
+}
+.p-how-to-build-rapport.TextBox1418 {
+font-size: 2.2em;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 1.1em;
+}
+.p-how-to-build-rapport.TextBox1419 {
+font-size: 2.6em;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 1.1em;
+}
+.p-how-to-build-rapport.TextBox1420 {
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 700;
+line-height: 1.1em;
+}
+.p-how-to-build-rapport.TextBox1421 {
+font-size: 3.6em;
+font-family: IBM Plex Sans;
+font-weight: 700;
+line-height: 1.1em;
+}
+.p-how-to-build-rapport.TextBox1422 {
+font-family: IBM Plex Sans;
+font-size: 2.1em;
+font-weight: 400;
+color: #666666;
+}
+.p-how-to-build-rapport.TextBox1400 {
+;
+}
+.p-how-to-build-rapport.TextBox1401 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-how-to-build-rapport.TextBox1402 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-how-to-build-rapport.TextBox1403 {
+;
+}
+.p-how-to-build-rapport.TextBox1404 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-how-to-build-rapport.TextBox1405 {
+;
+}
+.p-how-to-build-rapport.TextBox1406 {
+;
+}
+.p-how-to-build-rapport.TextBox1407 {
+;
+}
+.p-how-to-build-rapport.TextBox1408 {
+;
+}
+.p-how-to-build-rapport.TextBox1409 {
+;
+}
+.p-how-to-build-rapport.TextBox1410 {
+;
+}
+.p-how-to-build-rapport.TextBox1411 {
+;
+}
+.p-how-to-build-rapport.TextBox1412 {
+font-family: IBM Plex Sans;
+font-weight: italic;
+font-size: 2em;
+text-align: left;
+}
+.p-how-to-build-rapport.Image360 {
+position: static;
+}
+.p-how-to-build-rapport.TextBox1426 {
+font-family: IBM Plex Sans;
+font-size: 5.8em;
+font-weight: 700;
+width: ;
+line-height: 1.15em;
+}
+.p-how-to-build-rapport.TextBox1423 {
+font-size: ;
+font-family: ;
+font-weight: ;
+background-clip: text;
+-webkit-background-clip: text;
+color: ;
+}
+.p-how-to-build-rapport.TextBox1424 {
+;
+}
+.p-how-to-build-rapport.TextBox1425 {
+;
+}
+.p-how-to-build-rapport.Image361 {
+width: 100%;
+height: 100%;
+margin-top: 0px;
+margin-right: ;
+}
+.p-how-to-build-rapport.Image364 {
+height: 28px;
+max-width: 100%;
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1433 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1434 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1435 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1436 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1432 {
+;
+}
+.p-how-to-build-rapport.Image363 {
+;
+}
+.p-how-to-build-rapport.TextBox1428 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1429 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1430 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.TextBox1431 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-how-to-build-rapport.Image362 {
+;
+}
+.p-how-to-build-rapport.TextBox1427 {
+;
+}
+@media screen and (max-width: 991px) {
+	.p-how-to-build-rapport.Flex1320.bpt {
+width: 100%;
+	}
+	.p-how-to-build-rapport.Flex1328.bpt {
+align-items: center;
+	}
+	.p-how-to-build-rapport.Flex1324.bpt {
+display: none;
+	}
+	.p-how-to-build-rapport.Flex1325.bpt {
+width: 100%;
+column-gap: ;
+row-gap: 1.5em;
+justify-content: flex-end;
+flex-direction: column-reverse;
+	}
+	.p-how-to-build-rapport.Flex1326.bpt {
+width: 100%;
+height: 100%;
+	}
+	.p-how-to-build-rapport.Flex1336.bpt {
+width: px;
+position: static;
+	}
+	.p-how-to-build-rapport.Flex1332.bpt {
+column-gap: 6px;
+	}
+	.p-how-to-build-rapport.Flex1329.bpt {
+column-gap: 6px;
+	}
+	.p-how-to-build-rapport.TextBox1417.bpt {
+font-weight: 500;
+	}
+	.p-how-to-build-rapport.TextBox1418.bpt {
+font-weight: 500;
+	}
+	.p-how-to-build-rapport.Image360.bpt {
+position: absolute;
+bottom: 0;
+left: 0;
+	}
+	.p-how-to-build-rapport.Image361.bpt {
+margin-right: ;
+width: 100%;
+height: 100%;
+	}
+	.p-how-to-build-rapport.Flex1288.bpt {
+flex-direction: column;
+row-gap: 60px;
+align-items: flex-start;
+	}
+	.p-how-to-build-rapport.Flex1514.bpt {
+min-width: 50%;
+	}
+	.p-how-to-build-rapport.Flex1327.bpt {
+align-items: center;
+padding-top: 30px;
+padding-bottom: ;
+width: 82%;
+max-width: 1215px;
+position: relative;
+flex-direction: column;
+row-gap: 40px;
+	}
+	.p-how-to-build-rapport.Flex1335.bpt {
+padding-top: 40px;
+	}
+	.p-how-to-build-rapport.Flex1334.bpt {
+column-gap: 28px;
+display: none;
+	}
+	.p-how-to-build-rapport.Flex1331.bpt {
+width: 82%;
+max-width: 1215px;
+z-index: 10;
+padding-left: ;
+	}
+	.p-how-to-build-rapport.Flex1330.bpt {
+column-gap: 28px;
+display: flex;
+z-index: 10;
+flex-direction: column;
+align-items: flex-start;
+row-gap: 28px;
+font-size: 17px;
+font-weight: 500;
+	}
+	.p-how-to-build-rapport.Flex1291.bpt {
+font-size: 10.5px;
+	}
+	.p-how-to-build-rapport.Flex1290.bpt {
+row-gap: 70px;
+	}
+	.p-how-to-build-rapport.Flex1285.bpt {
+row-gap: 1.8em;
+justify-content: flex-start;
+	}
+	.p-how-to-build-rapport.Flex1289.bpt {
+font-weight: 700;
+font-size: 4.7em;
+	}
+	.p-how-to-build-rapport.Menu23.bpt {
+display: flex;
+position: relative;
+overflow: visible;
+padding-left: 18px;
+padding-top: 18px;
+padding-right: 18px;
+padding-bottom: 18px;
+	}
+	.p-how-to-build-rapport.Flex1333.bpt {
+z-index: 5;
+background-color: #ffffff;
+right: 0;
+width: 89.5vw;
+position: absolute;
+padding-left: ;
+margin-left: ;
+padding-right: ;
+align-items: stretch;
+justify-content: center;
+overflow: hidden;
+height: ;
+padding-top: 24px;
+padding-bottom: 50px;
+	}
+}
+@media screen and (max-width: 767px) {
+	.p-how-to-build-rapport.Flex1287.bpt {
+flex-direction: row;
+font-size: 1.4em;
+display: none;
+	}
+	.p-how-to-build-rapport.Flex1288.bpt {
+flex-direction: column;
+row-gap: 70px;
+align-items: flex-start;
+	}
+	.p-how-to-build-rapport.Flex1286.bpt {
+font-size: 1.2em;
+	}
+	.p-how-to-build-rapport.Flex1310.bpt {
+font-size: 8.5px;
+	}
+	.p-how-to-build-rapport.Flex1308.bpt {
+position: static;
+width: 100%;
+	}
+	.p-how-to-build-rapport.Flex1514.bpt {
+width: 100%;
+	}
+	.p-how-to-build-rapport.Flex1322.bpt {
+font-size: 9.5px;
+	}
+	.p-how-to-build-rapport.Flex1334.bpt {
+display: none;
+flex-direction: column;
+row-gap: 28px;
+width: px;
+position: absolute;
+text-align: center;
+	}
+	.p-how-to-build-rapport.Flex1330.bpt {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+width: px;
+position: static;
+text-align: center;
+	}
+	.p-how-to-build-rapport.TextBox1699.bpt {
+width: ;
+	}
+	.p-how-to-build-rapport.TextBox1700.bpt {
+width: ;
+	}
+	.p-how-to-build-rapport.TextBox1701.bpt {
+width: ;
+	}
+	.p-how-to-build-rapport.Flex1291.bpt {
+font-size: 10px;
+	}
+	.p-how-to-build-rapport.Flex1290.bpt {
+padding-bottom: 60px;
+row-gap: 70px;
+	}
+	.p-how-to-build-rapport.Flex1285.bpt {
+row-gap: ;
+font-size: 1.8em;
+column-gap: 7em;
+	}
+	.p-how-to-build-rapport.Flex1289.bpt {
+font-size: 4.2em;
+	}
+	.p-how-to-build-rapport.Flex1309.bpt {
+flex-direction: column;
+	}
+	.p-how-to-build-rapport.Menu23.bpt {
+display: flex;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+	}
+	.p-how-to-build-rapport.Flex1333.bpt {
+right: 0;
+width: 90vw;
+	}
+	.p-how-to-build-rapport.TextBox1697.bpt {
+width: ;
+	}
+	.p-how-to-build-rapport.TextBox1698.bpt {
+width: ;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-how-to-build-rapport.Flex1291.bpt {
+font-size: 9.5px;
+	}
+	.p-how-to-build-rapport.Flex1290.bpt {
+width: 90%;
+	}
+	.p-how-to-build-rapport.Flex1285.bpt {
+flex-direction: row;
+row-gap: 1.8em;
+justify-content: flex-start;
+font-size: 1.9em;
+	}
+	.p-how-to-build-rapport.Flex1284.bpt {
+cursor: pointer;
+	}
+	.p-how-to-build-rapport.Flex1289.bpt {
+font-size: 3.8em;
+	}
+	.p-how-to-build-rapport.Flex1309.bpt {
+width: 90%;
+	}
+	.p-how-to-build-rapport.Flex1321.bpt {
+width: 90%;
+	}
+	.p-how-to-build-rapport.Flex1327.bpt {
+width: 90%;
+	}
+	.p-how-to-build-rapport.Flex1335.bpt {
+width: 90%;
+	}
+	.p-how-to-build-rapport.Menu23.bpt {
+width: ;
+height: ;
+padding-left: 8px;
+padding-top: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+	}
+	.p-how-to-build-rapport.Flex1333.bpt {
+width: 95vw;
+max-width: ;
+min-width: ;
+right: 0;
+	}
+	.p-how-to-build-rapport.Flex1331.bpt {
+width: 90%;
+padding-left: ;
+	}
+	.p-how-to-build-rapport.TextBox1354.bpt {
+cursor: pointer;
+	}
+	.p-how-to-build-rapport.TextBox1355.bpt {
+cursor: pointer;
+	}
+	.p-how-to-build-rapport.TextBox1356.bpt {
+cursor: pointer;
+	}
+	.p-how-to-build-rapport.TextBox1357.bpt {
+cursor: pointer;
+	}
+	.p-how-to-build-rapport.TextBox1358.bpt {
+cursor: pointer;
+	}
+	.p-how-to-build-rapport.TextBox1359.bpt {
+cursor: pointer;
+	}
+	.p-how-to-build-rapport.TextBox1360.bpt {
+cursor: pointer;
+	}
+	.p-how-to-build-rapport.TextBox1361.bpt {
+cursor: pointer;
+	}
+	.p-how-to-build-rapport.TextBox1362.bpt {
+cursor: pointer;
+	}
+	.p-how-to-build-rapport.TextBox1399.bpt {
+font-size: 2.45em;
+	}
+	.p-how-to-build-rapport.TextBox1697.bpt {
+width: ;
+	}
+	.p-how-to-build-rapport.TextBox1698.bpt {
+width: ;
+	}
+	.p-how-to-build-rapport.TextBox1426.bpt {
+font-size: 3.7em;
+	}
+	.p-how-to-build-rapport.TextBox1423.bpt {
+font-size: ;
+	}
+}

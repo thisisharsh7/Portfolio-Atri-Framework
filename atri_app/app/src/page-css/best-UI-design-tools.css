@@ -1,0 +1,1243 @@
+.p-best-UI-design-tools.Flex1023 {
+display: flex;
+justify-content: center;
+padding-top: ;
+padding-bottom: ;
+width: 100%;
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 16px;
+}
+.p-best-UI-design-tools.Flex1022 {
+display: flex;
+justify-content: space-between;
+width: 82%;
+max-width: 1215px;
+align-items: center;
+padding-top: 40px;
+padding-bottom: 8px;
+}
+.p-best-UI-design-tools.Flex1021 {
+display: flex;
+flex-direction: row;
+column-gap: 26.2px;
+align-items: center;
+font-family: IBM Plex Sans;
+font-size: 16.5px;
+font-weight: 500;
+}
+.p-best-UI-design-tools.Flex1019 {
+display: flex;
+column-gap: 8px;
+align-items: center;
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.Menu19 {
+display: none;
+}
+.p-best-UI-design-tools.Flex1020 {
+display: flex;
+}
+.p-best-UI-design-tools.Flex1018 {
+display: flex;
+}
+.p-best-UI-design-tools.Flex1017 {
+display: flex;
+flex-direction: row;
+column-gap: 28px;
+align-items: center;
+font-family: IBM Plex Sans;
+font-size: 16px;
+font-weight: 600;
+}
+.p-best-UI-design-tools.Flex1016 {
+display: flex;
+column-gap: 8px;
+align-items: center;
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.Flex1025 {
+display: flex;
+justify-content: center;
+font-family: IBM Plex Sans;
+font-size: 10.5px;
+}
+.p-best-UI-design-tools.Flex1037 {
+display: flex;
+width: 82%;
+max-width: 1215px;
+padding-top: 70px;
+padding-bottom: 85px;
+}
+.p-best-UI-design-tools.Flex1038 {
+display: flex;
+width: 60%;
+flex-direction: column;
+row-gap: 32px;
+}
+.p-best-UI-design-tools.Flex1040 {
+display: flex;
+padding-left: 32px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-left-width: 5px;
+border-left-style: solid;
+border-left-color: #736b6b66;
+}
+.p-best-UI-design-tools.Flex1043 {
+display: flex;
+flex-direction: column;
+font-size: 1.85em;
+font-family: IBM Plex Sans;
+font-weight: 400;
+color: #606060;
+row-gap: 11px;
+}
+.p-best-UI-design-tools.Flex1046 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-best-UI-design-tools.Flex1047 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-best-UI-design-tools.Flex1048 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-best-UI-design-tools.Flex1052 {
+display: flex;
+flex-direction: column;
+font-size: 1.85em;
+font-family: IBM Plex Sans;
+font-weight: 400;
+color: #606060;
+row-gap: 11px;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1049 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-best-UI-design-tools.Flex1050 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-best-UI-design-tools.Flex1051 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+}
+.p-best-UI-design-tools.Flex1036 {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-family: IBM Plex Sans;
+font-size: 9.5px;
+padding-bottom: 100px;
+overflow: hidden;
+}
+.p-best-UI-design-tools.Flex1035 {
+display: flex;
+justify-content: space-between;
+padding-top: 45px;
+position: relative;
+align-items: center;
+width: 82%;
+max-width: 1215px;
+row-gap: 50px;
+column-gap: 20px;
+}
+.p-best-UI-design-tools.Flex1033 {
+display: flex;
+width: 60%;
+height: 540px;
+margin-right: ;
+}
+.p-best-UI-design-tools.Flex1034 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+align-items: flex-start;
+width: 45%;
+justify-content: center;
+}
+.p-best-UI-design-tools.Flex1032 {
+display: flex;
+font-family: IBM Plex Sans;
+font-size: 1.45em;
+font-weight: 400;
+column-gap: 4px;
+}
+.p-best-UI-design-tools.Flex1054 {
+display: flex;
+position: absolute;
+bottom: 0;
+left: 0;
+}
+.p-best-UI-design-tools.Flex1065 {
+display: flex;
+justify-content: center;
+color: #ffffff;
+background-color: #000000;
+font-family: IBM Plex Sans;
+font-size: 10px;
+}
+.p-best-UI-design-tools.Flex1064 {
+display: flex;
+flex-direction: column;
+row-gap: 80px;
+width: 82%;
+max-width: 1215px;
+padding-top: 110px;
+padding-bottom: 30px;
+padding-left: ;
+margin-top: ;
+}
+.p-best-UI-design-tools.Flex1061 {
+display: flex;
+margin-top: 50px;
+column-gap: 3px;
+row-gap: ;
+font-size: 1.4em;
+color: #8A95AD;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-best-UI-design-tools.Flex1062 {
+display: flex;
+justify-content: space-between;
+min-width: px;
+}
+.p-best-UI-design-tools.Flex1059 {
+display: flex;
+flex-direction: row;
+column-gap: 5.5em;
+row-gap: ;
+flex-wrap: wrap;
+justify-content: space-between;
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 1.8em;
+}
+.p-best-UI-design-tools.Flex1055 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1056 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1057 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+row-gap: 1.8em;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1060 {
+display: flex;
+flex-direction: column;
+row-gap: 1.5em;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1058 {
+display: flex;
+row-gap: ;
+column-gap: 14px;
+align-items: center;
+cursor: pointer;
+}
+.p-best-UI-design-tools.Flex1063 {
+display: flex;
+flex-direction: column;
+row-gap: ;
+font-family: IBM Plex Sans;
+font-size: 5.3em;
+font-weight: 700;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1085 {
+display: flex;
+width: 100%;
+align-content: stretch;
+justify-content: center;
+position: static;
+background-color: #000000;
+color: #fbfbfb;
+font-size: 10px;
+font-family: ;
+}
+.p-best-UI-design-tools.Flex1084 {
+display: flex;
+width: 82%;
+max-width: 1215px;
+flex-direction: row;
+padding-top: 50px;
+padding-bottom: 60px;
+justify-content: space-between;
+align-items: flex-start;
+position: relative;
+row-gap: ;
+column-gap: ;
+}
+.p-best-UI-design-tools.Flex1082 {
+display: flex;
+flex-direction: column;
+row-gap: 12px;
+padding-bottom: 60px;
+justify-content: flex-start;
+align-items: flex-start;
+position: sticky;
+top: 0;
+padding-top: 30px;
+}
+.p-best-UI-design-tools.Flex1447 {
+display: flex;
+width: 58%;
+flex-direction: column;
+row-gap: 3.5em;
+padding-top: 30px;
+}
+.p-best-UI-design-tools.Flex1442 {
+display: flex;
+width: 100%;
+flex-direction: column;
+row-gap: ;
+padding-bottom: 30px;
+padding-left: ;
+padding-top: ;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #fffcfc;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1432 {
+display: flex;
+column-gap: 2px;
+align-items: flex-start;
+font-size: 1.6em;
+color: #d9d9d9;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-best-UI-design-tools.Flex1433 {
+display: flex;
+column-gap: 1.1em;
+font-family: IBM Plex Sans;
+font-size: 1.8em;
+font-weight: 400;
+align-items: center;
+cursor: pointer;
+}
+.p-best-UI-design-tools.Flex1443 {
+display: flex;
+width: 100%;
+flex-direction: column;
+row-gap: ;
+padding-bottom: 30px;
+padding-left: ;
+padding-top: ;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #fffcfc;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1434 {
+display: flex;
+column-gap: 2px;
+align-items: flex-start;
+font-size: 1.6em;
+color: #d9d9d9;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-best-UI-design-tools.Flex1435 {
+display: flex;
+column-gap: 1.1em;
+font-family: IBM Plex Sans;
+font-size: 1.8em;
+font-weight: 400;
+align-items: center;
+cursor: pointer;
+}
+.p-best-UI-design-tools.Flex1444 {
+display: flex;
+width: 100%;
+flex-direction: column;
+row-gap: ;
+padding-bottom: 30px;
+padding-left: ;
+padding-top: ;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #fffcfc;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1436 {
+display: flex;
+column-gap: 2px;
+align-items: flex-start;
+font-size: 1.6em;
+color: #d9d9d9;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-best-UI-design-tools.Flex1437 {
+display: flex;
+column-gap: 1.1em;
+font-family: IBM Plex Sans;
+font-size: 1.8em;
+font-weight: 400;
+align-items: center;
+cursor: pointer;
+}
+.p-best-UI-design-tools.Flex1445 {
+display: flex;
+width: 100%;
+flex-direction: column;
+row-gap: ;
+padding-bottom: 30px;
+padding-left: ;
+padding-top: ;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #fffcfc;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1438 {
+display: flex;
+column-gap: 2px;
+align-items: flex-start;
+font-size: 1.6em;
+color: #d9d9d9;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-best-UI-design-tools.Flex1439 {
+display: flex;
+column-gap: 1.1em;
+font-family: IBM Plex Sans;
+font-size: 1.8em;
+font-weight: 400;
+align-items: center;
+cursor: pointer;
+}
+.p-best-UI-design-tools.Flex1446 {
+display: flex;
+width: 100%;
+flex-direction: column;
+row-gap: ;
+padding-bottom: 30px;
+padding-left: ;
+padding-top: ;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #fffcfc;
+align-items: flex-start;
+}
+.p-best-UI-design-tools.Flex1440 {
+display: flex;
+column-gap: 1.1em;
+font-family: IBM Plex Sans;
+font-size: 1.8em;
+font-weight: 400;
+align-items: center;
+cursor: pointer;
+}
+.p-best-UI-design-tools.Flex1441 {
+display: flex;
+column-gap: 2px;
+align-items: flex-start;
+font-size: 1.6em;
+color: #d9d9d9;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-best-UI-design-tools.Image298 {
+height: 28px;
+max-width: 100%;
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox978 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox979 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox980 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox981 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox977 {
+;
+}
+.p-best-UI-design-tools.Image297 {
+;
+}
+.p-best-UI-design-tools.TextBox973 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox974 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox975 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox976 {
+padding-left: 6px;
+padding-right: 6px;
+line-height: 28px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.Image296 {
+;
+}
+.p-best-UI-design-tools.TextBox972 {
+;
+}
+.p-best-UI-design-tools.TextBox990 {
+font-family: IBM Plex Sans;
+font-size: 2.1em;
+font-weight: 400;
+color: #666666;
+}
+.p-best-UI-design-tools.TextBox991 {
+font-size: 3.6em;
+font-family: IBM Plex Sans;
+font-weight: 700;
+line-height: 1.1em;
+}
+.p-best-UI-design-tools.TextBox995 {
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 700;
+line-height: 1.1em;
+}
+.p-best-UI-design-tools.TextBox996 {
+font-size: 2.6em;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 1.1em;
+}
+.p-best-UI-design-tools.TextBox997 {
+font-size: 2.2em;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 1.1em;
+}
+.p-best-UI-design-tools.TextBox998 {
+font-size: 2.1em;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 1.1em;
+}
+.p-best-UI-design-tools.TextBox1000 {
+font-family: IBM Plex Sans;
+font-size: 2.1em;
+font-weight: 400;
+color: #666666;
+}
+.p-best-UI-design-tools.TextBox1001 {
+font-family: IBM Plex Sans;
+font-size: 2.1em;
+font-weight: 400;
+color: #666666ff;
+}
+.p-best-UI-design-tools.TextBox1002 {
+font-family: IBM Plex Sans;
+font-size: 2.1em;
+font-weight: 400;
+color: #666666;
+}
+.p-best-UI-design-tools.TextBox1021 {
+font-family: IBM Plex Sans;
+font-size: 2.1em;
+font-weight: 400;
+color: #666666;
+}
+.p-best-UI-design-tools.TextBox999 {
+font-family: IBM Plex Sans;
+font-weight: italic;
+font-size: 2em;
+text-align: left;
+}
+.p-best-UI-design-tools.TextBox1005 {
+;
+}
+.p-best-UI-design-tools.TextBox1007 {
+;
+}
+.p-best-UI-design-tools.TextBox1008 {
+;
+}
+.p-best-UI-design-tools.TextBox1009 {
+;
+}
+.p-best-UI-design-tools.TextBox1010 {
+;
+}
+.p-best-UI-design-tools.TextBox1011 {
+;
+}
+.p-best-UI-design-tools.TextBox1012 {
+;
+}
+.p-best-UI-design-tools.TextBox1019 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-best-UI-design-tools.TextBox1014 {
+;
+}
+.p-best-UI-design-tools.TextBox1018 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-best-UI-design-tools.TextBox1016 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-best-UI-design-tools.TextBox1017 {
+;
+}
+.p-best-UI-design-tools.Image301 {
+width: 100%;
+height: 100%;
+margin-top: 0px;
+margin-right: ;
+}
+.p-best-UI-design-tools.TextBox989 {
+font-family: IBM Plex Sans;
+font-size: 5.9em;
+font-weight: 700;
+width: ;
+line-height: 1.15em;
+}
+.p-best-UI-design-tools.TextBox986 {
+;
+}
+.p-best-UI-design-tools.TextBox987 {
+;
+}
+.p-best-UI-design-tools.TextBox988 {
+font-size: ;
+font-family: ;
+font-weight: ;
+background-clip: text;
+-webkit-background-clip: text;
+color: ;
+}
+.p-best-UI-design-tools.Image302 {
+position: static;
+}
+.p-best-UI-design-tools.Link293 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-best-UI-design-tools.Link294 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-best-UI-design-tools.Link295 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-best-UI-design-tools.TextBox1033 {
+;
+}
+.p-best-UI-design-tools.TextBox1034 {
+;
+}
+.p-best-UI-design-tools.TextBox1035 {
+;
+}
+.p-best-UI-design-tools.Link296 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-best-UI-design-tools.TextBox1036 {
+;
+}
+.p-best-UI-design-tools.Link297 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-best-UI-design-tools.TextBox1037 {
+;
+}
+.p-best-UI-design-tools.Link298 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-best-UI-design-tools.TextBox1038 {
+;
+}
+.p-best-UI-design-tools.TextBox1022 {
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1023 {
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1024 {
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1025 {
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1026 {
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1027 {
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1028 {
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1029 {
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1030 {
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1032 {
+color: #666666;
+font-size: 1.5em;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-best-UI-design-tools.Image304 {
+height: ;
+max-width: 100%;
+text-align: left;
+width: 190px;
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1031 {
+color: #5c5c5c;
+font-size: 1.5em;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-best-UI-design-tools.Image303 {
+width: 30px;
+}
+.p-best-UI-design-tools.TextBox1039 {
+background-image: ;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+background-color: #faecec;
+background-attachment: scroll;
+cursor: pointer;
+}
+.p-best-UI-design-tools.TextBox1040 {
+font-size: ;
+}
+.p-best-UI-design-tools.TextBox1067 {
+font-size: 2.1em;
+font-family: IBM Plex Sans;
+font-weight: 700;
+background-image: ;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+background-attachment: scroll;
+background-origin: content-box;
+background-repeat: repeat;
+background-color: #fff6f6;
+}
+.p-best-UI-design-tools.TextBox1068 {
+font-family: IBM Plex Sans;
+font-size: 5em;
+font-weight: 600;
+}
+.p-best-UI-design-tools.TextBox1595 {
+padding-top: ;
+padding-bottom: 24px;
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 85%;
+}
+.p-best-UI-design-tools.TextBox1575 {
+;
+}
+.p-best-UI-design-tools.TextBox1576 {
+font-family: ;
+font-weight: ;
+color: #ffffff;
+}
+.p-best-UI-design-tools.TextBox1577 {
+;
+}
+.p-best-UI-design-tools.Image388 {
+height: 0.73em;
+width: 0.78em;
+}
+.p-best-UI-design-tools.TextBox1578 {
+;
+}
+.p-best-UI-design-tools.TextBox1596 {
+padding-top: ;
+padding-bottom: 24px;
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 85%;
+}
+.p-best-UI-design-tools.TextBox1579 {
+;
+}
+.p-best-UI-design-tools.TextBox1580 {
+font-family: ;
+font-weight: ;
+color: #ffffff;
+}
+.p-best-UI-design-tools.TextBox1581 {
+;
+}
+.p-best-UI-design-tools.Image389 {
+height: 0.73em;
+width: 0.78em;
+}
+.p-best-UI-design-tools.TextBox1582 {
+;
+}
+.p-best-UI-design-tools.TextBox1597 {
+padding-top: ;
+padding-bottom: 24px;
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 85%;
+}
+.p-best-UI-design-tools.TextBox1583 {
+;
+}
+.p-best-UI-design-tools.TextBox1584 {
+font-family: ;
+font-weight: ;
+color: #ffffff;
+}
+.p-best-UI-design-tools.TextBox1585 {
+;
+}
+.p-best-UI-design-tools.Image390 {
+height: 0.73em;
+width: 0.78em;
+}
+.p-best-UI-design-tools.TextBox1586 {
+;
+}
+.p-best-UI-design-tools.TextBox1598 {
+padding-top: ;
+padding-bottom: 24px;
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 85%;
+}
+.p-best-UI-design-tools.TextBox1587 {
+;
+}
+.p-best-UI-design-tools.TextBox1588 {
+font-family: ;
+font-weight: ;
+color: #ffffff;
+}
+.p-best-UI-design-tools.TextBox1589 {
+;
+}
+.p-best-UI-design-tools.Image391 {
+height: 0.73em;
+width: 0.78em;
+}
+.p-best-UI-design-tools.TextBox1590 {
+;
+}
+.p-best-UI-design-tools.TextBox1599 {
+padding-top: ;
+padding-bottom: 24px;
+font-size: 2.8em;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 85%;
+}
+.p-best-UI-design-tools.TextBox1591 {
+;
+}
+.p-best-UI-design-tools.Image392 {
+height: 0.73em;
+width: 0.78em;
+}
+.p-best-UI-design-tools.TextBox1592 {
+;
+}
+.p-best-UI-design-tools.TextBox1593 {
+font-family: ;
+font-weight: ;
+color: #ffffff;
+}
+.p-best-UI-design-tools.TextBox1594 {
+;
+}
+@media screen and (max-width: 991px) {
+	.p-best-UI-design-tools.Flex1023.bpt {
+width: px;
+position: static;
+	}
+	.p-best-UI-design-tools.Flex1019.bpt {
+column-gap: 6px;
+	}
+	.p-best-UI-design-tools.Flex1016.bpt {
+column-gap: 6px;
+	}
+	.p-best-UI-design-tools.Flex1038.bpt {
+width: 100%;
+	}
+	.p-best-UI-design-tools.Flex1036.bpt {
+align-items: center;
+	}
+	.p-best-UI-design-tools.Flex1033.bpt {
+width: 100%;
+height: 100%;
+	}
+	.p-best-UI-design-tools.Flex1034.bpt {
+width: 100%;
+column-gap: ;
+row-gap: 1.5em;
+justify-content: flex-end;
+flex-direction: column-reverse;
+	}
+	.p-best-UI-design-tools.Flex1054.bpt {
+display: none;
+	}
+	.p-best-UI-design-tools.TextBox997.bpt {
+font-weight: 500;
+	}
+	.p-best-UI-design-tools.TextBox998.bpt {
+font-weight: 500;
+	}
+	.p-best-UI-design-tools.Image301.bpt {
+margin-right: ;
+width: 100%;
+height: 100%;
+	}
+	.p-best-UI-design-tools.Image302.bpt {
+position: absolute;
+bottom: 0;
+left: 0;
+	}
+	.p-best-UI-design-tools.Flex1022.bpt {
+padding-top: 40px;
+	}
+	.p-best-UI-design-tools.Flex1021.bpt {
+column-gap: 28px;
+display: none;
+	}
+	.p-best-UI-design-tools.Flex1018.bpt {
+width: 82%;
+max-width: 1215px;
+z-index: 10;
+padding-left: ;
+	}
+	.p-best-UI-design-tools.Flex1017.bpt {
+column-gap: 28px;
+display: flex;
+z-index: 10;
+flex-direction: column;
+align-items: flex-start;
+row-gap: 28px;
+font-size: 17px;
+font-weight: 500;
+	}
+	.p-best-UI-design-tools.Flex1035.bpt {
+align-items: center;
+padding-top: 30px;
+padding-bottom: ;
+width: 82%;
+max-width: 1215px;
+position: relative;
+flex-direction: column;
+row-gap: 40px;
+	}
+	.p-best-UI-design-tools.Flex1062.bpt {
+flex-direction: column;
+row-gap: 60px;
+align-items: flex-start;
+	}
+	.p-best-UI-design-tools.Flex1447.bpt {
+min-width: 50%;
+	}
+	.p-best-UI-design-tools.Menu19.bpt {
+display: flex;
+position: relative;
+overflow: visible;
+padding-left: 18px;
+padding-top: 18px;
+padding-right: 18px;
+padding-bottom: 18px;
+	}
+	.p-best-UI-design-tools.Flex1020.bpt {
+z-index: 5;
+background-color: #ffffff;
+right: 0;
+width: 89.5vw;
+position: absolute;
+padding-left: ;
+margin-left: ;
+padding-right: ;
+align-items: stretch;
+justify-content: center;
+overflow: hidden;
+height: ;
+padding-top: 24px;
+padding-bottom: 50px;
+	}
+	.p-best-UI-design-tools.Flex1065.bpt {
+font-size: 10.5px;
+	}
+	.p-best-UI-design-tools.Flex1064.bpt {
+row-gap: 70px;
+	}
+	.p-best-UI-design-tools.Flex1059.bpt {
+row-gap: 1.8em;
+justify-content: flex-start;
+	}
+	.p-best-UI-design-tools.Flex1063.bpt {
+font-weight: 700;
+font-size: 4.7em;
+	}
+}
+@media screen and (max-width: 767px) {
+	.p-best-UI-design-tools.Flex1021.bpt {
+display: none;
+flex-direction: column;
+row-gap: 28px;
+width: px;
+position: absolute;
+text-align: center;
+	}
+	.p-best-UI-design-tools.Flex1017.bpt {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+width: px;
+position: static;
+text-align: center;
+	}
+	.p-best-UI-design-tools.Flex1025.bpt {
+font-size: 9.5px;
+	}
+	.p-best-UI-design-tools.Flex1061.bpt {
+flex-direction: row;
+font-size: 1.4em;
+display: none;
+	}
+	.p-best-UI-design-tools.Flex1062.bpt {
+flex-direction: column;
+row-gap: 70px;
+align-items: flex-start;
+	}
+	.p-best-UI-design-tools.Flex1060.bpt {
+font-size: 1.2em;
+	}
+	.p-best-UI-design-tools.Flex1085.bpt {
+font-size: 8.5px;
+	}
+	.p-best-UI-design-tools.Flex1082.bpt {
+position: static;
+width: 100%;
+	}
+	.p-best-UI-design-tools.Flex1447.bpt {
+width: 100%;
+	}
+	.p-best-UI-design-tools.TextBox1595.bpt {
+width: ;
+	}
+	.p-best-UI-design-tools.TextBox1596.bpt {
+width: ;
+	}
+	.p-best-UI-design-tools.TextBox1597.bpt {
+width: ;
+	}
+	.p-best-UI-design-tools.Menu19.bpt {
+display: flex;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+	}
+	.p-best-UI-design-tools.Flex1020.bpt {
+right: 0;
+width: 90vw;
+	}
+	.p-best-UI-design-tools.Flex1065.bpt {
+font-size: 10px;
+	}
+	.p-best-UI-design-tools.Flex1064.bpt {
+padding-bottom: 60px;
+row-gap: 70px;
+	}
+	.p-best-UI-design-tools.Flex1059.bpt {
+row-gap: ;
+font-size: 1.8em;
+column-gap: 7em;
+	}
+	.p-best-UI-design-tools.Flex1063.bpt {
+font-size: 4.2em;
+	}
+	.p-best-UI-design-tools.Flex1084.bpt {
+flex-direction: column;
+	}
+	.p-best-UI-design-tools.TextBox1598.bpt {
+width: ;
+	}
+	.p-best-UI-design-tools.TextBox1599.bpt {
+width: ;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-best-UI-design-tools.Flex1022.bpt {
+width: 90%;
+	}
+	.p-best-UI-design-tools.Menu19.bpt {
+width: ;
+height: ;
+padding-left: 8px;
+padding-top: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+	}
+	.p-best-UI-design-tools.Flex1020.bpt {
+width: 95vw;
+max-width: ;
+min-width: ;
+right: 0;
+	}
+	.p-best-UI-design-tools.Flex1018.bpt {
+width: 90%;
+padding-left: ;
+	}
+	.p-best-UI-design-tools.Flex1037.bpt {
+width: 90%;
+	}
+	.p-best-UI-design-tools.Flex1035.bpt {
+width: 90%;
+	}
+	.p-best-UI-design-tools.Flex1065.bpt {
+font-size: 9.5px;
+	}
+	.p-best-UI-design-tools.Flex1064.bpt {
+width: 90%;
+	}
+	.p-best-UI-design-tools.Flex1059.bpt {
+flex-direction: row;
+row-gap: 1.8em;
+justify-content: flex-start;
+font-size: 1.9em;
+	}
+	.p-best-UI-design-tools.Flex1058.bpt {
+cursor: pointer;
+	}
+	.p-best-UI-design-tools.Flex1063.bpt {
+font-size: 3.8em;
+	}
+	.p-best-UI-design-tools.Flex1084.bpt {
+width: 90%;
+	}
+	.p-best-UI-design-tools.TextBox989.bpt {
+font-size: 3.7em;
+	}
+	.p-best-UI-design-tools.TextBox988.bpt {
+font-size: ;
+	}
+	.p-best-UI-design-tools.TextBox1022.bpt {
+cursor: pointer;
+	}
+	.p-best-UI-design-tools.TextBox1023.bpt {
+cursor: pointer;
+	}
+	.p-best-UI-design-tools.TextBox1024.bpt {
+cursor: pointer;
+	}
+	.p-best-UI-design-tools.TextBox1025.bpt {
+cursor: pointer;
+	}
+	.p-best-UI-design-tools.TextBox1026.bpt {
+cursor: pointer;
+	}
+	.p-best-UI-design-tools.TextBox1027.bpt {
+cursor: pointer;
+	}
+	.p-best-UI-design-tools.TextBox1028.bpt {
+cursor: pointer;
+	}
+	.p-best-UI-design-tools.TextBox1029.bpt {
+cursor: pointer;
+	}
+	.p-best-UI-design-tools.TextBox1030.bpt {
+cursor: pointer;
+	}
+	.p-best-UI-design-tools.TextBox1067.bpt {
+font-size: 2.45em;
+	}
+	.p-best-UI-design-tools.TextBox1598.bpt {
+width: ;
+	}
+	.p-best-UI-design-tools.TextBox1599.bpt {
+width: ;
+	}
+}

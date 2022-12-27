@@ -14,6 +14,21 @@
     },
     "/BookCall": {
       "name": "BookCall"
+    },
+    "/Blog/design-tips-for-designers": {
+      "name": "design-tips-for-designers"
+    },
+    "/Blog/how-to-build-rapport": {
+      "name": "how-to-build-rapport"
+    },
+    "/Blog/free-website-tools": {
+      "name": "free-website-tools"
+    },
+    "/Blog/logo-design-trends-to-avoid": {
+      "name": "logo-design-trends-to-avoid"
+    },
+    "/Blog/best-UI-design-tools": {
+      "name": "best-UI-design-tools"
     }
   },
   "publicUrlAssetMap": {

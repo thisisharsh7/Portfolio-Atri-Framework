@@ -1,209 +1,4 @@
-.p-Projects.Flex421 {
-display: flex;
-align-items: center;
-justify-content: center;
-font-family: IBM Plex Sans;
-font-size: 10px;
-}
-.p-Projects.Flex456 {
-display: flex;
-width: 82%;
-max-width: 1215px;
-padding-top: 75px;
-padding-bottom: 85px;
-align-items: center;
-justify-content: center;
-}
-.p-Projects.Flex458 {
-display: flex;
-width: 80%;
-flex-direction: column;
-row-gap: 65px;
-align-items: center;
-}
-.p-Projects.Flex497 {
-display: flex;
-align-items: center;
-overflow: visible;
-width: 100%;
-box-sizing: content-box;
-position: relative;
-}
-.p-Projects.Flex496 {
-display: flex;
-flex-direction: column;
-row-gap: 3em;
-padding-bottom: 40px;
-justify-content: flex-start;
-align-items: flex-start;
-position: absolute;
-padding-top: 40px;
-background-color: #050505;
-color: #fdfdfd;
-padding-left: 40px;
-padding-right: 40px;
-margin-left: ;
-width: 60%;
-right: 0;
-}
-.p-Projects.Flex494 {
-display: flex;
-flex-direction: column;
-row-gap: 1.2em;
-}
-.p-Projects.Flex495 {
-display: flex;
-column-gap: 1.2em;
-font-family: IBM Plex Sans;
-font-size: 1.8em;
-font-weight: 400;
-align-items: center;
-}
-.p-Projects.Flex615 {
-display: flex;
-align-items: center;
-overflow: visible;
-width: 100%;
-box-sizing: content-box;
-}
-.p-Projects.Flex614 {
-display: flex;
-flex-direction: column;
-row-gap: 3em;
-padding-bottom: 30px;
-justify-content: flex-start;
-align-items: flex-start;
-position: static;
-padding-top: 30px;
-background-color: #050505;
-color: #fdfdfd;
-padding-left: 30px;
-padding-right: 30px;
-margin-left: -150px;
-width: 100%;
-}
-.p-Projects.Flex612 {
-display: flex;
-column-gap: 1.2em;
-font-family: IBM Plex Sans;
-font-size: 1.8em;
-font-weight: 400;
-align-items: center;
-}
-.p-Projects.Flex613 {
-display: flex;
-flex-direction: column;
-row-gap: 1.2em;
-}
-.p-Projects.Flex619 {
-display: flex;
-align-items: center;
-overflow: visible;
-width: 100%;
-box-sizing: content-box;
-}
-.p-Projects.Flex618 {
-display: flex;
-flex-direction: column;
-row-gap: 3em;
-padding-bottom: 30px;
-justify-content: flex-start;
-align-items: flex-start;
-position: static;
-padding-top: 30px;
-background-color: #050505;
-color: #fdfdfd;
-padding-left: 30px;
-padding-right: 30px;
-margin-left: -150px;
-width: 100%;
-}
-.p-Projects.Flex616 {
-display: flex;
-column-gap: 1.2em;
-font-family: IBM Plex Sans;
-font-size: 1.8em;
-font-weight: 400;
-align-items: center;
-}
-.p-Projects.Flex617 {
-display: flex;
-flex-direction: column;
-row-gap: 1.2em;
-}
-.p-Projects.Flex623 {
-display: flex;
-align-items: center;
-overflow: visible;
-width: 100%;
-box-sizing: content-box;
-}
-.p-Projects.Flex622 {
-display: flex;
-flex-direction: column;
-row-gap: 3em;
-padding-bottom: 30px;
-justify-content: flex-start;
-align-items: flex-start;
-position: static;
-padding-top: 30px;
-background-color: #050505;
-color: #fdfdfd;
-padding-left: 30px;
-padding-right: 30px;
-margin-left: -150px;
-width: 100%;
-}
-.p-Projects.Flex620 {
-display: flex;
-column-gap: 1.2em;
-font-family: IBM Plex Sans;
-font-size: 1.8em;
-font-weight: 400;
-align-items: center;
-}
-.p-Projects.Flex621 {
-display: flex;
-flex-direction: column;
-row-gap: 1.2em;
-}
-.p-Projects.Flex627 {
-display: flex;
-align-items: center;
-overflow: visible;
-width: 100%;
-box-sizing: content-box;
-}
-.p-Projects.Flex626 {
-display: flex;
-flex-direction: column;
-row-gap: 3em;
-padding-bottom: 30px;
-justify-content: flex-start;
-align-items: flex-start;
-position: static;
-padding-top: 30px;
-background-color: #050505;
-color: #fdfdfd;
-padding-left: 30px;
-padding-right: 30px;
-margin-left: -150px;
-width: 100%;
-}
-.p-Projects.Flex624 {
-display: flex;
-column-gap: 1.2em;
-font-family: IBM Plex Sans;
-font-size: 1.8em;
-font-weight: 400;
-align-items: center;
-}
-.p-Projects.Flex625 {
-display: flex;
-flex-direction: column;
-row-gap: 1.2em;
-}
-.p-Projects.Flex777 {
+.p-Projects.Flex914 {
 display: flex;
 justify-content: center;
 padding-top: ;
@@ -213,7 +8,7 @@ font-family: IBM Plex Sans;
 font-weight: 500;
 font-size: 16px;
 }
-.p-Projects.Flex776 {
+.p-Projects.Flex913 {
 display: flex;
 justify-content: space-between;
 width: 82%;
@@ -222,16 +17,16 @@ align-items: center;
 padding-top: 40px;
 padding-bottom: 8px;
 }
-.p-Projects.Flex775 {
+.p-Projects.Flex912 {
 display: flex;
 flex-direction: row;
-column-gap: 26.8px;
+column-gap: 26.2px;
 align-items: center;
 font-family: IBM Plex Sans;
 font-size: 16.5px;
 font-weight: 500;
 }
-.p-Projects.Flex773 {
+.p-Projects.Flex910 {
 display: flex;
 column-gap: 8px;
 align-items: center;
@@ -240,16 +35,16 @@ padding-right: 6px;
 line-height: 28px;
 cursor: pointer;
 }
-.p-Projects.Menu10 {
+.p-Projects.Menu15 {
 display: none;
 }
-.p-Projects.Flex774 {
+.p-Projects.Flex911 {
 display: flex;
 }
-.p-Projects.Flex772 {
+.p-Projects.Flex909 {
 display: flex;
 }
-.p-Projects.Flex771 {
+.p-Projects.Flex908 {
 display: flex;
 flex-direction: row;
 column-gap: 28px;
@@ -258,7 +53,7 @@ font-family: IBM Plex Sans;
 font-size: 16px;
 font-weight: 600;
 }
-.p-Projects.Flex770 {
+.p-Projects.Flex907 {
 display: flex;
 column-gap: 8px;
 align-items: center;
@@ -267,7 +62,7 @@ padding-right: 6px;
 line-height: 28px;
 cursor: pointer;
 }
-.p-Projects.Flex804 {
+.p-Projects.Flex958 {
 display: flex;
 justify-content: center;
 color: #ffffff;
@@ -275,18 +70,18 @@ background-color: #000000;
 font-family: IBM Plex Sans;
 font-size: 10px;
 }
-.p-Projects.Flex803 {
+.p-Projects.Flex957 {
 display: flex;
 flex-direction: column;
-row-gap: 70px;
+row-gap: 80px;
 width: 82%;
 max-width: 1215px;
 padding-top: 110px;
-padding-bottom: 5px;
+padding-bottom: 30px;
 padding-left: ;
 margin-top: ;
 }
-.p-Projects.Flex800 {
+.p-Projects.Flex954 {
 display: flex;
 margin-top: 50px;
 column-gap: 3px;
@@ -296,12 +91,12 @@ color: #8A95AD;
 font-family: IBM Plex Sans;
 font-weight: 400;
 }
-.p-Projects.Flex801 {
+.p-Projects.Flex955 {
 display: flex;
 justify-content: space-between;
 min-width: px;
 }
-.p-Projects.Flex798 {
+.p-Projects.Flex952 {
 display: flex;
 flex-direction: row;
 column-gap: 5.5em;
@@ -310,375 +105,244 @@ flex-wrap: wrap;
 justify-content: space-between;
 font-family: IBM Plex Sans;
 font-weight: 500;
-font-size: 1.7em;
+font-size: 1.8em;
 }
-.p-Projects.Flex794 {
+.p-Projects.Flex948 {
 display: flex;
 flex-direction: column;
 justify-content: space-between;
 row-gap: 1.8em;
 align-items: flex-start;
 }
-.p-Projects.Flex795 {
+.p-Projects.Flex949 {
 display: flex;
 flex-direction: column;
 justify-content: space-between;
 row-gap: 1.8em;
 align-items: flex-start;
 }
-.p-Projects.Flex796 {
+.p-Projects.Flex950 {
 display: flex;
 flex-direction: column;
 justify-content: space-between;
 row-gap: 1.8em;
 align-items: flex-start;
 }
-.p-Projects.Flex799 {
+.p-Projects.Flex953 {
 display: flex;
 flex-direction: column;
 row-gap: 1.5em;
 align-items: flex-start;
 }
-.p-Projects.Flex797 {
+.p-Projects.Flex951 {
 display: flex;
 row-gap: ;
 column-gap: 14px;
 align-items: center;
+cursor: pointer;
 }
-.p-Projects.Flex802 {
+.p-Projects.Flex956 {
 display: flex;
 flex-direction: column;
 row-gap: ;
 font-family: IBM Plex Sans;
-font-size: 4.7em;
+font-size: 5.3em;
 font-weight: 700;
+align-items: flex-start;
 }
-.p-Projects.Image144 {
-width: 65%;
-height: ;
-}
-.p-Projects.TextBox378 {
-font-family: IBM Plex Sans;
-font-size: 5.6em;
-font-weight: 700;
-width: ;
-line-height: 1em;
-min-width: ;
-}
-.p-Projects.TextBox379 {
-font-size: 1.8em;
-font-family: IBM Plex Sans;
-font-weight: 500;
-}
-.p-Projects.TextBox380 {
-;
-}
-.p-Projects.Image143 {
-height: 0.73em;
-width: 0.78em;
-}
-.p-Projects.Image184 {
-width: 100%;
-height: 100%;
-}
-.p-Projects.Image183 {
-height: 0.73em;
-width: 0.78em;
-}
-.p-Projects.TextBox452 {
-;
-}
-.p-Projects.TextBox453 {
-font-size: 1.8em;
-font-family: IBM Plex Sans;
-font-weight: 500;
-}
-.p-Projects.TextBox454 {
-font-family: IBM Plex Sans;
-font-size: 5.6em;
-font-weight: 700;
-width: ;
-line-height: 1em;
-min-width: ;
-}
-.p-Projects.Image186 {
-width: 70%;
-height: 100%;
-}
-.p-Projects.Image185 {
-height: 0.73em;
-width: 0.78em;
-}
-.p-Projects.TextBox455 {
-;
-}
-.p-Projects.TextBox456 {
-font-size: 1.8em;
-font-family: IBM Plex Sans;
-font-weight: 500;
-}
-.p-Projects.TextBox457 {
-font-family: IBM Plex Sans;
-font-size: 5.6em;
-font-weight: 700;
-width: ;
-line-height: 1em;
-min-width: ;
-}
-.p-Projects.Image188 {
-width: 70%;
-height: 100%;
-}
-.p-Projects.Image187 {
-height: 0.73em;
-width: 0.78em;
-}
-.p-Projects.TextBox458 {
-;
-}
-.p-Projects.TextBox459 {
-font-size: 1.8em;
-font-family: IBM Plex Sans;
-font-weight: 500;
-}
-.p-Projects.TextBox460 {
-font-family: IBM Plex Sans;
-font-size: 5.6em;
-font-weight: 700;
-width: ;
-line-height: 1em;
-min-width: ;
-}
-.p-Projects.Image190 {
-width: 70%;
-height: 100%;
-}
-.p-Projects.Image189 {
-height: 0.73em;
-width: 0.78em;
-}
-.p-Projects.TextBox461 {
-;
-}
-.p-Projects.TextBox462 {
-font-size: 1.8em;
-font-family: IBM Plex Sans;
-font-weight: 500;
-}
-.p-Projects.TextBox463 {
-font-family: IBM Plex Sans;
-font-size: 5.6em;
-font-weight: 700;
-width: ;
-line-height: 1em;
-min-width: ;
-}
-.p-Projects.Image231 {
+.p-Projects.Image272 {
 height: 28px;
 max-width: 100%;
 cursor: pointer;
 }
-.p-Projects.TextBox613 {
+.p-Projects.TextBox800 {
 padding-left: 6px;
 padding-right: 6px;
 line-height: 28px;
 cursor: pointer;
 }
-.p-Projects.TextBox614 {
+.p-Projects.TextBox801 {
 padding-left: 6px;
 padding-right: 6px;
 line-height: 28px;
 cursor: pointer;
 }
-.p-Projects.TextBox615 {
+.p-Projects.TextBox802 {
 padding-left: 6px;
 padding-right: 6px;
 line-height: 28px;
 cursor: pointer;
 }
-.p-Projects.TextBox616 {
+.p-Projects.TextBox803 {
 padding-left: 6px;
 padding-right: 6px;
 line-height: 28px;
 cursor: pointer;
 }
-.p-Projects.TextBox612 {
+.p-Projects.TextBox799 {
 ;
 }
-.p-Projects.Image230 {
+.p-Projects.Image271 {
 ;
 }
-.p-Projects.TextBox608 {
+.p-Projects.TextBox795 {
 padding-left: 6px;
 padding-right: 6px;
 line-height: 28px;
 cursor: pointer;
 }
-.p-Projects.TextBox609 {
+.p-Projects.TextBox796 {
 padding-left: 6px;
 padding-right: 6px;
 line-height: 28px;
 cursor: pointer;
 }
-.p-Projects.TextBox610 {
+.p-Projects.TextBox797 {
 padding-left: 6px;
 padding-right: 6px;
 line-height: 28px;
 cursor: pointer;
 }
-.p-Projects.TextBox611 {
+.p-Projects.TextBox798 {
 padding-left: 6px;
 padding-right: 6px;
 line-height: 28px;
 cursor: pointer;
 }
-.p-Projects.Image229 {
+.p-Projects.Image270 {
 ;
 }
-.p-Projects.TextBox607 {
+.p-Projects.TextBox794 {
 ;
 }
-.p-Projects.Link221 {
+.p-Projects.Link269 {
 font-family: IBM Plex Sans;
 font-weight: 700;
 }
-.p-Projects.Link222 {
+.p-Projects.Link270 {
 font-family: IBM Plex Sans;
 font-weight: 700;
 }
-.p-Projects.Link223 {
+.p-Projects.Link271 {
 font-family: IBM Plex Sans;
 font-weight: 700;
 }
-.p-Projects.TextBox648 {
+.p-Projects.TextBox873 {
 ;
 }
-.p-Projects.TextBox649 {
+.p-Projects.TextBox874 {
 ;
 }
-.p-Projects.TextBox650 {
+.p-Projects.TextBox875 {
 ;
 }
-.p-Projects.Link224 {
+.p-Projects.Link272 {
 font-family: IBM Plex Sans;
 font-weight: 700;
 }
-.p-Projects.TextBox651 {
+.p-Projects.TextBox876 {
 ;
 }
-.p-Projects.Link225 {
+.p-Projects.Link273 {
 font-family: IBM Plex Sans;
 font-weight: 700;
 }
-.p-Projects.TextBox652 {
+.p-Projects.TextBox877 {
 ;
 }
-.p-Projects.Link226 {
+.p-Projects.Link274 {
 font-family: IBM Plex Sans;
 font-weight: 700;
 }
-.p-Projects.TextBox653 {
+.p-Projects.TextBox878 {
 ;
 }
-.p-Projects.TextBox637 {
-;
+.p-Projects.TextBox862 {
+cursor: pointer;
 }
-.p-Projects.TextBox638 {
-;
+.p-Projects.TextBox863 {
+cursor: pointer;
 }
-.p-Projects.TextBox639 {
-;
+.p-Projects.TextBox864 {
+cursor: pointer;
 }
-.p-Projects.TextBox640 {
-;
+.p-Projects.TextBox865 {
+cursor: pointer;
 }
-.p-Projects.TextBox641 {
-;
+.p-Projects.TextBox866 {
+cursor: pointer;
 }
-.p-Projects.TextBox642 {
-;
+.p-Projects.TextBox867 {
+cursor: pointer;
 }
-.p-Projects.TextBox643 {
-;
+.p-Projects.TextBox868 {
+cursor: pointer;
 }
-.p-Projects.TextBox644 {
-;
+.p-Projects.TextBox869 {
+cursor: pointer;
 }
-.p-Projects.TextBox645 {
-;
+.p-Projects.TextBox870 {
+cursor: pointer;
 }
-.p-Projects.TextBox647 {
+.p-Projects.TextBox872 {
 color: #666666;
 font-size: 1.5em;
 font-family: IBM Plex Sans;
 font-weight: 400;
 }
-.p-Projects.Image239 {
+.p-Projects.Image280 {
 height: ;
 max-width: 100%;
 text-align: left;
 width: 190px;
+cursor: pointer;
 }
-.p-Projects.TextBox646 {
+.p-Projects.TextBox871 {
 color: #5c5c5c;
 font-size: 1.5em;
 font-family: IBM Plex Sans;
 font-weight: 700;
 }
-.p-Projects.Image238 {
+.p-Projects.Image279 {
 width: 30px;
 }
-.p-Projects.TextBox654 {
-;
+.p-Projects.TextBox879 {
+background-image: ;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+background-color: #faecec;
+background-attachment: scroll;
+cursor: pointer;
 }
-.p-Projects.TextBox655 {
+.p-Projects.TextBox880 {
 font-size: ;
 }
 @media screen and (max-width: 991px) {
-	.p-Projects.Flex777.bpt {
+	.p-Projects.Flex914.bpt {
 width: px;
 position: static;
 	}
-	.p-Projects.Flex773.bpt {
+	.p-Projects.Flex910.bpt {
 column-gap: 6px;
 	}
-	.p-Projects.Flex770.bpt {
+	.p-Projects.Flex907.bpt {
 column-gap: 6px;
 	}
-	.p-Projects.Flex497.bpt {
-align-items: flex-end;
-padding-bottom: 60px;
-	}
-	.p-Projects.Flex615.bpt {
-align-items: flex-end;
-padding-bottom: 60px;
-	}
-	.p-Projects.Flex619.bpt {
-align-items: flex-end;
-padding-bottom: 60px;
-	}
-	.p-Projects.Flex623.bpt {
-align-items: flex-end;
-padding-bottom: 60px;
-	}
-	.p-Projects.Flex627.bpt {
-align-items: flex-end;
-padding-bottom: 60px;
-	}
-	.p-Projects.Flex776.bpt {
+	.p-Projects.Flex913.bpt {
 padding-top: 40px;
 	}
-	.p-Projects.Flex775.bpt {
+	.p-Projects.Flex912.bpt {
 column-gap: 28px;
 display: none;
 	}
-	.p-Projects.Flex772.bpt {
+	.p-Projects.Flex909.bpt {
 width: 82%;
 max-width: 1215px;
 z-index: 10;
 padding-left: ;
 	}
-	.p-Projects.Flex771.bpt {
+	.p-Projects.Flex908.bpt {
 column-gap: 28px;
 display: flex;
 z-index: 10;
@@ -688,62 +352,12 @@ row-gap: 28px;
 font-size: 17px;
 font-weight: 500;
 	}
-	.p-Projects.Flex804.bpt {
-font-size: 10.5px;
+	.p-Projects.Flex955.bpt {
+flex-direction: column;
+row-gap: 60px;
+align-items: flex-start;
 	}
-	.p-Projects.Image144.bpt {
-width: 70%;
-	}
-	.p-Projects.TextBox379.bpt {
-font-size: 2.2em;
-	}
-	.p-Projects.Image184.bpt {
-width: 80%;
-	}
-	.p-Projects.Image186.bpt {
-width: 80%;
-	}
-	.p-Projects.Image188.bpt {
-width: 80%;
-	}
-	.p-Projects.Image190.bpt {
-width: 80%;
-	}
-	.p-Projects.Flex421.bpt {
-font-size: 8px;
-	}
-	.p-Projects.Flex496.bpt {
-margin-left: ;
-padding-bottom: 30px;
-margin-bottom: ;
-right: 0;
-bottom: 0;
-padding-left: 30px;
-padding-right: 30px;
-padding-top: 30px;
-width: 70%;
-	}
-	.p-Projects.Flex614.bpt {
-margin-left: -317px;
-padding-bottom: 30px;
-margin-bottom: -60px;
-	}
-	.p-Projects.Flex618.bpt {
-margin-left: -317px;
-padding-bottom: 30px;
-margin-bottom: -60px;
-	}
-	.p-Projects.Flex622.bpt {
-margin-left: -317px;
-padding-bottom: 30px;
-margin-bottom: -60px;
-	}
-	.p-Projects.Flex626.bpt {
-margin-left: -317px;
-padding-bottom: 30px;
-margin-bottom: -60px;
-	}
-	.p-Projects.Menu10.bpt {
+	.p-Projects.Menu15.bpt {
 display: flex;
 position: relative;
 overflow: visible;
@@ -752,7 +366,7 @@ padding-top: 18px;
 padding-right: 18px;
 padding-bottom: 18px;
 	}
-	.p-Projects.Flex774.bpt {
+	.p-Projects.Flex911.bpt {
 z-index: 5;
 background-color: #ffffff;
 right: 0;
@@ -768,39 +382,23 @@ height: ;
 padding-top: 24px;
 padding-bottom: 50px;
 	}
-	.p-Projects.Flex803.bpt {
+	.p-Projects.Flex958.bpt {
+font-size: 10.5px;
+	}
+	.p-Projects.Flex957.bpt {
 row-gap: 70px;
 	}
-	.p-Projects.Flex798.bpt {
+	.p-Projects.Flex952.bpt {
 row-gap: 1.8em;
+justify-content: flex-start;
 	}
-	.p-Projects.Flex802.bpt {
+	.p-Projects.Flex956.bpt {
 font-weight: 700;
 font-size: 4.7em;
 	}
 }
 @media screen and (max-width: 767px) {
-	.p-Projects.Flex497.bpt {
-width: 100%;
-height: 100%;
-	}
-	.p-Projects.Flex615.bpt {
-width: ;
-height: 100%;
-	}
-	.p-Projects.Flex619.bpt {
-width: ;
-height: 100%;
-	}
-	.p-Projects.Flex623.bpt {
-width: ;
-height: 100%;
-	}
-	.p-Projects.Flex627.bpt {
-width: ;
-height: 100%;
-	}
-	.p-Projects.Flex775.bpt {
+	.p-Projects.Flex912.bpt {
 display: none;
 flex-direction: column;
 row-gap: 28px;
@@ -808,7 +406,7 @@ width: px;
 position: absolute;
 text-align: center;
 	}
-	.p-Projects.Flex771.bpt {
+	.p-Projects.Flex908.bpt {
 display: flex;
 flex-direction: column;
 row-gap: 20px;
@@ -816,154 +414,51 @@ width: px;
 position: static;
 text-align: center;
 	}
-	.p-Projects.Flex804.bpt {
-font-size: 10px;
-	}
-	.p-Projects.Flex800.bpt {
+	.p-Projects.Flex954.bpt {
 flex-direction: row;
 font-size: 1.4em;
 display: none;
 	}
-	.p-Projects.Flex801.bpt {
+	.p-Projects.Flex955.bpt {
 flex-direction: column;
 row-gap: 70px;
 align-items: flex-start;
 	}
-	.p-Projects.Flex799.bpt {
+	.p-Projects.Flex953.bpt {
 font-size: 1.2em;
 	}
-	.p-Projects.Image144.bpt {
-width: 80%;
-height: ;
-	}
-	.p-Projects.Image184.bpt {
-width: 80%;
-height: ;
-	}
-	.p-Projects.Image186.bpt {
-width: 80%;
-height: ;
-	}
-	.p-Projects.Image188.bpt {
-width: 80%;
-height: ;
-	}
-	.p-Projects.Image190.bpt {
-width: 80%;
-height: ;
-	}
-	.p-Projects.Flex421.bpt {
-font-size: 7.5px;
-	}
-	.p-Projects.Flex456.bpt {
-width: 90%;
-	}
-	.p-Projects.Flex458.bpt {
-width: 90%;
-	}
-	.p-Projects.Flex496.bpt {
-margin-left: ;
-padding-left: 20px;
-padding-bottom: 20px;
-padding-top: 20px;
-padding-right: 20px;
-width: 80%;
-	}
-	.p-Projects.Flex614.bpt {
-margin-left: -317px;
-	}
-	.p-Projects.Flex618.bpt {
-margin-left: -317px;
-	}
-	.p-Projects.Flex622.bpt {
-margin-left: -317px;
-	}
-	.p-Projects.Flex626.bpt {
-margin-left: -317px;
-	}
-	.p-Projects.Menu10.bpt {
+	.p-Projects.Menu15.bpt {
 display: flex;
 padding-right: 10px;
 padding-top: 10px;
 padding-bottom: 10px;
 padding-left: 10px;
 	}
-	.p-Projects.Flex774.bpt {
+	.p-Projects.Flex911.bpt {
 right: 0;
 width: 90vw;
 	}
-	.p-Projects.Flex803.bpt {
+	.p-Projects.Flex958.bpt {
+font-size: 10px;
+	}
+	.p-Projects.Flex957.bpt {
 padding-bottom: 60px;
 row-gap: 70px;
 	}
-	.p-Projects.Flex798.bpt {
+	.p-Projects.Flex952.bpt {
 row-gap: ;
 font-size: 1.8em;
 column-gap: 7em;
 	}
-	.p-Projects.Flex802.bpt {
+	.p-Projects.Flex956.bpt {
 font-size: 4.2em;
 	}
 }
 @media screen and (max-width: 478px) {
-	.p-Projects.Flex421.bpt {
-font-size: 7.5px;
-	}
-	.p-Projects.Flex456.bpt {
+	.p-Projects.Flex913.bpt {
 width: 90%;
 	}
-	.p-Projects.Flex458.bpt {
-width: 100%;
-	}
-	.p-Projects.Flex496.bpt {
-margin-left: ;
-padding-left: 20px;
-padding-right: 15px;
-padding-bottom: 15px;
-padding-top: 20px;
-width: ;
-margin-top: 0px;
-	}
-	.p-Projects.Flex614.bpt {
-margin-left: -222px;
-padding-left: 20px;
-padding-right: 20px;
-padding-bottom: 20px;
-padding-top: 20px;
-width: 100%;
-margin-top: 0px;
-	}
-	.p-Projects.Flex618.bpt {
-margin-left: -222px;
-padding-left: 20px;
-padding-right: 20px;
-padding-bottom: 20px;
-padding-top: 20px;
-width: 100%;
-margin-top: 0px;
-	}
-	.p-Projects.Flex622.bpt {
-margin-left: -222px;
-padding-left: 20px;
-padding-right: 20px;
-padding-bottom: 20px;
-padding-top: 20px;
-width: 100%;
-margin-top: 0px;
-	}
-	.p-Projects.Flex626.bpt {
-margin-left: -222px;
-padding-left: 20px;
-padding-right: 20px;
-padding-bottom: 20px;
-padding-top: 20px;
-width: 100%;
-margin-top: 0px;
-	}
-	.p-Projects.Flex776.bpt {
-width: 90%;
-	}
-	.p-Projects.Menu10.bpt {
+	.p-Projects.Menu15.bpt {
 width: ;
 height: ;
 padding-left: 8px;
@@ -971,43 +466,59 @@ padding-top: 8px;
 padding-right: 8px;
 padding-bottom: 8px;
 	}
-	.p-Projects.Flex774.bpt {
+	.p-Projects.Flex911.bpt {
 width: 95vw;
 max-width: ;
 min-width: ;
 right: 0;
 	}
-	.p-Projects.Flex772.bpt {
+	.p-Projects.Flex909.bpt {
 width: 90%;
 padding-left: ;
 	}
-	.p-Projects.Flex803.bpt {
+	.p-Projects.Flex958.bpt {
+font-size: 9.5px;
+	}
+	.p-Projects.Flex957.bpt {
 width: 90%;
 	}
-	.p-Projects.Flex798.bpt {
+	.p-Projects.Flex952.bpt {
 flex-direction: row;
 row-gap: 1.8em;
 justify-content: flex-start;
+font-size: 1.9em;
 	}
-	.p-Projects.Flex802.bpt {
-font-size: 4em;
+	.p-Projects.Flex951.bpt {
+cursor: pointer;
 	}
-	.p-Projects.TextBox378.bpt {
-font-size: 4em;
+	.p-Projects.Flex956.bpt {
+font-size: 3.8em;
 	}
-	.p-Projects.TextBox379.bpt {
-font-size: 2em;
+	.p-Projects.TextBox862.bpt {
+cursor: pointer;
 	}
-	.p-Projects.TextBox454.bpt {
-font-size: 4em;
+	.p-Projects.TextBox863.bpt {
+cursor: pointer;
 	}
-	.p-Projects.TextBox457.bpt {
-font-size: 4em;
+	.p-Projects.TextBox864.bpt {
+cursor: pointer;
 	}
-	.p-Projects.TextBox460.bpt {
-font-size: 4em;
+	.p-Projects.TextBox865.bpt {
+cursor: pointer;
 	}
-	.p-Projects.TextBox463.bpt {
-font-size: 4em;
+	.p-Projects.TextBox866.bpt {
+cursor: pointer;
+	}
+	.p-Projects.TextBox867.bpt {
+cursor: pointer;
+	}
+	.p-Projects.TextBox868.bpt {
+cursor: pointer;
+	}
+	.p-Projects.TextBox869.bpt {
+cursor: pointer;
+	}
+	.p-Projects.TextBox870.bpt {
+cursor: pointer;
 	}
 }

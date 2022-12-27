@@ -1,0 +1,14 @@
+.p-best-UI-design-tools .Flex1033{
+    margin-right: -12%;
+}
+.p-best-UI-design-tools .TextBox1067 , .p-best-UI-design-tools .TextBox1039{
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+}
+.p-best-UI-design-tools .TextBox1067 {
+    letter-spacing: 4px;
+}
+@media  screen and (max-width:991px) {
+    .p-best-UI-design-tools .Flex1033{
+        margin-right: 0%;
+    }
+}

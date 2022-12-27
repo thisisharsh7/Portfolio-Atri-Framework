@@ -5,7 +5,12 @@ const useIoStore = create((set) => {
   "Home": {},
   "Projects": {},
   "Blog": {},
-  "BookCall": {}
+  "BookCall": {},
+  "design-tips-for-designers": {},
+  "how-to-build-rapport": {},
+  "free-website-tools": {},
+  "logo-design-trends-to-avoid": {},
+  "best-UI-design-tools": {}
 }});
 
 export default useIoStore;

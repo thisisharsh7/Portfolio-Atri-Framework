@@ -14,5 +14,25 @@
   "065dda8a-04e6-4337-9bd7-ccde971403e5": {
     "name": "BookCall",
     "route": "/BookCall"
+  },
+  "dd88bf14-9880-42dd-9f8b-fa6a168e4ba8": {
+    "name": "design-tips-for-designers",
+    "route": "/Blog/design-tips-for-designers"
+  },
+  "645fb243-97d0-4819-bfda-6469e3616312": {
+    "name": "how-to-build-rapport",
+    "route": "/Blog/how-to-build-rapport"
+  },
+  "c3409758-7e48-4cb5-b641-505757b3fb41": {
+    "name": "free-website-tools",
+    "route": "/Blog/free-website-tools"
+  },
+  "256731f0-91e1-4a24-93c6-ed5f70384a62": {
+    "name": "logo-design-trends-to-avoid",
+    "route": "/Blog/logo-design-trends-to-avoid"
+  },
+  "e9b3d6b8-4dac-434b-9697-604b54b613c5": {
+    "name": "best-UI-design-tools",
+    "route": "/Blog/best-UI-design-tools"
   }
 }

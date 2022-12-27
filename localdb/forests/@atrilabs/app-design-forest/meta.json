@@ -4,12 +4,22 @@
       "id": "root",
       "name": "/",
       "parentId": ""
+    },
+    "d874e874-c6f2-405f-8c07-8753bac2f5ca": {
+      "name": "Blog",
+      "id": "d874e874-c6f2-405f-8c07-8753bac2f5ca",
+      "parentId": "root"
     }
   },
   "pages": {
     "home": "root",
     "fe91b4a6-1839-4579-9e81-644f8758bd40": "root",
     "5595909d-d029-4211-a111-55f19e041da0": "root",
-    "065dda8a-04e6-4337-9bd7-ccde971403e5": "root"
+    "065dda8a-04e6-4337-9bd7-ccde971403e5": "root",
+    "dd88bf14-9880-42dd-9f8b-fa6a168e4ba8": "d874e874-c6f2-405f-8c07-8753bac2f5ca",
+    "645fb243-97d0-4819-bfda-6469e3616312": "d874e874-c6f2-405f-8c07-8753bac2f5ca",
+    "c3409758-7e48-4cb5-b641-505757b3fb41": "d874e874-c6f2-405f-8c07-8753bac2f5ca",
+    "256731f0-91e1-4a24-93c6-ed5f70384a62": "d874e874-c6f2-405f-8c07-8753bac2f5ca",
+    "e9b3d6b8-4dac-434b-9697-604b54b613c5": "d874e874-c6f2-405f-8c07-8753bac2f5ca"
   }
 }

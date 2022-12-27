@@ -1,6 +1,20 @@
 button.accordion{
     background-color: black;
+    font-size: 20px;
 }
 button.accordion.active{
     background-color: black;
+}
+ .p-Home.TextBox86 , .p-Home.TextBox119  , .p-Home.TextBox86 , .p-Home.TextBox137, .p-Home.TextBox165 , .p-Home.TextBox209 , .p-Home.TextBox214 ,.p-Home.TextBox1742 , .p-Home.TextBox1757,      .p-Home.TextBox1754 , .p-Home.TextBox1745 , .p-Home.TextBox233 , .p-Home.TextBox236 , .p-Home.TextBox239 , .p-Home.TextBox242 , .p-Home.TextBox126   {
+    letter-spacing: 4px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+}
+.p-Home.TextBox82 , .p-Home.TextBox4 , .p-Home.TextBox731 ,  .p-Home.TextBox732 {
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+}
+.p-Home .Flex827:hover , .p-Home .Flex866:hover{
+    padding: 0px;
+    margin-top: 8px;
+    transition: all 0.3s;
+    margin-left: 8px;
 }
