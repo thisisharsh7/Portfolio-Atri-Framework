@@ -5,7 +5,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { subscribeInternalNavigation } from "../utils/navigate";
 import {fetchPageProps} from "../utils/fetchPageProps"
 import { Flex as Flex8 } from "@atrilabs/react-component-manifests/src/manifests/Flex/Flex.tsx";
-import { Menu as Menu8 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
+import { Menu as Menu7 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
 import { Image as Image8 } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
 import { TextBox as TextBox8 } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Link as Link8 } from "@atrilabs/react-component-manifests/src/manifests/Link/Link.tsx";
@@ -518,7 +518,7 @@ const TextBox1594Cb = useTextBox1594Cb()
 <Image8 className="p-best-UI-design-tools Image297 bpt" {...Image297Props} {...Image297Cb} {...Image297IoProps}/>
 </Flex8>
 </Flex8>
-<Menu8 className="p-best-UI-design-tools Menu19 bpt" {...Menu19Props} {...Menu19Cb} {...Menu19IoProps}>
+<Menu7 className="p-best-UI-design-tools Menu19 bpt" {...Menu19Props} {...Menu19Cb} {...Menu19IoProps}>
 <Flex8 className="p-best-UI-design-tools Flex1020 bpt" {...Flex1020Props} {...Flex1020Cb} {...Flex1020IoProps}>
 <Flex8 className="p-best-UI-design-tools Flex1018 bpt" {...Flex1018Props} {...Flex1018Cb} {...Flex1018IoProps}>
 <Flex8 className="p-best-UI-design-tools Flex1017 bpt" {...Flex1017Props} {...Flex1017Cb} {...Flex1017IoProps}>
@@ -533,7 +533,7 @@ const TextBox1594Cb = useTextBox1594Cb()
 </Flex8>
 </Flex8>
 </Flex8>
-</Menu8>
+</Menu7>
 </Flex8>
 </Flex8>
 <Flex8 className="p-best-UI-design-tools Flex1036 bpt" {...Flex1036Props} {...Flex1036Cb} {...Flex1036IoProps}>

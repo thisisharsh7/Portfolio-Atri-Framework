@@ -9,6 +9,7 @@ import HowToBuildRapport from "./pages/How-to-build-rapport.jsx";
 import FreeWebsiteTools from "./pages/Free-website-tools.jsx";
 import LogoDesignTrendsToAvoid from "./pages/Logo-design-trends-to-avoid.jsx";
 import BestUiDesignTools from "./pages/Best-UI-design-tools.jsx";
+import Pic from "./pages/Pic.jsx";
 
 export default function App() {
   return (
@@ -22,6 +23,7 @@ export default function App() {
 <Route path="/Blog/free-website-tools" element={<FreeWebsiteTools />} />
 <Route path="/Blog/logo-design-trends-to-avoid" element={<LogoDesignTrendsToAvoid />} />
 <Route path="/Blog/best-UI-design-tools" element={<BestUiDesignTools />} />
+<Route path="/pic" element={<Pic />} />
     </Routes>
   );
 }

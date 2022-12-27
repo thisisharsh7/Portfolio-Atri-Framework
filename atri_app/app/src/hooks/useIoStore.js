@@ -10,7 +10,8 @@ const useIoStore = create((set) => {
   "how-to-build-rapport": {},
   "free-website-tools": {},
   "logo-design-trends-to-avoid": {},
-  "best-UI-design-tools": {}
+  "best-UI-design-tools": {},
+  "pic": {}
 }});
 
 export default useIoStore;

@@ -5,7 +5,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { subscribeInternalNavigation } from "../utils/navigate";
 import {fetchPageProps} from "../utils/fetchPageProps"
 import { Flex as Flex2 } from "@atrilabs/react-component-manifests/src/manifests/Flex/Flex.tsx";
-import { Menu as Menu2 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
+import { Menu as Menu1 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
 import { Image as Image2 } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
 import { TextBox as TextBox2 } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Link as Link2 } from "@atrilabs/react-component-manifests/src/manifests/Link/Link.tsx";
@@ -383,7 +383,7 @@ const TextBox900Cb = useTextBox900Cb()
 <Image2 className="p-Blog Image284 bpt" {...Image284Props} {...Image284Cb} {...Image284IoProps}/>
 </Flex2>
 </Flex2>
-<Menu2 className="p-Blog Menu16 bpt" {...Menu16Props} {...Menu16Cb} {...Menu16IoProps}>
+<Menu1 className="p-Blog Menu16 bpt" {...Menu16Props} {...Menu16Cb} {...Menu16IoProps}>
 <Flex2 className="p-Blog Flex974 bpt" {...Flex974Props} {...Flex974Cb} {...Flex974IoProps}>
 <Flex2 className="p-Blog Flex972 bpt" {...Flex972Props} {...Flex972Cb} {...Flex972IoProps}>
 <Flex2 className="p-Blog Flex971 bpt" {...Flex971Props} {...Flex971Cb} {...Flex971IoProps}>
@@ -398,7 +398,7 @@ const TextBox900Cb = useTextBox900Cb()
 </Flex2>
 </Flex2>
 </Flex2>
-</Menu2>
+</Menu1>
 </Flex2>
 </Flex2>
 <Flex2 className="p-Blog Flex532 bpt" {...Flex532Props} {...Flex532Cb} {...Flex532IoProps}>

@@ -177,6 +177,9 @@ const desktopModeProps = {
     "Flex226": {
       "callbacks": {}
     },
+    "Flex1562": {
+      "callbacks": {}
+    },
     "Flex866": {
       "callbacks": {
         "onClick": [
@@ -214,15 +217,6 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex1544": {
-      "callbacks": {}
-    },
-    "Flex1552": {
-      "callbacks": {}
-    },
-    "Flex1551": {
-      "callbacks": {}
-    },
-    "Flex1550": {
       "callbacks": {}
     },
     "Flex1549": {
@@ -1435,7 +1429,19 @@ const desktopModeProps = {
     },
     "TextBox120": {
       "custom": {
-        "text": "I bring results.  My clients are proof."
+        "text": "I bring results."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1759": {
+      "custom": {
+        "text": "My clients are proof."
       },
       "callbacks": {
         "onClick": [
@@ -1582,68 +1588,6 @@ const desktopModeProps = {
       }
     },
     "TextBox1740": {
-      "custom": {
-        "text": "View Project"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image431": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/project2.png"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox1747": {
-      "custom": {
-        "text": "Datadash Product design"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox1748": {
-      "custom": {
-        "text": "PRODUCT DESIGN"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image430": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/blackArrow.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox1746": {
       "custom": {
         "text": "View Project"
       },
@@ -2906,9 +2850,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Flex406": {
-      "callbacks": {}
-    },
     "TextBox209": {
       "custom": {
         "text": "TESTIMONIALS"
@@ -3198,60 +3139,6 @@ const desktopModeProps = {
     }
   },
   "Projects": {
-    "Flex914": {
-      "callbacks": {}
-    },
-    "Flex913": {
-      "callbacks": {}
-    },
-    "Flex912": {
-      "callbacks": {}
-    },
-    "Flex910": {
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/BookCall"
-            }
-          }
-        ]
-      }
-    },
-    "Menu15": {
-      "custom": {
-        "open": false,
-        "iconHeight": 24,
-        "iconWidth": 24,
-        "gap": "",
-        "alignRight": true
-      },
-      "callbacks": {
-        "onClick": []
-      }
-    },
-    "Flex911": {
-      "callbacks": {}
-    },
-    "Flex909": {
-      "callbacks": {}
-    },
-    "Flex908": {
-      "callbacks": {}
-    },
-    "Flex907": {
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/BookCall"
-            }
-          }
-        ]
-      }
-    },
     "Flex958": {
       "callbacks": {}
     },
@@ -3294,199 +3181,6 @@ const desktopModeProps = {
     },
     "Flex956": {
       "callbacks": {}
-    },
-    "Image272": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox800": {
-      "custom": {
-        "text": "Services"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "external",
-              "url": "/#Services",
-              "target": "_self"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox801": {
-      "custom": {
-        "text": "Projects"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Projects"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox802": {
-      "custom": {
-        "text": "Blog"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Blog"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox803": {
-      "custom": {
-        "text": "About"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "external",
-              "url": "/#About",
-              "target": "_self"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox799": {
-      "custom": {
-        "text": "Book a call"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image271": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/blackArrow.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox795": {
-      "custom": {
-        "text": "About"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "external",
-              "url": "/#About",
-              "target": "_self"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox796": {
-      "custom": {
-        "text": "Blog"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Blog"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox797": {
-      "custom": {
-        "text": "Projects"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Projects"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox798": {
-      "custom": {
-        "text": "Services"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "external",
-              "url": "/#Services",
-              "target": "_self"
-            }
-          }
-        ]
-      }
-    },
-    "Image270": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/blackArrow.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox794": {
-      "custom": {
-        "text": "Book a call"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/BookCall"
-            }
-          }
-        ]
-      }
     },
     "Link269": {
       "custom": {
@@ -13688,6 +13382,28 @@ const desktopModeProps = {
     "TextBox1594": {
       "custom": {
         "text": "April 16, 2021 "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    }
+  },
+  "pic": {
+    "Overlay6": {
+      "custom": {
+        "open": false,
+        "closeOverlayAfter": ""
+      },
+      "callbacks": {}
+    },
+    "Image439": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/testimonial1.jpeg"
       },
       "callbacks": {
         "onClick": [

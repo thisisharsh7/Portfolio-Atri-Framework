@@ -5,7 +5,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { subscribeInternalNavigation } from "../utils/navigate";
 import {fetchPageProps} from "../utils/fetchPageProps"
 import { Flex as Flex6 } from "@atrilabs/react-component-manifests/src/manifests/Flex/Flex.tsx";
-import { Menu as Menu6 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
+import { Menu as Menu5 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
 import { Link as Link6 } from "@atrilabs/react-component-manifests/src/manifests/Link/Link.tsx";
 import { TextBox as TextBox6 } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Image as Image6 } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
@@ -518,7 +518,7 @@ const TextBox1344Cb = useTextBox1344Cb()
 <Image6 className="p-free-website-tools Image351 bpt" {...Image351Props} {...Image351Cb} {...Image351IoProps}/>
 </Flex6>
 </Flex6>
-<Menu6 className="p-free-website-tools Menu22 bpt" {...Menu22Props} {...Menu22Cb} {...Menu22IoProps}>
+<Menu5 className="p-free-website-tools Menu22 bpt" {...Menu22Props} {...Menu22Cb} {...Menu22IoProps}>
 <Flex6 className="p-free-website-tools Flex1277 bpt" {...Flex1277Props} {...Flex1277Cb} {...Flex1277IoProps}>
 <Flex6 className="p-free-website-tools Flex1275 bpt" {...Flex1275Props} {...Flex1275Cb} {...Flex1275IoProps}>
 <Flex6 className="p-free-website-tools Flex1274 bpt" {...Flex1274Props} {...Flex1274Cb} {...Flex1274IoProps}>
@@ -533,7 +533,7 @@ const TextBox1344Cb = useTextBox1344Cb()
 </Flex6>
 </Flex6>
 </Flex6>
-</Menu6>
+</Menu5>
 </Flex6>
 </Flex6>
 <Flex6 className="p-free-website-tools Flex1272 bpt" {...Flex1272Props} {...Flex1272Cb} {...Flex1272IoProps}>

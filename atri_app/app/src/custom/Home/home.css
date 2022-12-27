@@ -1,9 +1,30 @@
 button.accordion{
     background-color: black;
-    font-size: 20px;
+    color:white;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    width: 100%;
+    gap: 10px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    
 }
-button.accordion.active{
+.p-Home .Accordion5 , .p-Home .Accordion3{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.243);
+}
+p.accordion-title{
+    font-size: 24px;
+    font-weight: 400;
+}
+div.accordion-text{
+    font-size: 20px;
+    font-weight: 400;
     background-color: black;
+    padding-left: 30px;
+}
+button.accordion:hover , .active{
+    background-color: black;
+
 }
  .p-Home.TextBox86 , .p-Home.TextBox119  , .p-Home.TextBox86 , .p-Home.TextBox137, .p-Home.TextBox165 , .p-Home.TextBox209 , .p-Home.TextBox214 ,.p-Home.TextBox1742 , .p-Home.TextBox1757,      .p-Home.TextBox1754 , .p-Home.TextBox1745 , .p-Home.TextBox233 , .p-Home.TextBox236 , .p-Home.TextBox239 , .p-Home.TextBox242 , .p-Home.TextBox126   {
     letter-spacing: 4px;

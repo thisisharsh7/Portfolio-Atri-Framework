@@ -34,5 +34,9 @@
   "e9b3d6b8-4dac-434b-9697-604b54b613c5": {
     "name": "best-UI-design-tools",
     "route": "/Blog/best-UI-design-tools"
+  },
+  "c0ba90c2-1637-4e35-a84a-06a9b9a0d73b": {
+    "name": "pic",
+    "route": "/pic"
   }
 }

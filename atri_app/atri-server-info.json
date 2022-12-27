@@ -29,6 +29,9 @@
     },
     "/Blog/best-UI-design-tools": {
       "name": "best-UI-design-tools"
+    },
+    "/pic": {
+      "name": "pic"
     }
   },
   "publicUrlAssetMap": {

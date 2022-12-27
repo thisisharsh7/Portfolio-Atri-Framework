@@ -5,7 +5,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { subscribeInternalNavigation } from "../utils/navigate";
 import {fetchPageProps} from "../utils/fetchPageProps"
 import { Flex as Flex5 } from "@atrilabs/react-component-manifests/src/manifests/Flex/Flex.tsx";
-import { Menu as Menu5 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
+import { Menu as Menu4 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
 import { Link as Link5 } from "@atrilabs/react-component-manifests/src/manifests/Link/Link.tsx";
 import { TextBox as TextBox5 } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Image as Image5 } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
@@ -518,7 +518,7 @@ const TextBox1427Cb = useTextBox1427Cb()
 <Image5 className="p-how-to-build-rapport Image363 bpt" {...Image363Props} {...Image363Cb} {...Image363IoProps}/>
 </Flex5>
 </Flex5>
-<Menu5 className="p-how-to-build-rapport Menu23 bpt" {...Menu23Props} {...Menu23Cb} {...Menu23IoProps}>
+<Menu4 className="p-how-to-build-rapport Menu23 bpt" {...Menu23Props} {...Menu23Cb} {...Menu23IoProps}>
 <Flex5 className="p-how-to-build-rapport Flex1333 bpt" {...Flex1333Props} {...Flex1333Cb} {...Flex1333IoProps}>
 <Flex5 className="p-how-to-build-rapport Flex1331 bpt" {...Flex1331Props} {...Flex1331Cb} {...Flex1331IoProps}>
 <Flex5 className="p-how-to-build-rapport Flex1330 bpt" {...Flex1330Props} {...Flex1330Cb} {...Flex1330IoProps}>
@@ -533,7 +533,7 @@ const TextBox1427Cb = useTextBox1427Cb()
 </Flex5>
 </Flex5>
 </Flex5>
-</Menu5>
+</Menu4>
 </Flex5>
 </Flex5>
 <Flex5 className="p-how-to-build-rapport Flex1328 bpt" {...Flex1328Props} {...Flex1328Cb} {...Flex1328IoProps}>

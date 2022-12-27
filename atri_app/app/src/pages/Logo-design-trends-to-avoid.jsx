@@ -5,7 +5,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { subscribeInternalNavigation } from "../utils/navigate";
 import {fetchPageProps} from "../utils/fetchPageProps"
 import { Flex as Flex7 } from "@atrilabs/react-component-manifests/src/manifests/Flex/Flex.tsx";
-import { Menu as Menu7 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
+import { Menu as Menu6 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
 import { TextBox as TextBox7 } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Image as Image7 } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
 import { Link as Link7 } from "@atrilabs/react-component-manifests/src/manifests/Link/Link.tsx";
@@ -518,7 +518,7 @@ const TextBox1574Cb = useTextBox1574Cb()
 <Image7 className="p-logo-design-trends-to-avoid Image384 bpt" {...Image384Props} {...Image384Cb} {...Image384IoProps}/>
 </Flex7>
 </Flex7>
-<Menu7 className="p-logo-design-trends-to-avoid Menu24 bpt" {...Menu24Props} {...Menu24Cb} {...Menu24IoProps}>
+<Menu6 className="p-logo-design-trends-to-avoid Menu24 bpt" {...Menu24Props} {...Menu24Cb} {...Menu24IoProps}>
 <Flex7 className="p-logo-design-trends-to-avoid Flex1417 bpt" {...Flex1417Props} {...Flex1417Cb} {...Flex1417IoProps}>
 <Flex7 className="p-logo-design-trends-to-avoid Flex1415 bpt" {...Flex1415Props} {...Flex1415Cb} {...Flex1415IoProps}>
 <Flex7 className="p-logo-design-trends-to-avoid Flex1414 bpt" {...Flex1414Props} {...Flex1414Cb} {...Flex1414IoProps}>
@@ -533,7 +533,7 @@ const TextBox1574Cb = useTextBox1574Cb()
 </Flex7>
 </Flex7>
 </Flex7>
-</Menu7>
+</Menu6>
 </Flex7>
 </Flex7>
 <Flex7 className="p-logo-design-trends-to-avoid Flex1412 bpt" {...Flex1412Props} {...Flex1412Cb} {...Flex1412IoProps}>
