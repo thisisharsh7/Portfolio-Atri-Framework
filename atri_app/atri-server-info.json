@@ -32,6 +32,21 @@
     },
     "/pic": {
       "name": "pic"
+    },
+    "/Projects/soulful-rebrand": {
+      "name": "soulful-rebrand"
+    },
+    "/Projects/datadash-product-design": {
+      "name": "datadash-product-design"
+    },
+    "/Projects/maize-website-design": {
+      "name": "maize-website-design"
+    },
+    "/Projects/gorillaX-branding": {
+      "name": "gorillaX-branding"
+    },
+    "/Projects/joggr-website-design": {
+      "name": "joggr-website-design"
     }
   },
   "publicUrlAssetMap": {

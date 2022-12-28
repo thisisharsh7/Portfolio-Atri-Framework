@@ -38,5 +38,25 @@
   "c0ba90c2-1637-4e35-a84a-06a9b9a0d73b": {
     "name": "pic",
     "route": "/pic"
+  },
+  "71f3bacf-27ba-4bd6-a898-640347887a7d": {
+    "name": "soulful-rebrand",
+    "route": "/Projects/soulful-rebrand"
+  },
+  "c66d95b1-d5e9-48c4-bd39-01b4f92b166d": {
+    "name": "datadash-product-design",
+    "route": "/Projects/datadash-product-design"
+  },
+  "93fb4765-12a9-44ad-bf1e-07abe2d14d9c": {
+    "name": "maize-website-design",
+    "route": "/Projects/maize-website-design"
+  },
+  "23f86f9f-6286-443a-81de-ad4d636f3ec3": {
+    "name": "gorillaX-branding",
+    "route": "/Projects/gorillaX-branding"
+  },
+  "7534af1c-64dd-4d6e-bccd-39ebacfe2ceb": {
+    "name": "joggr-website-design",
+    "route": "/Projects/joggr-website-design"
   }
 }

@@ -3139,34 +3139,292 @@ const desktopModeProps = {
     }
   },
   "Projects": {
-    "Flex958": {
+    "Flex1582": {
       "callbacks": {}
     },
-    "Flex957": {
+    "Flex1581": {
       "callbacks": {}
     },
-    "Flex954": {
+    "Flex1580": {
       "callbacks": {}
     },
-    "Flex955": {
+    "Flex1578": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Menu26": {
+      "custom": {
+        "open": false,
+        "iconHeight": 24,
+        "iconWidth": 24,
+        "gap": "",
+        "alignRight": true
+      },
+      "callbacks": {
+        "onClick": []
+      }
+    },
+    "Flex1579": {
       "callbacks": {}
     },
-    "Flex952": {
+    "Flex1577": {
       "callbacks": {}
     },
-    "Flex948": {
+    "Flex1576": {
       "callbacks": {}
     },
-    "Flex949": {
+    "Flex1575": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1583": {
       "callbacks": {}
     },
-    "Flex950": {
+    "Flex1584": {
       "callbacks": {}
     },
-    "Flex953": {
+    "Flex1585": {
       "callbacks": {}
     },
-    "Flex951": {
+    "Flex1586": {
+      "callbacks": {}
+    },
+    "Flex1587": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects/soulful-rebrand"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1590": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects/soulful-rebrand"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1589": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1639": {
+      "callbacks": {}
+    },
+    "Flex1637": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects/datadash-product-design"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1636": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1638": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects/datadash-product-design"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1643": {
+      "callbacks": {}
+    },
+    "Flex1641": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects/maize-website-design"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1640": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1642": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects/maize-website-design"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1647": {
+      "callbacks": {}
+    },
+    "Flex1645": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects/gorillaX-branding"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1644": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1646": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects/gorillaX-branding"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1651": {
+      "callbacks": {}
+    },
+    "Flex1649": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects/joggr-website-design"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1648": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1650": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects/joggr-website-design"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1662": {
+      "callbacks": {}
+    },
+    "Flex1661": {
+      "callbacks": {}
+    },
+    "Flex1658": {
+      "callbacks": {}
+    },
+    "Flex1659": {
+      "callbacks": {}
+    },
+    "Flex1656": {
+      "callbacks": {}
+    },
+    "Flex1652": {
+      "callbacks": {}
+    },
+    "Flex1653": {
+      "callbacks": {}
+    },
+    "Flex1654": {
+      "callbacks": {}
+    },
+    "Flex1657": {
+      "callbacks": {}
+    },
+    "Flex1655": {
       "callbacks": {
         "onClick": [
           {
@@ -3179,285 +3437,26 @@ const desktopModeProps = {
         ]
       }
     },
-    "Flex956": {
+    "Flex1660": {
       "callbacks": {}
     },
-    "Link269": {
+    "Image445": {
       "custom": {
-        "text": "Style Guide",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link270": {
-      "custom": {
-        "text": "Instructions",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link271": {
-      "custom": {
-        "text": "Image License Info",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox873": {
-      "custom": {
-        "text": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox874": {
-      "custom": {
-        "text": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox875": {
-      "custom": {
-        "text": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link272": {
-      "custom": {
-        "text": "Changelog",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox876": {
-      "custom": {
-        "text": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link273": {
-      "custom": {
-        "text": "Weflow",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox877": {
-      "custom": {
-        "text": ". Powered by"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Link274": {
-      "custom": {
-        "text": "Conversionflow",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox878": {
-      "custom": {
-        "text": "© All rights reserved. "
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox862": {
-      "custom": {
-        "text": "Contact"
+        "alt": "No preview available",
+        "src": "/app-assets/logo.svg"
       },
       "callbacks": {
         "onClick": [
           {
             "navigate": {
               "type": "internal",
-              "url": "/BookCall"
+              "url": "/"
             }
           }
         ]
       }
     },
-    "TextBox863": {
-      "custom": {
-        "text": "Driblle"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "external",
-              "url": "https://dribbble.com/",
-              "target": "_blank"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox864": {
-      "custom": {
-        "text": "About"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "external",
-              "url": "/#About",
-              "target": "_self"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox865": {
-      "custom": {
-        "text": "Twitter"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "external",
-              "url": "https://twitter.com/home",
-              "target": "_blank"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox866": {
-      "custom": {
-        "text": "Projects"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Projects"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox867": {
-      "custom": {
-        "text": "Experience"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "external",
-              "url": "/#Experience",
-              "target": "_blank"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox868": {
-      "custom": {
-        "text": "Instagram"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "external",
-              "url": "https://www.instagram.com/",
-              "target": "_blank"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox869": {
-      "custom": {
-        "text": "Blog"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Blog"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox870": {
+    "TextBox1776": {
       "custom": {
         "text": "Services"
       },
@@ -3473,7 +3472,769 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox872": {
+    "TextBox1777": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1778": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1779": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1775": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image444": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1771": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1772": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1773": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1774": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "Image443": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1770": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Image446": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/project1.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1784": {
+      "custom": {
+        "text": "BRANDING"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1785": {
+      "custom": {
+        "text": "Soulful Rebrand"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image447": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/warrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1783": {
+      "custom": {
+        "text": "View all"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1820": {
+      "custom": {
+        "text": "Datadash Product design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1821": {
+      "custom": {
+        "text": "PRODUCT DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1819": {
+      "custom": {
+        "text": "View all"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image470": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/warrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image471": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/project2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1823": {
+      "custom": {
+        "text": "Maize Website Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1824": {
+      "custom": {
+        "text": "WEB DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1822": {
+      "custom": {
+        "text": "View all"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image472": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/warrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image473": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/project3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1826": {
+      "custom": {
+        "text": "GorillaX Branding"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1827": {
+      "custom": {
+        "text": "BRANDING"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1825": {
+      "custom": {
+        "text": "View all"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image474": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/warrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image475": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/project4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1829": {
+      "custom": {
+        "text": "Joggr Website Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1830": {
+      "custom": {
+        "text": "WEB DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1828": {
+      "custom": {
+        "text": "View all"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image476": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/warrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image477": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/project5.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link323": {
+      "custom": {
+        "text": "Style Guide",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link324": {
+      "custom": {
+        "text": "Instructions",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link325": {
+      "custom": {
+        "text": "Image License Info",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1842": {
+      "custom": {
+        "text": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1843": {
+      "custom": {
+        "text": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1844": {
+      "custom": {
+        "text": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link326": {
+      "custom": {
+        "text": "Changelog",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1845": {
+      "custom": {
+        "text": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link327": {
+      "custom": {
+        "text": "Weflow",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1846": {
+      "custom": {
+        "text": ". Powered by"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link328": {
+      "custom": {
+        "text": "Conversionflow",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1847": {
+      "custom": {
+        "text": "© All rights reserved. "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1831": {
+      "custom": {
+        "text": "Contact"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1832": {
+      "custom": {
+        "text": "Driblle"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://dribbble.com/",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1833": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1834": {
+      "custom": {
+        "text": "Twitter"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://twitter.com/home",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1835": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1836": {
+      "custom": {
+        "text": "Experience"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Experience",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1837": {
+      "custom": {
+        "text": "Instagram"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://www.instagram.com/",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1838": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1839": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1841": {
       "custom": {
         "text": "4353 Delaware Avenue, San Francisco, USA"
       },
@@ -3485,7 +4246,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image280": {
+    "Image479": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/flogo.svg"
@@ -3501,7 +4262,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox871": {
+    "TextBox1840": {
       "custom": {
         "text": "hi@thefolio.com"
       },
@@ -3509,7 +4270,7 @@ const desktopModeProps = {
         "onClick": []
       }
     },
-    "Image279": {
+    "Image478": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/mailIco.svg"
@@ -3522,7 +4283,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox879": {
+    "TextBox1848": {
       "custom": {
         "text": "Let's get on a call."
       },
@@ -3538,7 +4299,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox880": {
+    "TextBox1849": {
       "custom": {
         "text": "Ready to make something kickass?"
       },
@@ -13413,7 +14174,967 @@ const desktopModeProps = {
         ]
       }
     }
-  }
+  },
+  "soulful-rebrand": {},
+  "datadash-product-design": {
+    "Flex1729": {
+      "callbacks": {}
+    },
+    "Flex1728": {
+      "callbacks": {}
+    },
+    "Flex1726": {
+      "callbacks": {}
+    },
+    "Flex1723": {
+      "callbacks": {}
+    },
+    "Flex1719": {
+      "callbacks": {}
+    },
+    "Flex1720": {
+      "callbacks": {}
+    },
+    "Flex1721": {
+      "callbacks": {}
+    },
+    "Flex1724": {
+      "callbacks": {}
+    },
+    "Flex1722": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "mailto:hi@folio.com?subject=Email",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "Flex1727": {
+      "callbacks": {}
+    },
+    "Flex1750": {
+      "callbacks": {}
+    },
+    "Flex1747": {
+      "callbacks": {}
+    },
+    "Flex1744": {
+      "callbacks": {}
+    },
+    "Flex1741": {
+      "callbacks": {}
+    },
+    "Flex1739": {
+      "callbacks": {}
+    },
+    "Flex1740": {
+      "callbacks": {}
+    },
+    "Flex1736": {
+      "callbacks": {}
+    },
+    "Flex1737": {
+      "callbacks": {}
+    },
+    "Flex1730": {
+      "callbacks": {}
+    },
+    "Flex1731": {
+      "callbacks": {}
+    },
+    "Flex1732": {
+      "callbacks": {}
+    },
+    "Flex1738": {
+      "callbacks": {}
+    },
+    "Flex1733": {
+      "callbacks": {}
+    },
+    "Flex1734": {
+      "callbacks": {}
+    },
+    "Flex1735": {
+      "callbacks": {}
+    },
+    "Flex1748": {
+      "callbacks": {}
+    },
+    "Flex1749": {
+      "callbacks": {}
+    },
+    "Flex1745": {
+      "callbacks": {}
+    },
+    "Flex1742": {
+      "callbacks": {}
+    },
+    "Flex1743": {
+      "callbacks": {}
+    },
+    "Flex1746": {
+      "callbacks": {}
+    },
+    "Flex1758": {
+      "callbacks": {}
+    },
+    "Flex1757": {
+      "callbacks": {}
+    },
+    "Flex1756": {
+      "callbacks": {}
+    },
+    "Flex1754": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "Menu28": {
+      "custom": {
+        "open": false,
+        "iconHeight": 24,
+        "iconWidth": 24,
+        "gap": "",
+        "alignRight": true
+      },
+      "callbacks": {
+        "onClick": []
+      }
+    },
+    "Flex1755": {
+      "callbacks": {}
+    },
+    "Flex1753": {
+      "callbacks": {}
+    },
+    "Flex1752": {
+      "callbacks": {}
+    },
+    "Flex1751": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1921": {
+      "custom": {
+        "text": "Contact"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1922": {
+      "custom": {
+        "text": "Driblle"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://dribbble.com/",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1923": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1924": {
+      "custom": {
+        "text": "Twitter"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://twitter.com/home",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1925": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1926": {
+      "custom": {
+        "text": "Experience"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Experience",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1927": {
+      "custom": {
+        "text": "Instagram"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://www.instagram.com/",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1928": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1929": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1931": {
+      "custom": {
+        "text": "4353 Delaware Avenue, San Francisco, USA"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image493": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/flogo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1930": {
+      "custom": {
+        "text": "hi@thefolio.com"
+      },
+      "callbacks": {
+        "onClick": []
+      }
+    },
+    "Image492": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/mailIco.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1938": {
+      "custom": {
+        "text": "Let's get on a call."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "tel:+889-776-899",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1939": {
+      "custom": {
+        "text": "Ready to make something kickass?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image494": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/carrrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1953": {
+      "custom": {
+        "text": "Next Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1954": {
+      "custom": {
+        "text": "A little something and a great pain from him to us. And that whosoever shall receive it shall come with labor. The distinction, or what the accusers like, does not matter. That is the pleasure which the flexibility of accepting the pains from the pleasure of repudiating. That he was laborious but a pleasure, or"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1955": {
+      "custom": {
+        "text": "Dissolved by pleasures and pleasures, the pain of which you owe here results in a laborious one"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1956": {
+      "custom": {
+        "text": "What we can do is to bear those things"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1957": {
+      "custom": {
+        "text": "They are among the accusers"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1958": {
+      "custom": {
+        "text": "And even from where no one. But he accepts that"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1959": {
+      "custom": {
+        "text": "The distinction, or what the accusers like, does not matter"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1960": {
+      "custom": {
+        "text": "We can make it convenient. Where is the debt option is most times to. He repels, for nothing is repulsed."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1961": {
+      "custom": {
+        "text": "Let him be repulsed by those who have softened those times. And even from where no one. But he accepts that. They are in the accusers when they are in the rejection of things or. There is pleasure from there is pleasure from wise times. From the pleasures of things I want to reveal something to those who know nothing."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1962": {
+      "custom": {
+        "text": "The distinction, or what the accusers like , does not matter. That is the pleasure which the flexibility of accepting the pains from the pleasure of repudiating. That he was laborious but a pleasure, or"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1963": {
+      "custom": {
+        "text": "We can make it convenient. Where is the debt option is most times to. He repels, for nothing is asperated. And even from where no one. But he accepts that."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1952": {
+      "custom": {
+        "text": "Because they really are. The very flight of them. It is difficult to avoid the option and to distinguish the great services."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1940": {
+      "custom": {
+        "text": "And even from where no one. But he accepts that."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1941": {
+      "custom": {
+        "text": "1. "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1942": {
+      "custom": {
+        "text": "2."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1943": {
+      "custom": {
+        "text": "We can make it convenient. Where is the debt option is most times to."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1944": {
+      "custom": {
+        "text": "3."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1945": {
+      "custom": {
+        "text": "That he was laborious but a pleasure, or"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1946": {
+      "custom": {
+        "text": "That he was laborious but a pleasure, or"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1947": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1948": {
+      "custom": {
+        "text": "We can make it convenient. Where is the debt option is most times to."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1949": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1950": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1951": {
+      "custom": {
+        "text": "And even from where no one. But he accepts that."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image495": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/project2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1964": {
+      "custom": {
+        "text": "Product Designer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1965": {
+      "custom": {
+        "text": " My Role"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1966": {
+      "custom": {
+        "text": "Timeline"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1967": {
+      "custom": {
+        "text": "July-Aug 2020"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1968": {
+      "custom": {
+        "text": "PRODUCT DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1969": {
+      "custom": {
+        "text": "Datadash Product design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image498": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1976": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1977": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1978": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1979": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1975": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image497": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1971": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#About",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1972": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Blog"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1973": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox1974": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "/#Services",
+              "target": "_self"
+            }
+          }
+        ]
+      }
+    },
+    "Image496": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/blackArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1970": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/BookCall"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "maize-website-design": {},
+  "gorillaX-branding": {},
+  "joggr-website-design": {}
 }};
 
 useStore.setState(desktopModeProps);

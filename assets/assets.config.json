@@ -103,5 +103,8 @@
   },
   "darrow.svg": {
     "mime": "image/svg+xml"
+  },
+  "carrrow.svg": {
+    "mime": "image/svg+xml"
   }
 }

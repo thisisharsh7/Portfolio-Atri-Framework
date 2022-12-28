@@ -5,7 +5,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { subscribeInternalNavigation } from "../utils/navigate";
 import {fetchPageProps} from "../utils/fetchPageProps"
 import { Flex as Flex3 } from "@atrilabs/react-component-manifests/src/manifests/Flex/Flex.tsx";
-import { Menu as Menu2 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
+import { Menu as Menu3 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
 import { Input } from "@atrilabs/react-component-manifests/src/manifests/Input/Input.tsx";
 import { TextBox as TextBox3 } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Image as Image3 } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
@@ -342,7 +342,7 @@ const TextBox929Cb = useTextBox929Cb()
 <Image3 className="p-BookCall Image289 bpt" {...Image289Props} {...Image289Cb} {...Image289IoProps}/>
 </Flex3>
 </Flex3>
-<Menu2 className="p-BookCall Menu17 bpt" {...Menu17Props} {...Menu17Cb} {...Menu17IoProps}>
+<Menu3 className="p-BookCall Menu17 bpt" {...Menu17Props} {...Menu17Cb} {...Menu17IoProps}>
 <Flex3 className="p-BookCall Flex993 bpt" {...Flex993Props} {...Flex993Cb} {...Flex993IoProps}>
 <Flex3 className="p-BookCall Flex991 bpt" {...Flex991Props} {...Flex991Cb} {...Flex991IoProps}>
 <Flex3 className="p-BookCall Flex990 bpt" {...Flex990Props} {...Flex990Cb} {...Flex990IoProps}>
@@ -357,7 +357,7 @@ const TextBox929Cb = useTextBox929Cb()
 </Flex3>
 </Flex3>
 </Flex3>
-</Menu2>
+</Menu3>
 </Flex3>
 </Flex3>
 <Flex3 className="p-BookCall Flex419 bpt" {...Flex419Props} {...Flex419Cb} {...Flex419IoProps}>

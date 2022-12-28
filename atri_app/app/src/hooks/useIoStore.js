@@ -11,7 +11,12 @@ const useIoStore = create((set) => {
   "free-website-tools": {},
   "logo-design-trends-to-avoid": {},
   "best-UI-design-tools": {},
-  "pic": {}
+  "pic": {},
+  "soulful-rebrand": {},
+  "datadash-product-design": {},
+  "maize-website-design": {},
+  "gorillaX-branding": {},
+  "joggr-website-design": {}
 }});
 
 export default useIoStore;

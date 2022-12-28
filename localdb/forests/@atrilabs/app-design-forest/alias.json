@@ -1,8 +1,8 @@
 {
-  "Flex": 1564,
-  "TextBox": 1759,
-  "Image": 439,
-  "Link": 322,
+  "Flex": 1915,
+  "TextBox": 2197,
+  "Image": 526,
+  "Link": 346,
   "Icon": 27,
   "Accordion": 5,
   "Testimonial": 1,
@@ -13,7 +13,7 @@
   "Button": 2,
   "Input": 9,
   "Modal": 1,
-  "Menu": 24,
+  "Menu": 32,
   "VerticalMenu": 1,
   "Dropdown": 1,
   "Breadcrumb": 1

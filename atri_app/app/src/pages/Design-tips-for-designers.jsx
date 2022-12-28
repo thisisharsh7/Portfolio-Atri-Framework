@@ -5,7 +5,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { subscribeInternalNavigation } from "../utils/navigate";
 import {fetchPageProps} from "../utils/fetchPageProps"
 import { Flex as Flex4 } from "@atrilabs/react-component-manifests/src/manifests/Flex/Flex.tsx";
-import { Menu as Menu3 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
+import { Menu as Menu4 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
 import { Link as Link4 } from "@atrilabs/react-component-manifests/src/manifests/Link/Link.tsx";
 import { TextBox as TextBox4 } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Image as Image4 } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
@@ -518,7 +518,7 @@ const TextBox1646Cb = useTextBox1646Cb()
 <Image4 className="p-design-tips-for-designers Image337 bpt" {...Image337Props} {...Image337Cb} {...Image337IoProps}/>
 </Flex4>
 </Flex4>
-<Menu3 className="p-design-tips-for-designers Menu21 bpt" {...Menu21Props} {...Menu21Cb} {...Menu21IoProps}>
+<Menu4 className="p-design-tips-for-designers Menu21 bpt" {...Menu21Props} {...Menu21Cb} {...Menu21IoProps}>
 <Flex4 className="p-design-tips-for-designers Flex1203 bpt" {...Flex1203Props} {...Flex1203Cb} {...Flex1203IoProps}>
 <Flex4 className="p-design-tips-for-designers Flex1201 bpt" {...Flex1201Props} {...Flex1201Cb} {...Flex1201IoProps}>
 <Flex4 className="p-design-tips-for-designers Flex1200 bpt" {...Flex1200Props} {...Flex1200Cb} {...Flex1200IoProps}>
@@ -533,7 +533,7 @@ const TextBox1646Cb = useTextBox1646Cb()
 </Flex4>
 </Flex4>
 </Flex4>
-</Menu3>
+</Menu4>
 </Flex4>
 </Flex4>
 <Flex4 className="p-design-tips-for-designers Flex1198 bpt" {...Flex1198Props} {...Flex1198Cb} {...Flex1198IoProps}>

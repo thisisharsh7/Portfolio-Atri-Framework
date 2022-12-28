@@ -1,0 +1,24 @@
+.p-Projects.TextBox1784 ,
+.p-Projects.TextBox1821 ,
+.p-Projects.TextBox1824 ,
+.p-Projects.TextBox1827 ,
+.p-Projects.TextBox1830 {
+    letter-spacing: 4px;
+    background-image: linear-gradient(
+      108deg,
+      #b16cea 8%,
+      #ff5e69 40%,
+      #ff8a56 77%,
+      #ffa84b 91%
+    );
+}
+.p-Projects.TextBox1848 {
+    background-image: linear-gradient(
+      108deg,
+      #b16cea 8%,
+      #ff5e69 40%,
+      #ff8a56 77%,
+      #ffa84b 91%
+    );
+}
+

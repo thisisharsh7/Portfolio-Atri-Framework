@@ -1,41 +1,73 @@
-button.accordion{
+button.accordion {
+  color: white;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  width: 100%;
+  gap: 10px;
+  padding-bottom: 3em;
+  padding-top: 3em;
+  font-size: 1em;
+  padding-left: 0px;
+}
+.p-Home .Accordion5,
+.p-Home .Accordion3 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.243);
+}
+p.accordion-title {
+  font-weight: 400;
+  font-size: 2.4em;
+}
+div.accordion-content , button.accordion:hover,
+.active , div.accordion-text , button.accordion {
     background-color: black;
-    color:white;
-    flex-direction: row-reverse;
-    justify-content: space-between;
-    width: 100%;
-    gap: 10px;
-    padding-bottom: 30px;
-    padding-top: 30px;
-    
 }
-.p-Home .Accordion5 , .p-Home .Accordion3{
-    border-bottom: 1px solid rgba(255, 255, 255, 0.243);
+div.accordion-text {
+  padding-top: 0px;
+  font-size: 1.8em;
+  font-weight: 400;
+  padding-left: 0.8em;
 }
-p.accordion-title{
-    font-size: 24px;
-    font-weight: 400;
+.p-Home.TextBox86,
+.p-Home.TextBox119,
+.p-Home.TextBox86,
+.p-Home.TextBox137,
+.p-Home.TextBox165,
+.p-Home.TextBox209,
+.p-Home.TextBox214,
+.p-Home.TextBox1742,
+.p-Home.TextBox1757,
+.p-Home.TextBox1754,
+.p-Home.TextBox1745,
+.p-Home.TextBox233,
+.p-Home.TextBox236,
+.p-Home.TextBox239,
+.p-Home.TextBox242,
+.p-Home.TextBox126 {
+  letter-spacing: 4px;
+  background-image: linear-gradient(
+    108deg,
+    #b16cea 8%,
+    #ff5e69 40%,
+    #ff8a56 77%,
+    #ffa84b 91%
+  );
 }
-div.accordion-text{
-    font-size: 20px;
-    font-weight: 400;
-    background-color: black;
-    padding-left: 30px;
+.p-Home.TextBox82,
+.p-Home.TextBox4,
+.p-Home.TextBox731,
+.p-Home.TextBox732 {
+  background-image: linear-gradient(
+    108deg,
+    #b16cea 8%,
+    #ff5e69 40%,
+    #ff8a56 77%,
+    #ffa84b 91%
+  );
 }
-button.accordion:hover , .active{
-    background-color: black;
-
-}
- .p-Home.TextBox86 , .p-Home.TextBox119  , .p-Home.TextBox86 , .p-Home.TextBox137, .p-Home.TextBox165 , .p-Home.TextBox209 , .p-Home.TextBox214 ,.p-Home.TextBox1742 , .p-Home.TextBox1757,      .p-Home.TextBox1754 , .p-Home.TextBox1745 , .p-Home.TextBox233 , .p-Home.TextBox236 , .p-Home.TextBox239 , .p-Home.TextBox242 , .p-Home.TextBox126   {
-    letter-spacing: 4px;
-    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
-}
-.p-Home.TextBox82 , .p-Home.TextBox4 , .p-Home.TextBox731 ,  .p-Home.TextBox732 {
-    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
-}
-.p-Home .Flex827:hover , .p-Home .Flex866:hover{
-    padding: 0px;
-    margin-top: 8px;
-    transition: all 0.3s;
-    margin-left: 8px;
+.p-Home .Flex827:hover,
+.p-Home .Flex866:hover {
+  padding: 0px;
+  margin-top: 8px;
+  transition: all 0.3s;
+  margin-left: 8px;
 }
