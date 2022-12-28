@@ -51,5 +51,7 @@
   },
   "publicUrlAssetMap": {
     "/app-assets": "..\\assets"
-  }
+  },
+  "organizationName": "thisisharsh7",
+  "projectName": "Portfolio-Atri-Framework"
 }
