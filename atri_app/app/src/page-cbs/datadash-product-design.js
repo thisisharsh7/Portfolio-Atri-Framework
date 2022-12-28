@@ -915,7 +915,14 @@ export function useTextBox1963Cb() {
 export function useFlex1739Cb() {
 	const onClick = useCallback(callbackFactory("Flex1739", "datadash-product-design", "/Projects/datadash-product-design", "onClick", 
 			{
-  "handlers": [],
+  "handlers": [
+    {
+      "navigate": {
+        "type": "internal",
+        "url": "/Projects/maize-website-design"
+      }
+    }
+  ],
   "actions": [
     {
       "type": "do_nothing"

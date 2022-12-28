@@ -28090,5 +28090,27 @@
       }
     },
     "id": "57bdcd9a-f628-4158-8ad4-90533831c4c8"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": "transparent"
+        }
+      }
+    },
+    "id": "6623ba2e-9048-482b-86a1-7e3147898d27"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": ""
+        }
+      }
+    },
+    "id": "6623ba2e-9048-482b-86a1-7e3147898d27"
   }
 ]

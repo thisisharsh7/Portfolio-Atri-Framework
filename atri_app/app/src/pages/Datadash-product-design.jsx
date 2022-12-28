@@ -4,10 +4,10 @@ import useIoStore from "../hooks/useIoStore";
 import { useNavigate, useLocation } from "react-router-dom";
 import { subscribeInternalNavigation } from "../utils/navigate";
 import {fetchPageProps} from "../utils/fetchPageProps"
-import { Flex as Flex9 } from "@atrilabs/react-component-manifests/src/manifests/Flex/Flex.tsx";
-import { Menu as Menu9 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
-import { TextBox as TextBox9 } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
-import { Image as Image10 } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
+import { Flex as Flex10 } from "@atrilabs/react-component-manifests/src/manifests/Flex/Flex.tsx";
+import { Menu as Menu10 } from "@atrilabs/react-component-manifests/src/manifests/Menu/Menu.tsx";
+import { TextBox as TextBox10 } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
+import { Image as Image11 } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
 import { useFlex1729Cb, useFlex1728Cb, useFlex1726Cb, useFlex1723Cb, useFlex1719Cb, useFlex1720Cb, useFlex1721Cb, useFlex1724Cb, useFlex1722Cb, useFlex1727Cb, useFlex1750Cb, useFlex1747Cb, useFlex1744Cb, useFlex1741Cb, useFlex1739Cb, useFlex1740Cb, useFlex1736Cb, useFlex1737Cb, useFlex1730Cb, useFlex1731Cb, useFlex1732Cb, useFlex1738Cb, useFlex1733Cb, useFlex1734Cb, useFlex1735Cb, useFlex1748Cb, useFlex1749Cb, useFlex1745Cb, useFlex1742Cb, useFlex1743Cb, useFlex1746Cb, useFlex1758Cb, useFlex1757Cb, useFlex1756Cb, useFlex1754Cb, useMenu28Cb, useFlex1755Cb, useFlex1753Cb, useFlex1752Cb, useFlex1751Cb, useTextBox1921Cb, useTextBox1922Cb, useTextBox1923Cb, useTextBox1924Cb, useTextBox1925Cb, useTextBox1926Cb, useTextBox1927Cb, useTextBox1928Cb, useTextBox1929Cb, useTextBox1931Cb, useImage493Cb, useTextBox1930Cb, useImage492Cb, useTextBox1938Cb, useTextBox1939Cb, useImage494Cb, useTextBox1953Cb, useTextBox1954Cb, useTextBox1955Cb, useTextBox1956Cb, useTextBox1957Cb, useTextBox1958Cb, useTextBox1959Cb, useTextBox1960Cb, useTextBox1961Cb, useTextBox1962Cb, useTextBox1963Cb, useTextBox1952Cb, useTextBox1940Cb, useTextBox1941Cb, useTextBox1942Cb, useTextBox1943Cb, useTextBox1944Cb, useTextBox1945Cb, useTextBox1946Cb, useTextBox1947Cb, useTextBox1948Cb, useTextBox1949Cb, useTextBox1950Cb, useTextBox1951Cb, useImage495Cb, useTextBox1964Cb, useTextBox1965Cb, useTextBox1966Cb, useTextBox1967Cb, useTextBox1968Cb, useTextBox1969Cb, useImage498Cb, useTextBox1976Cb, useTextBox1977Cb, useTextBox1978Cb, useTextBox1979Cb, useTextBox1975Cb, useImage497Cb, useTextBox1971Cb, useTextBox1972Cb, useTextBox1973Cb, useTextBox1974Cb, useImage496Cb, useTextBox1970Cb } from "../page-cbs/datadash-product-design";
 import "../page-css/datadash-product-design.css";
 import "../custom/datadash-product-design";
@@ -330,145 +330,145 @@ const TextBox1970IoProps = useIoStore((state)=>state["datadash-product-design"][
 const TextBox1970Cb = useTextBox1970Cb()
 
   return (<>
-  <Flex9 className="p-datadash-product-design Flex1758 bpt" {...Flex1758Props} {...Flex1758Cb} {...Flex1758IoProps}>
-<Flex9 className="p-datadash-product-design Flex1757 bpt" {...Flex1757Props} {...Flex1757Cb} {...Flex1757IoProps}>
-<Image10 className="p-datadash-product-design Image498 bpt" {...Image498Props} {...Image498Cb} {...Image498IoProps}/>
-<Flex9 className="p-datadash-product-design Flex1756 bpt" {...Flex1756Props} {...Flex1756Cb} {...Flex1756IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1979 bpt" {...TextBox1979Props} {...TextBox1979Cb} {...TextBox1979IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1976 bpt" {...TextBox1976Props} {...TextBox1976Cb} {...TextBox1976IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1977 bpt" {...TextBox1977Props} {...TextBox1977Cb} {...TextBox1977IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1978 bpt" {...TextBox1978Props} {...TextBox1978Cb} {...TextBox1978IoProps}/>
-<Flex9 className="p-datadash-product-design Flex1754 bpt" {...Flex1754Props} {...Flex1754Cb} {...Flex1754IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1975 bpt" {...TextBox1975Props} {...TextBox1975Cb} {...TextBox1975IoProps}/>
-<Image10 className="p-datadash-product-design Image497 bpt" {...Image497Props} {...Image497Cb} {...Image497IoProps}/>
-</Flex9>
-</Flex9>
-<Menu9 className="p-datadash-product-design Menu28 bpt" {...Menu28Props} {...Menu28Cb} {...Menu28IoProps}>
-<Flex9 className="p-datadash-product-design Flex1755 bpt" {...Flex1755Props} {...Flex1755Cb} {...Flex1755IoProps}>
-<Flex9 className="p-datadash-product-design Flex1753 bpt" {...Flex1753Props} {...Flex1753Cb} {...Flex1753IoProps}>
-<Flex9 className="p-datadash-product-design Flex1752 bpt" {...Flex1752Props} {...Flex1752Cb} {...Flex1752IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1971 bpt" {...TextBox1971Props} {...TextBox1971Cb} {...TextBox1971IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1974 bpt" {...TextBox1974Props} {...TextBox1974Cb} {...TextBox1974IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1973 bpt" {...TextBox1973Props} {...TextBox1973Cb} {...TextBox1973IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1972 bpt" {...TextBox1972Props} {...TextBox1972Cb} {...TextBox1972IoProps}/>
-<Flex9 className="p-datadash-product-design Flex1751 bpt" {...Flex1751Props} {...Flex1751Cb} {...Flex1751IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1970 bpt" {...TextBox1970Props} {...TextBox1970Cb} {...TextBox1970IoProps}/>
-<Image10 className="p-datadash-product-design Image496 bpt" {...Image496Props} {...Image496Cb} {...Image496IoProps}/>
-</Flex9>
-</Flex9>
-</Flex9>
-</Flex9>
-</Menu9>
-</Flex9>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1750 bpt" {...Flex1750Props} {...Flex1750Cb} {...Flex1750IoProps}>
-<Flex9 className="p-datadash-product-design Flex1749 bpt" {...Flex1749Props} {...Flex1749Cb} {...Flex1749IoProps}>
-<Flex9 className="p-datadash-product-design Flex1746 bpt" {...Flex1746Props} {...Flex1746Cb} {...Flex1746IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1968 bpt" {...TextBox1968Props} {...TextBox1968Cb} {...TextBox1968IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1969 bpt" {...TextBox1969Props} {...TextBox1969Cb} {...TextBox1969IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1745 bpt" {...Flex1745Props} {...Flex1745Cb} {...Flex1745IoProps}>
-<Flex9 className="p-datadash-product-design Flex1742 bpt" {...Flex1742Props} {...Flex1742Cb} {...Flex1742IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1965 bpt" {...TextBox1965Props} {...TextBox1965Cb} {...TextBox1965IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1964 bpt" {...TextBox1964Props} {...TextBox1964Cb} {...TextBox1964IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1743 bpt" {...Flex1743Props} {...Flex1743Cb} {...Flex1743IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1966 bpt" {...TextBox1966Props} {...TextBox1966Cb} {...TextBox1966IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1967 bpt" {...TextBox1967Props} {...TextBox1967Cb} {...TextBox1967IoProps}/>
-</Flex9>
-</Flex9>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1748 bpt" {...Flex1748Props} {...Flex1748Cb} {...Flex1748IoProps}>
-<Image10 className="p-datadash-product-design Image495 bpt" {...Image495Props} {...Image495Cb} {...Image495IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1747 bpt" {...Flex1747Props} {...Flex1747Cb} {...Flex1747IoProps}>
-<Flex9 className="p-datadash-product-design Flex1744 bpt" {...Flex1744Props} {...Flex1744Cb} {...Flex1744IoProps}>
-<Flex9 className="p-datadash-product-design Flex1741 bpt" {...Flex1741Props} {...Flex1741Cb} {...Flex1741IoProps}>
-<Flex9 className="p-datadash-product-design Flex1740 bpt" {...Flex1740Props} {...Flex1740Cb} {...Flex1740IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1955 bpt" {...TextBox1955Props} {...TextBox1955Cb} {...TextBox1955IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1954 bpt" {...TextBox1954Props} {...TextBox1954Cb} {...TextBox1954IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1956 bpt" {...TextBox1956Props} {...TextBox1956Cb} {...TextBox1956IoProps}/>
-<Flex9 className="p-datadash-product-design Flex1736 bpt" {...Flex1736Props} {...Flex1736Cb} {...Flex1736IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1952 bpt" {...TextBox1952Props} {...TextBox1952Cb} {...TextBox1952IoProps}/>
-</Flex9>
-<TextBox9 className="p-datadash-product-design TextBox1960 bpt" {...TextBox1960Props} {...TextBox1960Cb} {...TextBox1960IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1961 bpt" {...TextBox1961Props} {...TextBox1961Cb} {...TextBox1961IoProps}/>
-<Flex9 className="p-datadash-product-design Flex1738 bpt" {...Flex1738Props} {...Flex1738Cb} {...Flex1738IoProps}>
-<Flex9 className="p-datadash-product-design Flex1735 bpt" {...Flex1735Props} {...Flex1735Cb} {...Flex1735IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1950 bpt" {...TextBox1950Props} {...TextBox1950Cb} {...TextBox1950IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1951 bpt" {...TextBox1951Props} {...TextBox1951Cb} {...TextBox1951IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1734 bpt" {...Flex1734Props} {...Flex1734Cb} {...Flex1734IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1949 bpt" {...TextBox1949Props} {...TextBox1949Cb} {...TextBox1949IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1948 bpt" {...TextBox1948Props} {...TextBox1948Cb} {...TextBox1948IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1733 bpt" {...Flex1733Props} {...Flex1733Cb} {...Flex1733IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1947 bpt" {...TextBox1947Props} {...TextBox1947Cb} {...TextBox1947IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1946 bpt" {...TextBox1946Props} {...TextBox1946Cb} {...TextBox1946IoProps}/>
-</Flex9>
-</Flex9>
-<TextBox9 className="p-datadash-product-design TextBox1957 bpt" {...TextBox1957Props} {...TextBox1957Cb} {...TextBox1957IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1962 bpt" {...TextBox1962Props} {...TextBox1962Cb} {...TextBox1962IoProps}/>
-<Flex9 className="p-datadash-product-design Flex1737 bpt" {...Flex1737Props} {...Flex1737Cb} {...Flex1737IoProps}>
-<Flex9 className="p-datadash-product-design Flex1730 bpt" {...Flex1730Props} {...Flex1730Cb} {...Flex1730IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1941 bpt" {...TextBox1941Props} {...TextBox1941Cb} {...TextBox1941IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1940 bpt" {...TextBox1940Props} {...TextBox1940Cb} {...TextBox1940IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1731 bpt" {...Flex1731Props} {...Flex1731Cb} {...Flex1731IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1942 bpt" {...TextBox1942Props} {...TextBox1942Cb} {...TextBox1942IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1943 bpt" {...TextBox1943Props} {...TextBox1943Cb} {...TextBox1943IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1732 bpt" {...Flex1732Props} {...Flex1732Cb} {...Flex1732IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1944 bpt" {...TextBox1944Props} {...TextBox1944Cb} {...TextBox1944IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1945 bpt" {...TextBox1945Props} {...TextBox1945Cb} {...TextBox1945IoProps}/>
-</Flex9>
-</Flex9>
-<TextBox9 className="p-datadash-product-design TextBox1958 bpt" {...TextBox1958Props} {...TextBox1958Cb} {...TextBox1958IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1963 bpt" {...TextBox1963Props} {...TextBox1963Cb} {...TextBox1963IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1959 bpt" {...TextBox1959Props} {...TextBox1959Cb} {...TextBox1959IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1739 bpt" {...Flex1739Props} {...Flex1739Cb} {...Flex1739IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1953 bpt" {...TextBox1953Props} {...TextBox1953Cb} {...TextBox1953IoProps}/>
-<Image10 className="p-datadash-product-design Image494 bpt" {...Image494Props} {...Image494Cb} {...Image494IoProps}/>
-</Flex9>
-</Flex9>
-</Flex9>
-</Flex9>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1729 bpt" {...Flex1729Props} {...Flex1729Cb} {...Flex1729IoProps}>
-<Flex9 className="p-datadash-product-design Flex1728 bpt" {...Flex1728Props} {...Flex1728Cb} {...Flex1728IoProps}>
-<Flex9 className="p-datadash-product-design Flex1727 bpt" {...Flex1727Props} {...Flex1727Cb} {...Flex1727IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1939 bpt" {...TextBox1939Props} {...TextBox1939Cb} {...TextBox1939IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1938 bpt" {...TextBox1938Props} {...TextBox1938Cb} {...TextBox1938IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1726 bpt" {...Flex1726Props} {...Flex1726Cb} {...Flex1726IoProps}>
-<Flex9 className="p-datadash-product-design Flex1724 bpt" {...Flex1724Props} {...Flex1724Cb} {...Flex1724IoProps}>
-<Image10 className="p-datadash-product-design Image493 bpt" {...Image493Props} {...Image493Cb} {...Image493IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1931 bpt" {...TextBox1931Props} {...TextBox1931Cb} {...TextBox1931IoProps}/>
-<Flex9 className="p-datadash-product-design Flex1722 bpt" {...Flex1722Props} {...Flex1722Cb} {...Flex1722IoProps}>
-<Image10 className="p-datadash-product-design Image492 bpt" {...Image492Props} {...Image492Cb} {...Image492IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1930 bpt" {...TextBox1930Props} {...TextBox1930Cb} {...TextBox1930IoProps}/>
-</Flex9>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1723 bpt" {...Flex1723Props} {...Flex1723Cb} {...Flex1723IoProps}>
-<Flex9 className="p-datadash-product-design Flex1719 bpt" {...Flex1719Props} {...Flex1719Cb} {...Flex1719IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1923 bpt" {...TextBox1923Props} {...TextBox1923Cb} {...TextBox1923IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1921 bpt" {...TextBox1921Props} {...TextBox1921Cb} {...TextBox1921IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1922 bpt" {...TextBox1922Props} {...TextBox1922Cb} {...TextBox1922IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1721 bpt" {...Flex1721Props} {...Flex1721Cb} {...Flex1721IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1929 bpt" {...TextBox1929Props} {...TextBox1929Cb} {...TextBox1929IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1928 bpt" {...TextBox1928Props} {...TextBox1928Cb} {...TextBox1928IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1927 bpt" {...TextBox1927Props} {...TextBox1927Cb} {...TextBox1927IoProps}/>
-</Flex9>
-<Flex9 className="p-datadash-product-design Flex1720 bpt" {...Flex1720Props} {...Flex1720Cb} {...Flex1720IoProps}>
-<TextBox9 className="p-datadash-product-design TextBox1926 bpt" {...TextBox1926Props} {...TextBox1926Cb} {...TextBox1926IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1925 bpt" {...TextBox1925Props} {...TextBox1925Cb} {...TextBox1925IoProps}/>
-<TextBox9 className="p-datadash-product-design TextBox1924 bpt" {...TextBox1924Props} {...TextBox1924Cb} {...TextBox1924IoProps}/>
-</Flex9>
-</Flex9>
-</Flex9>
-</Flex9>
-</Flex9>
+  <Flex10 className="p-datadash-product-design Flex1758 bpt" {...Flex1758Props} {...Flex1758Cb} {...Flex1758IoProps}>
+<Flex10 className="p-datadash-product-design Flex1757 bpt" {...Flex1757Props} {...Flex1757Cb} {...Flex1757IoProps}>
+<Image11 className="p-datadash-product-design Image498 bpt" {...Image498Props} {...Image498Cb} {...Image498IoProps}/>
+<Flex10 className="p-datadash-product-design Flex1756 bpt" {...Flex1756Props} {...Flex1756Cb} {...Flex1756IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1979 bpt" {...TextBox1979Props} {...TextBox1979Cb} {...TextBox1979IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1976 bpt" {...TextBox1976Props} {...TextBox1976Cb} {...TextBox1976IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1977 bpt" {...TextBox1977Props} {...TextBox1977Cb} {...TextBox1977IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1978 bpt" {...TextBox1978Props} {...TextBox1978Cb} {...TextBox1978IoProps}/>
+<Flex10 className="p-datadash-product-design Flex1754 bpt" {...Flex1754Props} {...Flex1754Cb} {...Flex1754IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1975 bpt" {...TextBox1975Props} {...TextBox1975Cb} {...TextBox1975IoProps}/>
+<Image11 className="p-datadash-product-design Image497 bpt" {...Image497Props} {...Image497Cb} {...Image497IoProps}/>
+</Flex10>
+</Flex10>
+<Menu10 className="p-datadash-product-design Menu28 bpt" {...Menu28Props} {...Menu28Cb} {...Menu28IoProps}>
+<Flex10 className="p-datadash-product-design Flex1755 bpt" {...Flex1755Props} {...Flex1755Cb} {...Flex1755IoProps}>
+<Flex10 className="p-datadash-product-design Flex1753 bpt" {...Flex1753Props} {...Flex1753Cb} {...Flex1753IoProps}>
+<Flex10 className="p-datadash-product-design Flex1752 bpt" {...Flex1752Props} {...Flex1752Cb} {...Flex1752IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1971 bpt" {...TextBox1971Props} {...TextBox1971Cb} {...TextBox1971IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1974 bpt" {...TextBox1974Props} {...TextBox1974Cb} {...TextBox1974IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1973 bpt" {...TextBox1973Props} {...TextBox1973Cb} {...TextBox1973IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1972 bpt" {...TextBox1972Props} {...TextBox1972Cb} {...TextBox1972IoProps}/>
+<Flex10 className="p-datadash-product-design Flex1751 bpt" {...Flex1751Props} {...Flex1751Cb} {...Flex1751IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1970 bpt" {...TextBox1970Props} {...TextBox1970Cb} {...TextBox1970IoProps}/>
+<Image11 className="p-datadash-product-design Image496 bpt" {...Image496Props} {...Image496Cb} {...Image496IoProps}/>
+</Flex10>
+</Flex10>
+</Flex10>
+</Flex10>
+</Menu10>
+</Flex10>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1750 bpt" {...Flex1750Props} {...Flex1750Cb} {...Flex1750IoProps}>
+<Flex10 className="p-datadash-product-design Flex1749 bpt" {...Flex1749Props} {...Flex1749Cb} {...Flex1749IoProps}>
+<Flex10 className="p-datadash-product-design Flex1746 bpt" {...Flex1746Props} {...Flex1746Cb} {...Flex1746IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1968 bpt" {...TextBox1968Props} {...TextBox1968Cb} {...TextBox1968IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1969 bpt" {...TextBox1969Props} {...TextBox1969Cb} {...TextBox1969IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1745 bpt" {...Flex1745Props} {...Flex1745Cb} {...Flex1745IoProps}>
+<Flex10 className="p-datadash-product-design Flex1742 bpt" {...Flex1742Props} {...Flex1742Cb} {...Flex1742IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1965 bpt" {...TextBox1965Props} {...TextBox1965Cb} {...TextBox1965IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1964 bpt" {...TextBox1964Props} {...TextBox1964Cb} {...TextBox1964IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1743 bpt" {...Flex1743Props} {...Flex1743Cb} {...Flex1743IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1966 bpt" {...TextBox1966Props} {...TextBox1966Cb} {...TextBox1966IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1967 bpt" {...TextBox1967Props} {...TextBox1967Cb} {...TextBox1967IoProps}/>
+</Flex10>
+</Flex10>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1748 bpt" {...Flex1748Props} {...Flex1748Cb} {...Flex1748IoProps}>
+<Image11 className="p-datadash-product-design Image495 bpt" {...Image495Props} {...Image495Cb} {...Image495IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1747 bpt" {...Flex1747Props} {...Flex1747Cb} {...Flex1747IoProps}>
+<Flex10 className="p-datadash-product-design Flex1744 bpt" {...Flex1744Props} {...Flex1744Cb} {...Flex1744IoProps}>
+<Flex10 className="p-datadash-product-design Flex1741 bpt" {...Flex1741Props} {...Flex1741Cb} {...Flex1741IoProps}>
+<Flex10 className="p-datadash-product-design Flex1740 bpt" {...Flex1740Props} {...Flex1740Cb} {...Flex1740IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1955 bpt" {...TextBox1955Props} {...TextBox1955Cb} {...TextBox1955IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1954 bpt" {...TextBox1954Props} {...TextBox1954Cb} {...TextBox1954IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1956 bpt" {...TextBox1956Props} {...TextBox1956Cb} {...TextBox1956IoProps}/>
+<Flex10 className="p-datadash-product-design Flex1736 bpt" {...Flex1736Props} {...Flex1736Cb} {...Flex1736IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1952 bpt" {...TextBox1952Props} {...TextBox1952Cb} {...TextBox1952IoProps}/>
+</Flex10>
+<TextBox10 className="p-datadash-product-design TextBox1960 bpt" {...TextBox1960Props} {...TextBox1960Cb} {...TextBox1960IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1961 bpt" {...TextBox1961Props} {...TextBox1961Cb} {...TextBox1961IoProps}/>
+<Flex10 className="p-datadash-product-design Flex1738 bpt" {...Flex1738Props} {...Flex1738Cb} {...Flex1738IoProps}>
+<Flex10 className="p-datadash-product-design Flex1735 bpt" {...Flex1735Props} {...Flex1735Cb} {...Flex1735IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1950 bpt" {...TextBox1950Props} {...TextBox1950Cb} {...TextBox1950IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1951 bpt" {...TextBox1951Props} {...TextBox1951Cb} {...TextBox1951IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1734 bpt" {...Flex1734Props} {...Flex1734Cb} {...Flex1734IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1949 bpt" {...TextBox1949Props} {...TextBox1949Cb} {...TextBox1949IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1948 bpt" {...TextBox1948Props} {...TextBox1948Cb} {...TextBox1948IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1733 bpt" {...Flex1733Props} {...Flex1733Cb} {...Flex1733IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1947 bpt" {...TextBox1947Props} {...TextBox1947Cb} {...TextBox1947IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1946 bpt" {...TextBox1946Props} {...TextBox1946Cb} {...TextBox1946IoProps}/>
+</Flex10>
+</Flex10>
+<TextBox10 className="p-datadash-product-design TextBox1957 bpt" {...TextBox1957Props} {...TextBox1957Cb} {...TextBox1957IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1962 bpt" {...TextBox1962Props} {...TextBox1962Cb} {...TextBox1962IoProps}/>
+<Flex10 className="p-datadash-product-design Flex1737 bpt" {...Flex1737Props} {...Flex1737Cb} {...Flex1737IoProps}>
+<Flex10 className="p-datadash-product-design Flex1730 bpt" {...Flex1730Props} {...Flex1730Cb} {...Flex1730IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1941 bpt" {...TextBox1941Props} {...TextBox1941Cb} {...TextBox1941IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1940 bpt" {...TextBox1940Props} {...TextBox1940Cb} {...TextBox1940IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1731 bpt" {...Flex1731Props} {...Flex1731Cb} {...Flex1731IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1942 bpt" {...TextBox1942Props} {...TextBox1942Cb} {...TextBox1942IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1943 bpt" {...TextBox1943Props} {...TextBox1943Cb} {...TextBox1943IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1732 bpt" {...Flex1732Props} {...Flex1732Cb} {...Flex1732IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1944 bpt" {...TextBox1944Props} {...TextBox1944Cb} {...TextBox1944IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1945 bpt" {...TextBox1945Props} {...TextBox1945Cb} {...TextBox1945IoProps}/>
+</Flex10>
+</Flex10>
+<TextBox10 className="p-datadash-product-design TextBox1958 bpt" {...TextBox1958Props} {...TextBox1958Cb} {...TextBox1958IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1963 bpt" {...TextBox1963Props} {...TextBox1963Cb} {...TextBox1963IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1959 bpt" {...TextBox1959Props} {...TextBox1959Cb} {...TextBox1959IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1739 bpt" {...Flex1739Props} {...Flex1739Cb} {...Flex1739IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1953 bpt" {...TextBox1953Props} {...TextBox1953Cb} {...TextBox1953IoProps}/>
+<Image11 className="p-datadash-product-design Image494 bpt" {...Image494Props} {...Image494Cb} {...Image494IoProps}/>
+</Flex10>
+</Flex10>
+</Flex10>
+</Flex10>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1729 bpt" {...Flex1729Props} {...Flex1729Cb} {...Flex1729IoProps}>
+<Flex10 className="p-datadash-product-design Flex1728 bpt" {...Flex1728Props} {...Flex1728Cb} {...Flex1728IoProps}>
+<Flex10 className="p-datadash-product-design Flex1727 bpt" {...Flex1727Props} {...Flex1727Cb} {...Flex1727IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1939 bpt" {...TextBox1939Props} {...TextBox1939Cb} {...TextBox1939IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1938 bpt" {...TextBox1938Props} {...TextBox1938Cb} {...TextBox1938IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1726 bpt" {...Flex1726Props} {...Flex1726Cb} {...Flex1726IoProps}>
+<Flex10 className="p-datadash-product-design Flex1724 bpt" {...Flex1724Props} {...Flex1724Cb} {...Flex1724IoProps}>
+<Image11 className="p-datadash-product-design Image493 bpt" {...Image493Props} {...Image493Cb} {...Image493IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1931 bpt" {...TextBox1931Props} {...TextBox1931Cb} {...TextBox1931IoProps}/>
+<Flex10 className="p-datadash-product-design Flex1722 bpt" {...Flex1722Props} {...Flex1722Cb} {...Flex1722IoProps}>
+<Image11 className="p-datadash-product-design Image492 bpt" {...Image492Props} {...Image492Cb} {...Image492IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1930 bpt" {...TextBox1930Props} {...TextBox1930Cb} {...TextBox1930IoProps}/>
+</Flex10>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1723 bpt" {...Flex1723Props} {...Flex1723Cb} {...Flex1723IoProps}>
+<Flex10 className="p-datadash-product-design Flex1719 bpt" {...Flex1719Props} {...Flex1719Cb} {...Flex1719IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1923 bpt" {...TextBox1923Props} {...TextBox1923Cb} {...TextBox1923IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1921 bpt" {...TextBox1921Props} {...TextBox1921Cb} {...TextBox1921IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1922 bpt" {...TextBox1922Props} {...TextBox1922Cb} {...TextBox1922IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1721 bpt" {...Flex1721Props} {...Flex1721Cb} {...Flex1721IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1929 bpt" {...TextBox1929Props} {...TextBox1929Cb} {...TextBox1929IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1928 bpt" {...TextBox1928Props} {...TextBox1928Cb} {...TextBox1928IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1927 bpt" {...TextBox1927Props} {...TextBox1927Cb} {...TextBox1927IoProps}/>
+</Flex10>
+<Flex10 className="p-datadash-product-design Flex1720 bpt" {...Flex1720Props} {...Flex1720Cb} {...Flex1720IoProps}>
+<TextBox10 className="p-datadash-product-design TextBox1926 bpt" {...TextBox1926Props} {...TextBox1926Cb} {...TextBox1926IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1925 bpt" {...TextBox1925Props} {...TextBox1925Cb} {...TextBox1925IoProps}/>
+<TextBox10 className="p-datadash-product-design TextBox1924 bpt" {...TextBox1924Props} {...TextBox1924Cb} {...TextBox1924IoProps}/>
+</Flex10>
+</Flex10>
+</Flex10>
+</Flex10>
+</Flex10>
   </>);
 }
