@@ -9,8 +9,7 @@ font-size: 10px;
 .p-datadash-product-design.Flex1728 {
 display: flex;
 flex-direction: column;
-row-gap: 80px;
-width: 82%;
+
 max-width: 1215px;
 padding-top: 110px;
 padding-bottom: 90px;
@@ -115,6 +114,7 @@ cursor: pointer;
 align-items: center;
 row-gap: ;
 column-gap: 18px;
+color: ;
 }
 .p-datadash-product-design.Flex1740 {
 display: flex;
