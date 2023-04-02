@@ -109,7 +109,6 @@ color: ;
 }
 .p-datadash-product-design.Flex1740 {
 display: flex;
-width: ;
 flex-direction: column;
 row-gap: 32px;
 font-size: 10px;
@@ -134,12 +133,10 @@ row-gap: 11px;
 }
 .p-datadash-product-design.Flex1730 {
 display: flex;
-row-gap: ;
 column-gap: 10px;
 }
 .p-datadash-product-design.Flex1731 {
 display: flex;
-row-gap: ;
 column-gap: 10px;
 }
 .p-datadash-product-design.Flex1732 {
